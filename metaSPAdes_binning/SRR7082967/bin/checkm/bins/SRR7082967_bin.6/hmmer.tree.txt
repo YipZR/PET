@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_26_length_91070_cov_1.429819_92 -             48 Ribosomal_L11        PF00298.14    69    0.0013   13.8   0.0   1   1   3.3e-06    0.0014   13.7   0.0    25    54    10    39     4    44 0.88 # 89869 # 90012 # 1 # ID=1_92;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382
+NODE_614_length_14367_cov_1.527669_16 -            216 RNA_pol_Rpb1_4       PF05000.12   108     0.019    9.6   6.6   1   2   0.00017      0.07    7.9   0.7     7    72    85   154    78   161 0.79 # 9886 # 10533 # -1 # ID=8_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394
+NODE_614_length_14367_cov_1.527669_16 -            216 RNA_pol_Rpb1_4       PF05000.12   108     0.019    9.6   6.6   2   2    0.0018      0.76    4.5   0.4     2    37   170   205   169   213 0.83 # 9886 # 10533 # -1 # ID=8_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394
+NODE_382_length_19049_cov_1.357467_1  -            425 TIGR00344            TIGR00344    847  6.4e-168  555.2   0.1   1   1  3.4e-170  7.3e-168  555.0   0.1     1   420     8   425     8   425 0.97 # 1 # 1275 # -1 # ID=4_1;partial=10;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.417
+NODE_614_length_14367_cov_1.527669_15 -            124 TIGR00344            TIGR00344    847   2.8e-05   17.1   2.7   1   1   1.4e-07     3e-05   17.0   2.7   691   783    22   114    12   123 0.82 # 9463 # 9834 # -1 # ID=8_15;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368
+NODE_26_length_91070_cov_1.429819_76 -            422 TIGR00422            TIGR00422    863   1.6e-05   17.7   0.1   1   2    0.0075       3.2    0.1   0.0    46   113    10    76     2    81 0.70 # 73044 # 74309 # 1 # ID=1_76;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.408
+NODE_26_length_91070_cov_1.429819_76 -            422 TIGR00422            TIGR00422    863   1.6e-05   17.7   0.1   2   2   2.1e-07   8.9e-05   15.2   0.0   521   584   235   297   200   346 0.87 # 73044 # 74309 # 1 # ID=1_76;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.408
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/672df7c5-6bfb-4635-bdd7-518f23764e56
+# Target file:     ./checkm/bins/SRR7082967_bin.6/genes.faa
+# Option settings: hmmsearch --domtblout ./checkm/bins/SRR7082967_bin.6/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 4 /tmp/672df7c5-6bfb-4635-bdd7-518f23764e56 ./checkm/bins/SRR7082967_bin.6/genes.faa 
+# Current dir:     /data_1/yzr_data/MetaSpades/OUT/SRR7082967_1e5/bin
+# Date:            Sat Jun  3 19:56:15 2023
+# [ok]

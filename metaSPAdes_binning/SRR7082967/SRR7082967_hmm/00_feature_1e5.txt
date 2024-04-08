@@ -1,0 +1,6 @@
+NODE_551_length_15325_cov_2.305238_9 # 7632 # 8507 # 1 # ID=551_9;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.615
+NODE_1031_length_10147_cov_1.323852_3 # 1377 # 2279 # 1 # ID=1031_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.682
+NODE_1715_length_7044_cov_1.294058_5 # 5824 # 6606 # -1 # ID=1715_5;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.676
+NODE_3041_length_4564_cov_0.935993_2 # 910 # 1791 # -1 # ID=3041_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.650
+NODE_10681_length_1854_cov_0.433700_2 # 182 # 1258 # -1 # ID=10681_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.442
+NODE_12227_length_1692_cov_0.685623_2 # 96 # 1211 # 1 # ID=12227_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.465

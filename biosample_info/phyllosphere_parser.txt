@@ -1,0 +1,643 @@
+SAMN21246664	2020-06-08 	wheat field 	wheat leaf 	wheat penultimate leaf 	Denmark:Vridsloesemagle	Triticum aestivum 	55.68 N 12.29 E	Maturity stage 	Elixir 	4565 (4565)	500 leaves 	
+SAMN21246664	2020-06-08 	wheat field 	wheat leaf 	wheat penultimate leaf 	Denmark:Vridsloesemagle	Triticum aestivum 	55.68 N 12.29 E	Maturity stage 	Elixir 	4565 (4565)	500 leaves 	
+SAMN21246663	2020-06-08 	wheat field 	wheat leaf 	wheat flag leaf 	Denmark:Vridsloesemagle	Triticum aestivum 	55.68 N 12.29 E	Maturity stage 	Elixir 	4565 (4565)	500 leaves 	
+SAMN21246663	2020-06-08 	wheat field 	wheat leaf 	wheat flag leaf 	Denmark:Vridsloesemagle	Triticum aestivum 	55.68 N 12.29 E	Maturity stage 	Elixir 	4565 (4565)	500 leaves 	
+SAMN19164946	Laboratory 	synthetic community 	NA 	NA 	NA 	Meth community 	
+SAMN19164946	Laboratory 	synthetic community 	NA 	NA 	NA 	Meth community 	
+SAMN19164946	Laboratory 	synthetic community 	NA 	NA 	NA 	Meth community 	
+SAMN19164946	Laboratory 	synthetic community 	NA 	NA 	NA 	Meth community 	
+SAMN19164946	Laboratory 	synthetic community 	NA 	NA 	NA 	Meth community 	
+SAMEA3207710	2014-08 	marine salt marsh biome 	saline marsh 	spartina anglica leaf wash 	United Kingdom	metagenome 	Metagenomics of Spartina anglica phyllosphere 	SAPMGC 	2017-10-27 	2016-10-21 	ERC000012 	SAMEA3207710 	UNIVERSITY OF WARWICK 	UNIVERSITY OF WARWICK 	2017-10-27T17:02:41Z 	2016-10-21T09:32:55Z 	public 	SAPMGC 	air 	1 	52.965 	0.923 	Pyrosequencing (Illumina Metagenome sequencing) 	
+SAMEA3207709	2014-08 	marine salt marsh biome 	saline marsh 	spartina anglica leaf wash 	United Kingdom	metagenome 	Metagenomics of Spartina anglica phyllosphere 	SAPMG3 	2017-10-27 	2016-10-21 	ERC000012 	SAMEA3207709 	UNIVERSITY OF WARWICK 	UNIVERSITY OF WARWICK 	2017-10-27T17:02:41Z 	2016-10-21T09:32:55Z 	public 	SAPMG3 	air 	1 	52.965 	0.923 	Pyrosequencing (Illumina Metagenome sequencing) 	
+SAMEA3207708	2014-08 	marine salt marsh biome 	saline marsh 	spartina anglica leaf wash 	United Kingdom	metagenome 	Metagenomics of Spartina anglica phyllosphere 	SAPMG2 	2017-10-27 	2016-10-21 	ERC000012 	SAMEA3207708 	UNIVERSITY OF WARWICK 	UNIVERSITY OF WARWICK 	2017-10-27T17:02:41Z 	2016-10-21T09:32:55Z 	public 	SAPMG2 	air 	1 	52.965 	0.923 	Pyrosequencing (Illumina Metagenome sequencing) 	
+SAMEA3207707	2014-08 	marine salt marsh biome 	saline marsh 	spartina anglica leaf wash 	United Kingdom	metagenome 	Metagenomics of Spartina anglica phyllosphere 	SAPMG1 	2017-10-27 	2016-10-21 	ERC000012 	SAMEA3207707 	UNIVERSITY OF WARWICK 	UNIVERSITY OF WARWICK 	2017-10-27T17:02:41Z 	2016-10-21T09:32:55Z 	public 	SAPMG1 	air 	1 	52.965 	0.923 	Pyrosequencing (Illumina Metagenome sequencing) 	
+SAMEA3134943	2014-08 	marine salt marsh biome 	saline marsh 	Spartina anglica leafs 	United Kingdom	metagenome 	Environmental genomics and functional diversity of plant-associated microbial dimethylsulfide degradation in coastal salt marshes 	3 	Sporobolus anglicus 	2017-10-27 	2016-10-21 	ERC000012 	SAMEA3134943 	UNIVERSITY OF WARWICK 	UNIVERSITY OF WARWICK 	2017-10-27T17:02:40Z 	2016-10-21T09:32:54Z 	public 	3 	air 	1 	52.965 	0.923 	Pyrosequencing (Illumina MiSeq.) 	
+SAMEA3134942	2014-08 	marine salt marsh biome 	saline marsh 	Spartina anglica leafs 	United Kingdom	metagenome 	Environmental genomics and functional diversity of plant-associated microbial dimethylsulfide degradation in coastal salt marshes 	2 	Sporobolus anglicus 	2017-10-27 	2016-10-21 	ERC000012 	SAMEA3134942 	UNIVERSITY OF WARWICK 	UNIVERSITY OF WARWICK 	2017-10-27T17:02:40Z 	2016-10-21T09:32:54Z 	public 	2 	air 	1 	52.965 	0.923 	Pyrosequencing (Illumina MiSeq.) 	
+SAMEA3134941	2014-08 	marine salt marsh biome 	saline marsh 	Spartina anglica leafs 	United Kingdom	metagenome 	Environmental genomics and functional diversity of plant-associated microbial dimethylsulfide degradation in coastal salt marshes 	1 	Sporobolus anglicus 	2017-10-27 	2016-10-21 	ERC000012 	SAMEA3134941 	UNIVERSITY OF WARWICK 	UNIVERSITY OF WARWICK 	2017-10-27T17:02:40Z 	2016-10-21T09:32:54Z 	public 	1 	air 	1 	52.965 	0.923 	Pyrosequencing (Illumina MiSeq.) 	
+SAMN00744359	SAMN19072227	Nicotiana benthamiana 	2020-12 	Netherlands	51.58 N 5.39 E	
+SAMN19072226	Nicotiana benthamiana 	2020-12 	Netherlands	51.58 N 5.39 E	
+SAMN19072225	Nicotiana benthamiana 	2020-12 	Netherlands	51.58 N 5.39 E	
+SAMN19072224	Nicotiana benthamiana 	2020-12 	Netherlands	51.58 N 5.39 E	
+SAMN19072223	Nicotiana benthamiana 	2020-12 	Netherlands	51.58 N 5.39 E	
+SAMN19072222	Nicotiana benthamiana 	2020-12 	Netherlands	51.58 N 5.39 E	
+SAMN19072221	Nicotiana benthamiana 	2020-12 	Netherlands	51.58 N 5.39 E	
+SAMN19072220	Nicotiana benthamiana 	2020-12 	Netherlands	51.58 N 5.39 E	
+SAMN19072219	Nicotiana benthamiana 	2020-12 	Netherlands	51.58 N 5.39 E	
+SAMN12812736	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12812736	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12814033	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12814033	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12814045	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12814045	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12813441	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12813441	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12815146	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN11532317	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN11532492	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN11532765	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN11532918	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN11533329	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN11533377	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN11533378	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN05720237	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720239	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779575	2014-11-04 	Panicum virgatum 	USA: Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779672	2014-11-04 	Panicum virgatum 	USA: Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777187	2014-11-04 	Panicum virgatum 	USA: Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777186	2014-11-04 	Panicum virgatum 	USA: Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07630985	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07630987	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07630984	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631268	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07630983	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07630986	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631266	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631265	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631267	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631263	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631264	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631262	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Endophytes 	
+SAMN07631261	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Endophytes 	
+SAMN05720238	Guanajuato, Mexico 	Mexico:Guanajuato, Mexico	21.0936 N 100.2988 W	2012-06-04 	not applicable 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720238	Guanajuato, Mexico 	Mexico:Guanajuato, Mexico	21.0936 N 100.2988 W	2012-06-04 	not applicable 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720169	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720236	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720143	Mexico:Guanajuato, Mexico	2012-10-15 	not applicable 	Guanajuato, Mexico 	20.6863 N 101.8747 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720245	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720240	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720241	Guanajuato, Mexico 	Mexico:Guanajuato, Mexico	21.0936 N 100.2988 W	2012-06-04 	not applicable 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720285	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720286	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720235	Guanajuato, Mexico 	Mexico:Guanajuato, Mexico	21.0936 N 100.2988 W	2012-06-04 	not applicable 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720243	Mexico:Guanajuato, Mexico	2012-05-28 	not applicable 	Guanajuato, Mexico 	20.6863 N 101.8747 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720244	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720246	Guanajuato, Mexico 	Mexico:Guanajuato, Mexico	21.0936 N 100.2988 W	2012-06-04 	not applicable 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN31237791	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237790	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237789	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237788	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237787	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31233391	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31233390	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31233389	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237824	Capsicum annuum 	leaves 	2021-04-19 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237823	Capsicum annuum 	leaves 	2021-04-19 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237822	Capsicum annuum 	leaves 	2021-04-19 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237818	Capsicum annuum 	leaves 	2021-04-19 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237817	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237804	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237802	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237801	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237793	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237792	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31233388	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237786	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMEA6854308	Khon Kaen 3 (KK3) 	Thailand	Saccharum officinarum 	zr3165_9 	2020-11-03 	2020-05-25 	ERC000011 	SAMEA6854308 	Khoiri 	Khoiri 	2020-11-03T17:08:20Z 	2020-05-25T05:16:50Z 	public 	zr3165_9 	Conventional 	Pramod, Photharam, Ratchaburi 	
+SAMEA6854307	Khon Kaen 3 (KK3) 	Thailand	Saccharum officinarum 	zr3165_8 	2020-11-03 	2020-05-25 	ERC000011 	SAMEA6854307 	Khoiri 	Khoiri 	2020-11-03T17:08:20Z 	2020-05-25T05:16:50Z 	public 	zr3165_8 	Conventional 	Pramod, Photharam, Ratchaburi 	
+SAMEA6854306	Khon Kaen 3 (KK3) 	Thailand	Saccharum officinarum 	zr3165_7 	2020-11-03 	2020-05-25 	ERC000011 	SAMEA6854306 	Khoiri 	Khoiri 	2020-11-03T17:08:20Z 	2020-05-25T05:16:50Z 	public 	zr3165_7 	Conventional 	Pramod, Photharam, Ratchaburi 	
+SAMEA6854305	Khon Kaen 3 (KK3) 	Thailand	Saccharum officinarum 	zr3165_6 	2020-11-03 	2020-05-25 	ERC000011 	SAMEA6854305 	Khoiri 	Khoiri 	2020-11-03T17:08:20Z 	2020-05-25T05:16:50Z 	public 	zr3165_6 	Transition 	Sarot, Rang Bua, Chom Bueng, Ratchaburi 	
+SAMEA6854304	Khon Kaen 3 (KK3) 	Thailand	Saccharum officinarum 	zr3165_5 	2020-11-03 	2020-05-25 	ERC000011 	SAMEA6854304 	Khoiri 	Khoiri 	2020-11-03T17:08:20Z 	2020-05-25T05:16:50Z 	public 	zr3165_5 	Transition 	Sarot, Rang Bua, Chom Bueng, Ratchaburi 	
+SAMEA6854303	Khon Kaen 3 (KK3) 	Thailand	Saccharum officinarum 	zr3165_4 	2020-11-03 	2020-05-25 	ERC000011 	SAMEA6854303 	Khoiri 	Khoiri 	2020-11-03T17:08:20Z 	2020-05-25T05:16:50Z 	public 	zr3165_4 	Transition 	Sarot, Rang Bua, Chom Bueng, Ratchaburi 	
+SAMEA6854302	Khon Kaen 3 (KK3) 	Thailand	Saccharum officinarum 	zr3165_3 	2020-11-03 	2020-05-25 	ERC000011 	SAMEA6854302 	Khoiri 	Khoiri 	2020-11-03T17:08:20Z 	2020-05-25T05:16:50Z 	public 	zr3165_3 	Organic 	Rai Sukphoang, Chom Bueng, Ratchaburi 	
+SAMEA6854301	Khon Kaen 3 (KK3) 	Thailand	Saccharum officinarum 	zr3165_2 	2020-11-03 	2020-05-25 	ERC000011 	SAMEA6854301 	Khoiri 	Khoiri 	2020-11-03T17:08:20Z 	2020-05-25T05:16:50Z 	public 	zr3165_2 	Organic 	Rai Sukphoang, Chom Bueng, Ratchaburi 	
+SAMEA6854300	Khon Kaen 3 (KK3) 	Thailand	Saccharum officinarum 	zr3165_1 	2020-11-03 	2020-05-25 	ERC000011 	SAMEA6854300 	Khoiri 	Khoiri 	2020-11-03T17:08:20Z 	2020-05-25T05:16:50Z 	public 	zr3165_1 	Organic 	Rai Sukphoang, Chom Bueng, Ratchaburi 	
+SAMN14123628	The phyllosphere of co-products as a source of lignocellulolytic microorganisms 	2018-01-01 	France:Reims	49.25 N 4.033 E	
+SAMN14123628	The phyllosphere of co-products as a source of lignocellulolytic microorganisms 	2018-01-01 	France:Reims	49.25 N 4.033 E	
+SAMN10864027	2017-09-18 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10863910	2017-09-18 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864045	2017-09-18 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864428	2017-09-18 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864305	2017-09-18 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864046	2017-09-18 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864366	2017-09-18 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864362	2017-09-18 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864029	2017-08-28 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864028	2017-08-28 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864263	2017-08-28 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864048	2017-08-28 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864047	2017-08-28 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864262	2017-08-28 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864031	2017-08-07 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864392	2017-08-28 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864030	2017-08-28 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864033	2017-08-07 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864261	2017-08-07 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864435	2017-08-07 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864049	2017-08-07 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864034	2017-08-07 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864032	2017-08-07 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864424	2017-08-07 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864050	2017-07-17 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864374	2017-07-17 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864361	2017-07-17 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864036	2017-07-17 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864035	2017-07-17 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864038	2017-07-17 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864037	2017-07-17 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864427	2017-07-17 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864039	2017-06-26 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864297	2017-06-26 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864040	2017-06-26 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864260	2017-06-26 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864043	2017-06-05 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864041	2017-06-26 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864220	2017-06-05 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864051	2017-06-26 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864052	2017-06-05 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864042	2017-06-26 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864426	2017-06-26 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864259	2017-06-05 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864054	2017-06-05 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864258	2017-06-05 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864053	2017-06-05 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10863911	2017-05-15 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864317	2017-05-15 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10863904	2017-05-15 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864257	2017-06-05 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10863903	2017-05-15 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10863909	2017-05-15 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864234	2017-05-15 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864044	2017-05-15 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN10864219	2017-05-15 	USA: Michigan	42.39 N 85.37 W	switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN09091827	2016-11-07 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777689	2016-11-07 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779039	2016-11-07 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777688	2016-11-07 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777476	2016-11-07 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779038	2016-11-07 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779037	2016-11-07 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777318	2016-10-03 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779036	2016-11-07 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779035	2016-10-03 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777477	2016-10-03 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778783	2016-10-03 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777319	2016-10-03 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779034	2016-10-03 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779033	2016-10-03 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778782	2016-10-03 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776966	2016-10-03 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776965	2016-10-03 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778325	2016-10-03 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777478	2016-10-03 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777479	2016-10-03 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778322	2016-10-03 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778324	2016-10-03 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778323	2016-10-03 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777320	2016-09-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776967	2016-09-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778321	2016-09-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778320	2016-09-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778319	2016-09-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777322	2016-08-22 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778777	2016-08-22 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778316	2016-08-22 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778781	2016-09-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777323	2016-08-22 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778655	2016-08-22 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778776	2016-08-22 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777324	2016-08-22 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777480	2016-09-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777481	2016-09-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778318	2016-09-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776968	2016-09-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778317	2016-09-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778780	2016-09-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777321	2016-09-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778779	2016-09-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778708	2016-09-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778778	2016-09-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777326	2016-08-22 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778654	2016-08-22 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777325	2016-08-22 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779018	2016-08-01 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778652	2016-08-22 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779019	2016-08-01 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777356	2016-08-22 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778650	2016-08-22 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778651	2016-08-22 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777357	2016-08-22 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778653	2016-08-22 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778998	2016-08-01 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777358	2016-08-01 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778649	2016-08-01 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778997	2016-08-01 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777482	2016-08-01 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778995	2016-08-01 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777359	2016-08-01 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777360	2016-08-01 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778994	2016-08-01 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778996	2016-08-01 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777361	2016-08-01 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777483	2016-08-01 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778992	2016-07-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778993	2016-08-01 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776986	2016-07-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777484	2016-08-01 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778991	2016-07-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778989	2016-07-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778990	2016-07-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777493	2016-07-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778972	2016-07-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777362	2016-07-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778971	2016-07-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778973	2016-07-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776987	2016-07-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778974	2016-07-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778975	2016-07-12 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776988	2016-07-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777494	2016-07-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778647	2016-06-20 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777363	2016-06-20 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778648	2016-06-20 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778969	2016-06-20 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778970	2016-07-12 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777364	2016-06-20 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778968	2016-06-20 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777259	2016-06-20 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778966	2016-06-20 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777260	2016-06-20 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778967	2016-06-20 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776989	2016-06-20 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777495	2016-06-20 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778947	2016-06-20 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778946	2016-06-20 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778945	2016-06-20 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778646	2016-06-20 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778944	2016-05-31 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777496	2016-05-31 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776990	2016-05-31 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778638	2016-05-31 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777261	2016-05-31 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778637	2016-05-31 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778942	2016-05-31 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778941	2016-05-31 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777263	2016-05-31 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777262	2016-05-31 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778636	2016-05-31 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778943	2016-05-31 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777497	2016-05-31 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776991	2016-05-31 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778938	2016-05-09 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776707	2016-05-09 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778635	2016-05-09 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776993	2016-05-09 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778921	2016-05-09 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778939	2016-05-09 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776992	2016-05-31 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778940	2016-05-31 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778634	2016-05-09 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777264	2016-05-09 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778633	2016-05-09 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778920	2016-05-09 	Miscanthus 	USA: Michigan	42.3900 N 85.3700 W	Miscanthus leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776723	2016-05-09 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778632	2016-05-09 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777498	2016-05-09 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778631	2016-05-09 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777265	2016-05-09 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778630	2016-05-09 	Panicum virgatum 	USA: Michigan	42.3900 N 85.3700 W	Switchgrass leaves 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN04397412	E2 	2013-03-22 	Desert 	Rift valley 	water 	Israel: Eilat	Tamarix aphylla 	29.581368 N 34.965274 E	
+SAMN04397411	E1 	2013-03-22 	Desert 	Rift valley 	water 	Israel: Eilat	Tamarix aphylla 	29.581368 N 34.965274 E	
+SAMN04397410	NK2 	2013-03-21 	Desert 	Stony desert 	water 	Israel: Sede Boker	Tamarix aphylla 	30.871124 N 34.78456 E	
+SAMN04397409	NK1 	2013-03-21 	Desert 	Stony desert 	water 	Israel: Sede Boker	Tamarix aphylla 	30.871124 N 34.78456 E	
+SAMN04397408	SB2 	2013-03-21 	Desert 	Rift valley 	water 	Israel: Neot Hakikar	Tamarix aphylla 	30.942444 N 35.367059 E	
+SAMN04397407	SB1 	2013-03-21 	Desert 	Rift valley 	water 	Israel: Neot Hakikar	Tamarix aphylla 	30.942444 N 35.367059 E	
+SAMN04397406	EB2 	2013-03-22 	Desert 	Rift valley 	water 	Israel: El Bassa	Tamarix aphylla 	31.843883 N 35.513255 E	
+SAMN04397405	EB1 	2013-03-22 	Desert 	Rift valley 	water 	Israel: El Bassa	Tamarix aphylla 	31.843883 N 35.513255 E	
+SAMN04397404	MM2 	2013-03-20 	Desert 	Beach 	water 	Israel: Maagan Michael	Tamarix aphylla 	32.561428 N 34.909674 E	
+SAMN04397403	MM1 	2013-03-20 	Desert 	Beach 	water 	Israel: Maagan Michael	Tamarix aphylla 	32.561428 N 34.909674 E	
+SAMN04125643	2012-06-26 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Halfway TX	Zea mays 	34.184136 N 101.943636 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO29 	
+SAMN04125642	2012-06-26 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Halfway TX	Zea mays 	34.184136 N 101.943636 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO28 	
+SAMN04125641	2012-06-26 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Halfway TX	Zea mays 	34.184136 N 101.943636 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO27 	
+SAMN04125640	2012-06-26 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Halfway TX	Zea mays 	34.184136 N 101.943636 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO26 	
+SAMN04125639	2012-06-25 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Dumas Etter TX	Zea mays 	35.998744 N 101.988583 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO25 	
+SAMN04125638	2012-06-25 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Dumas Etter TX	Zea mays 	35.998744 N 101.988583 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO24 	
+SAMN04125637	2012-06-25 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Dumas Etter TX	Zea mays 	35.998744 N 101.988583 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO23 	
+SAMN04125636	2013-08-07 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Berkeley CA	Zea mays 	37.53128 N 122.7598 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO22 	
+SAMN04125635	2013-08-07 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Berkeley CA	Zea mays 	37.53128 N 122.7598 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO21 	
+SAMN04125634	2013-08-07 	reagen control 	reagent control 	reagent control 	USA: Berkeley CA	Zea mays 	37.53128 N 122.7598 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO20 	
+SAMN04125633	2012-06-25 	reagen control 	reagent control 	reagent control 	USA: Dumas Etter TX	Zea mays 	35.998744 N 101.988583 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO19 	
+SAMN04125632	2013-08-07 	temperate agricultural land 	soil 	microbial biomass from soil 	USA: Berkeley CA	Zea mays 	37.53128 N 122.7598 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO18 	
+SAMN04125631	2013-08-07 	temperate agricultural land 	soil 	microbial biomass from soil 	USA: Berkeley CA	Zea mays 	37.53128 N 122.7598 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO17 	
+SAMN04125630	2012-06-25 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Dumas Etter TX	Zea mays 	35.998744 N 101.988583 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO16 	
+SAMN04125629	2012-06-25 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Dumas Etter TX	Zea mays 	35.998744 N 101.988583 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO15 	
+SAMN04125628	2013-08-07 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Berkeley CA	Zea mays 	37.53128 N 122.7598 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO14 	
+SAMN04125627	2013-08-07 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Berkeley CA	Zea mays 	37.53128 N 122.7598 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO13 	
+SAMN04125626	2013-08-07 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Berkeley CA	Zea mays 	37.53128 N 122.7598 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO12 	
+SAMN04125625	2013-08-07 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Berkeley CA	Zea mays 	37.53128 N 122.7598 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO11 	
+SAMN04125624	2012-06-25 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Dumas Etter TX	Zea mays 	35.998744 N 101.988583 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO10 	
+SAMN04125623	2012-06-26 	temperate agricultural land 	maize leaves 	microbial biomass from maize leaves 	USA: Halfway TX	Zea mays 	34.184136 N 101.943636 W	Zea mays L. inbred B73 	V8 	4577 (4577)	PHYLLO09 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05661034	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss2 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN05660697	missing 	missing 	Sweden: Stockholm	missing 	missing 	59.3627 N 18.0589 E	missing 	missing 	missing 	missing 	Moss3 	Pleurozium schreberi 	Host-associated | Plants | Phyllosphere | Unclassified | Unclassified 	
+SAMN19165076	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-10-C 	
+SAMN19165075	Acer saccharum 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-01-A 	
+SAMN19164959	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-10-A 	
+SAMN19165074	Acer pensylvanicum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-05-G 	
+SAMN19165032	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5411 N 73.164 W	MSH-03-01-E 	
+SAMN19165072	Acer pensylvanicum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-05-G 	
+SAMN19165012	Ostria virginiana 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-01-E 	
+SAMN19165070	Acer saccharum 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-03-A 	
+SAMN19165069	Fagus grandifolia 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5388 N 73.155 W	MSH-06-04-E 	
+SAMN19165068	Acer saccharum 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-04-A 	
+SAMN19165067	Ostria virginiana 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-07-G 	
+SAMN19165066	Acer rubrum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-08-C 	
+SAMN19165035	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-03-D 	
+SAMN19164959	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-10-A 	
+SAMN19165064	Querbus rubra 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-01-G 	
+SAMN19165063	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-06-C 	
+SAMN19165005	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-03-E 	
+SAMN19164978	Acer saccharum 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-04-A 	
+SAMN19165060	Fagus grandifolia 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-01-A 	
+SAMN19165059	Ostria virginiana 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-07-C 	
+SAMN19165058	Ostria virginiana 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-07-E 	
+SAMN19165057	Querbus rubra 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-04-H 	
+SAMN19165056	Acer rubrum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-09-C 	
+SAMN19165114	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-04-C 	
+SAMN19164958	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-03-E 	
+SAMN19165054	Acer pensylvanicum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-05-C 	
+SAMN19165053	Acer rubrum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-09-E 	
+SAMN19165052	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-10-G 	
+SAMN19165051	Acer saccharum 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-02-A 	
+SAMN19165051	Acer saccharum 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-02-A 	
+SAMN19165050	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-10-E 	
+SAMN19165049	Acer pensylvanicum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-05-C 	
+SAMN19165048	Ostria virginiana 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-05-G 	
+SAMN19165047	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-01-D 	
+SAMN19165046	Querbus rubra 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-01-E 	
+SAMN19164957	Acer rubrum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-07-E 	
+SAMN19165045	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-10-A 	
+SAMN19165044	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-02-G 	
+SAMN19165043	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-06-G 	
+SAMN19165042	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-06-E 	
+SAMN19165041	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-04-E 	
+SAMN19165040	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-04-C 	
+SAMN19165039	Acer pensylvanicum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-05-E 	
+SAMN19165038	Acer pensylvanicum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-05-E 	
+SAMN19165037	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-06-C 	
+SAMN19165036	Acer rubrum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-01-C 	
+SAMN19164956	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-03-C 	
+SAMN19165003	Fagus grandifolia 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5388 N 73.155 W	MSH-06-02-C 	
+SAMN19165061	Acer rubrum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-08-A 	
+SAMN19165033	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-02-E 	
+SAMN19164974	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-01-G 	
+SAMN19165031	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-03-E 	
+SAMN19165030	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-08-G 	
+SAMN19165029	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-06-E 	
+SAMN19165028	Acer rubrum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-09-A 	
+SAMN19165027	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-06-G 	
+SAMN19165025	Fagus grandifolia 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5388 N 73.155 W	MSH-06-04-C 	
+SAMN19165024	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-09-A 	
+SAMN19165023	Ostria virginiana 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-05-C 	
+SAMN19165022	Acer pensylvanicum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-05-A 	
+SAMN19165021	Acer saccharum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-07-G 	
+SAMN19165021	Acer saccharum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-07-G 	
+SAMN19165020	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-06-A 	
+SAMN19165019	Acer pensylvanicum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-10-E 	
+SAMN19165019	Acer pensylvanicum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-10-E 	
+SAMN19165018	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-01-A 	
+SAMN19164954	Ostria virginiana 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-01-C 	
+SAMN19165017	Querbus rubra 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-05-E 	
+SAMN19165016	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-04-G 	
+SAMN19165015	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-04-G 	
+SAMN19165014	Fagus grandifolia 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-05-C 	
+SAMN19165014	Fagus grandifolia 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-05-C 	
+SAMN19165013	Fagus grandifolia 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-A 	
+SAMN19165013	Fagus grandifolia 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-A 	
+SAMN19165082	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-02-C 	
+SAMN19165011	Acer rubrum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-08-E 	
+SAMN19165011	Acer rubrum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-08-E 	
+SAMN19164953	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-03-G 	
+SAMN19165010	Fagus grandifolia 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5388 N 73.155 W	MSH-06-02-E 	
+SAMN19165009	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-06-A 	
+SAMN19165008	Querbus rubra 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-07-G 	
+SAMN19165007	Fagus grandifolia 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-03-G 	
+SAMN19165006	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5411 N 73.164 W	MSH-03-02-C 	
+SAMN19165062	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-09-G 	
+SAMN19165005	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-03-E 	
+SAMN19165004	Acer rubrum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-04-E 	
+SAMN19164977	Querbus rubra 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-06-E 	
+SAMN19165034	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-01-G 	
+SAMN19164953	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-03-G 	
+SAMN19165002	Fagus grandifolia 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-E 	
+SAMN19165001	Fagus grandifolia 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-03-E 	
+SAMN19165000	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-04-G 	
+SAMN19164999	Acer saccharum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-07-E 	
+SAMN19164999	Acer saccharum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-07-E 	
+SAMN19164998	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-01-E 	
+SAMN19164997	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5411 N 73.164 W	MSH-03-03-E 	
+SAMN19165026	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-01-E 	
+SAMN19164955	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5411 N 73.164 W	MSH-03-03-G 	
+SAMN19164996	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-10-G 	
+SAMN19164996	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-10-G 	
+SAMN19164995	Querbus rubra 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-05-G 	
+SAMN19164981	Fagus grandifolia 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-03-A 	
+SAMN19164994	Acer pensylvanicum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-01-C 	
+SAMN19164993	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-03-A 	
+SAMN19164993	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-03-A 	
+SAMN19164992	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-02-G 	
+SAMN19164992	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-02-G 	
+SAMN19164991	Acer pensylvanicum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-01-G 	
+SAMN19164990	Querbus rubra 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-06-C 	
+SAMN19164990	Querbus rubra 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-06-C 	
+SAMN19164989	Fagus grandifolia 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5388 N 73.155 W	MSH-06-02-G 	
+SAMN19164988	Fagus grandifolia 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-01-E 	
+SAMN19165102	Fagus grandifolia 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-C 	
+SAMN19164987	Ostria virginiana 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-04-G 	
+SAMN19164987	Ostria virginiana 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-04-G 	
+SAMN19164986	Negative control 	empty sterile bag 	2018-09-20 	NA 	NA 	SBL-Neg-Control-GH 	
+SAMN19164985	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-02-E 	
+SAMN19164985	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-02-E 	
+SAMN19164984	Fagus grandifolia 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-03-C 	
+SAMN19164983	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-04-C 	
+SAMN19164982	Querbus rubra 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-06-G 	
+SAMN19165107	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-03-C 	
+SAMN19164980	Fagus grandifolia 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5388 N 73.155 W	MSH-06-06-E 	
+SAMN19164979	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-03-G 	
+SAMN19165002	Fagus grandifolia 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-E 	
+SAMN19165065	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-04-F 	
+SAMN19164977	Querbus rubra 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-06-E 	
+SAMN19164976	Acer pensylvanicum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-10-G 	
+SAMN19164976	Acer pensylvanicum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-10-G 	
+SAMN19164975	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-03-G 	
+SAMN19164975	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-03-G 	
+SAMN19165071	Fagus grandifolia 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5388 N 73.155 W	MSH-06-04-G 	
+SAMN19164972	Acer rubrum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-08-A 	
+SAMN19164971	Acer pensylvanicum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-10-A 	
+SAMN19164971	Acer pensylvanicum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-10-A 	
+SAMN19164970	Fagus grandifolia 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-02-C 	
+SAMN19164969	Acer rubrum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-01-E 	
+SAMN19164968	Acer pensylvanicum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-01-E 	
+SAMN19164967	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-04-E 	
+SAMN19165146	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-03-C 	
+SAMN19165145	Acer pensylvanicum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-07-G 	
+SAMN19165145	Acer pensylvanicum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-07-G 	
+SAMN19165144	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5411 N 73.164 W	MSH-03-03-C 	
+SAMN19165143	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-06-E 	
+SAMN19165142	Acer rubrum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-03-E 	
+SAMN19165141	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-02-G 	
+SAMN19165140	Acer pensylvanicum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-01-A 	
+SAMN19165139	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-03-G 	
+SAMN19165138	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-03-E 	
+SAMN19164966	Acer rubrum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-02-E 	
+SAMN19165138	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-03-E 	
+SAMN19165137	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-06-G 	
+SAMN19165136	Ostria virginiana 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-04-C 	
+SAMN19165136	Ostria virginiana 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-04-C 	
+SAMN19165135	Querbus rubra 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-04-C 	
+SAMN19165134	Acer saccharum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-04-A 	
+SAMN19165133	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-02-C 	
+SAMN19165133	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-02-C 	
+SAMN19165132	Negative control 	empty sterile bag 	2018-08-16 	NA 	NA 	SBL-Neg-Control-EF 	
+SAMN19165131	Fagus grandifolia 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-05-G 	
+SAMN19164965	Abies balsamea 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-04-A 	
+SAMN19165131	Fagus grandifolia 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-05-G 	
+SAMN19165130	Fagus grandifolia 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-02-G 	
+SAMN19165129	Acer rubrum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-03-A 	
+SAMN19165129	Acer rubrum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-03-A 	
+SAMN19165128	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-07-G 	
+SAMN19165127	Fagus grandifolia 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-02-E 	
+SAMN19165126	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-01-G 	
+SAMN19165125	Ostria virginiana 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-04-E 	
+SAMN19165125	Ostria virginiana 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-04-E 	
+SAMN19165124	Acer pensylvanicum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-07-A 	
+SAMN19164964	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-10-E 	
+SAMN19165124	Acer pensylvanicum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-07-A 	
+SAMN19165123	Querbus rubra 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-04-E 	
+SAMN19165122	Acer pensylvanicum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-07-E 	
+SAMN19165122	Acer pensylvanicum 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-07-E 	
+SAMN19165121	Fagus grandifolia 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-05-E 	
+SAMN19165120	Acer saccharum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-04-H 	
+SAMN19165119	Querbus rubra 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-06-A 	
+SAMN19165118	Acer rubrum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-02-C 	
+SAMN19165117	Fagus grandifolia 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-03-G 	
+SAMN19165116	Acer saccharum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-07-A 	
+SAMN19164964	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-10-E 	
+SAMN19165116	Acer saccharum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-07-A 	
+SAMN19165115	Fagus grandifolia 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-02-A 	
+SAMN19165055	Abies balsamea 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-09-E 	
+SAMN19165113	Ostria virginiana 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-04-A 	
+SAMN19165113	Ostria virginiana 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-04-A 	
+SAMN19165112	Fagus grandifolia 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-G 	
+SAMN19165112	Fagus grandifolia 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-G 	
+SAMN19165111	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-06-C 	
+SAMN19165110	Acer pensylvanicum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-07-C 	
+SAMN19165110	Acer pensylvanicum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-07-C 	
+SAMN19164963	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-08-G 	
+SAMN19165109	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-03-G 	
+SAMN19165109	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-03-G 	
+SAMN19165108	Fagus grandifolia 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5388 N 73.155 W	MSH-06-06-G 	
+SAMN19164952	Acer rubrum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-02-A 	
+SAMN19165107	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-03-C 	
+SAMN19165106	Fagus grandifolia 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-01-C 	
+SAMN19165105	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5411 N 73.164 W	MSH-03-01-G 	
+SAMN19165104	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-10-C 	
+SAMN19165104	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-10-C 	
+SAMN19165103	Acer saccharum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-04-C 	
+SAMN19164963	Acer rubrum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-08-G 	
+SAMN19165102	Fagus grandifolia 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-C 	
+SAMN19165102	Fagus grandifolia 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-C 	
+SAMN19165101	Acer pensylvanicum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-10-C 	
+SAMN19165100	Acer saccharum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-07-C 	
+SAMN19165099	Negative control 	empty sterile bag 	2018-10-18 	NA 	NA 	MSH-Neg-Control-GH 	
+SAMN19165098	Fagus grandifolia 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-03-E 	
+SAMN19165073	Acer saccharum 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-04-G 	
+SAMN19165096	Acer rubrum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9927 N 73.9913 W	SBL-04-07-C 	
+SAMN19165095	Fagus grandifolia 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-05-A 	
+SAMN19165094	Acer rubrum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-08-C 	
+SAMN19164961	Negative control 	empty sterile bag 	2018-09-07 	NA 	NA 	MSH-Neg-Control-EF 	
+SAMN19165094	Acer rubrum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-08-C 	
+SAMN19165093	Querbus rubra 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-05-A 	
+SAMN19165092	Fagus grandifolia 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5396 N 73.1578 W	MSH-01-01-G 	
+SAMN19165091	Ostria virginiana 	leaf material 	2018-06-27 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-01-A 	
+SAMN19165090	Fagus grandifolia 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-03-C 	
+SAMN19165089	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.5411 N 73.164 W	MSH-03-01-C 	
+SAMN19165088	Acer saccharum 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5411 N 73.164 W	MSH-03-01-F 	
+SAMN19165087	Acer saccharum 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-07-H 	
+SAMN19165086	Fagus grandifolia 	leaf material 	2018-08-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-02-F 	
+SAMN19165085	Abies balsamea 	leaf material 	2018-09-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-09-G 	
+SAMN19164960	Ostria virginiana 	leaf material 	2018-10-18 	Canada: Mont-Saint-Hilaire (QC)	45.5418 N 73.1663 W	MSH-04-01-G 	
+SAMN19165084	Acer rubrum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-01-B 	
+SAMN19165083	Abies balsamea 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-09-C 	
+SAMN19165097	Acer rubrum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9893 N 74.0032 W	SBL-01-03-C 	
+SAMN19165081	Acer pensylvanicum 	leaf material 	2018-07-16 	Canada: Station Biologique des Laurentides (QC)	45.9917 N 73.9987 W	SBL-02-01-D 	
+SAMN19165080	Ostria virginiana 	leaf material 	2018-09-07 	Canada: Mont-Saint-Hilaire (QC)	45.5433 N 73.1689 W	MSH-05-05-E 	
+SAMN19165079	Acer saccharum 	leaf material 	2018-08-06 	Canada: Mont-Saint-Hilaire (QC)	45.541 N 73.1611 W	MSH-02-01-C 	
+SAMN19165078	Negative control 	empty sterile bag 	2018-08-06 	NA 	NA 	MSH-Neg-Control-CD 	
+SAMN19165077	Acer pensylvanicum 	leaf material 	2018-06-20 	Canada: Station Biologique des Laurentides (QC)	45.9946 N 73.9889 W	SBL-03-05-A 	
+SAMN15738576	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	leaf endosphere of Populus deltoides 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN15420765	Citrus 	2019-09 	China: Zhejiang	28.64 N 121.17 E	EP_MG_H_C 	
+SAMN15420768	Citrus 	2019-09 	China: Zhejiang	28.64 N 121.17 E	EN_MG_D_C 	
+SAMN15420767	Citrus 	2019-09 	China: Zhejiang	28.64 N 121.17 E	EN_MG_D_B 	
+SAMN15420766	Citrus 	2019-09 	China: Zhejiang	28.64 N 121.17 E	EN_MG_D_A 	
+SAMN15420764	Citrus 	2019-09 	China: Zhejiang	28.64 N 121.17 E	EP_MG_H_B 	
+SAMN15420763	Citrus 	2019-09 	China: Zhejiang	28.64 N 121.17 E	EP_MG_H_A 	
+SAMN15420762	Citrus 	2019-09 	China: Zhejiang	28.64 N 121.17 E	EP_MG_D_C 	
+SAMN15420761	Citrus 	2019-09 	China: Zhejiang	28.64 N 121.17 E	EP_MG_D_B 	
+SAMN15420760	Citrus 	2019-09 	China: Zhejiang	28.64 N 121.17 E	EP_MG_D_A 	
+SAMN14515795	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	leaf endosphere of Populus deltoides 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN12812694	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	leaf endosphere of Populus deltoides 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN12814677	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	leaf endosphere of Populus deltoides 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN12813745	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	leaf endosphere of Populus deltoides 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN12813036	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	leaf endosphere of Populus deltoides 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN13481436	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica oleracea var. alboglabra 	1.42 N 103.7 E	4 	KL1PHSR4D 	
+SAMN13481435	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica oleracea var. alboglabra 	1.42 N 103.7 E	3 	KL1PHSR3D 	
+SAMN13481434	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica oleracea var. alboglabra 	1.42 N 103.7 E	2 	KL1PHSR2D 	
+SAMN13481433	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica oleracea var. alboglabra 	1.42 N 103.7 E	1 	KL1PHSR1D 	
+SAMN13481363	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Amaranthus 	1.42 N 103.7 E	4 	BY2PHSR4G 	
+SAMN13481420	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica rapa var. parachinensis 	1.42 N 103.7 E	4 	CS1PHSR4D 	
+SAMN13481419	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica rapa var. parachinensis 	1.42 N 103.7 E	3 	CS1PHSR3D 	
+SAMN13481418	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica rapa var. parachinensis 	1.42 N 103.7 E	2 	CS1PHSR2D 	
+SAMN13481417	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica rapa var. parachinensis 	1.42 N 103.7 E	1 	CS1PHSR1D 	
+SAMN13481362	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Amaranthus 	1.42 N 103.7 E	3 	BY2PHSR3G 	
+SAMN13481407	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Amaranthus 	1.42 N 103.7 E	4 	BY1PHSR4D 	
+SAMN13481406	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Amaranthus 	1.42 N 103.7 E	3 	BY1PHSR3D 	
+SAMN13481361	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Amaranthus 	1.42 N 103.7 E	2 	BY2PHSR2G 	
+SAMN13481405	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Amaranthus 	1.42 N 103.7 E	2 	BY1PHSR2D 	
+SAMN13481404	2018-10-02 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Amaranthus 	1.42 N 103.7 E	1 	BY1PHSR1D 	
+SAMN13481360	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Amaranthus 	1.42 N 103.7 E	1 	BY2PHSR1G 	
+SAMN13481395	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica oleracea var. alboglabra 	1.42 N 103.7 E	4 	KL2PHSR4G 	
+SAMN13481394	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica oleracea var. alboglabra 	1.42 N 103.7 E	3 	KL2PHSR3G 	
+SAMN13481393	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica oleracea var. alboglabra 	1.42 N 103.7 E	2 	KL2PHSR2G 	
+SAMN13481392	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica oleracea var. alboglabra 	1.42 N 103.7 E	1 	KL2PHSR1G 	
+SAMN13481379	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica rapa var. parachinensis 	1.42 N 103.7 E	4 	CS2PHSR4G 	
+SAMN13481378	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica rapa var. parachinensis 	1.42 N 103.7 E	3 	CS2PHSR3G 	
+SAMN13481377	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica rapa var. parachinensis 	1.42 N 103.7 E	2 	CS2PHSR2G 	
+SAMN13481376	2018-03-14 	urban biome 	farm | plant-associated environment 	leaf 	Singapore: Lim Chu Kang Farm Area, Singapore	Brassica rapa var. parachinensis 	1.42 N 103.7 E	1 	CS2PHSR1G 	
+SAMN11529854	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	leaf endosphere of Populus deltoides 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778107	2017-04-22 	Abies magnifica 	USA: California	37.6622 N 119.6197 W	Abies magnifica foliage 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778106	2017-04-22 	Abies magnifica 	USA: California	37.6622 N 119.6197 W	Abies magnifica foliage 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777391	2017-04-22 	Pinus contorta 	USA: California	37.6622 N 119.6197 W	Pinus contorta foliage 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778105	2017-04-22 	Pinus contorta 	USA: California	37.6622 N 119.6197 W	Pinus contorta foliage 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08778104	2017-04-22 	Pinus contorta 	USA: California	37.6622 N 119.6197 W	Pinus contorta foliage 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08776708	2017-04-22 	Pinus contorta 	USA: California	37.6622 N 119.6197 W	Pinus contorta foliage 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN00744360	SAMN06266283	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN06265164	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN06266286	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN06266204	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN06264443	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN06264442	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN06266080	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN06266081	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	

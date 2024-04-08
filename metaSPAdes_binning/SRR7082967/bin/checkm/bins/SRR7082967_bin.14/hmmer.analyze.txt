@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_190_length_28574_cov_3.064260_54 -            127 eIF-1a               PF01176.14    65    0.0028   12.0   0.0   1   1   1.3e-05    0.0053   11.2   0.0    12    28   103   119    99   121 0.91 # 27373 # 27753 # -1 # ID=4_54;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.493
+NODE_15_length_124398_cov_2.557065_60 -           1801 DUF35                PF01796.12    68   0.00037   15.6   0.3   1   2    0.0094         4    2.7   0.0    17    44   682   716   678   724 0.68 # 57389 # 62791 # -1 # ID=1_60;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.577
+NODE_15_length_124398_cov_2.557065_60 -           1801 DUF35                PF01796.12    68   0.00037   15.6   0.3   2   2   8.6e-05     0.036    9.3   0.1     4    62  1382  1441  1381  1445 0.76 # 57389 # 62791 # -1 # ID=1_60;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.577
+NODE_59_length_51569_cov_2.631624_17 -            630 DNA_ligase_OB        PF03120.11    82   7.5e-21   68.6   0.4   1   1   3.8e-23   1.6e-20   67.5   0.4     3    74   294   365   292   371 0.94 # 14806 # 16695 # -1 # ID=3_17;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.591
+NODE_360_length_19888_cov_2.801174_20 -            139 Limkain-b1           PF11608.3     91   0.00067   14.4   0.0   1   1   2.4e-06     0.001   13.8   0.0     4    77     3    80     1    91 0.85 # 10234 # 10650 # 1 # ID=6_20;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.600
+NODE_360_length_19888_cov_2.801174_20 -            139 RRM_5                PF13893.1     56   7.9e-13   43.1   0.0   1   1   2.4e-15     1e-12   42.7   0.0     1    56    18    78    18    78 0.93 # 10234 # 10650 # 1 # ID=6_20;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.600
+NODE_255_length_23996_cov_2.278143_50 -            141 Ribonuclease_P       PF00825.13   111    0.0024   12.7   0.2   1   2   0.00011     0.046    8.6   0.0    57    73    54    70    49    81 0.86 # 23040 # 23462 # -1 # ID=5_50;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.537
+NODE_255_length_23996_cov_2.278143_50 -            141 Ribonuclease_P       PF00825.13   111    0.0024   12.7   0.2   2   2     0.011       4.7    2.1   0.2    59    73   123   137   121   140 0.86 # 23040 # 23462 # -1 # ID=5_50;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.537
+NODE_15_length_124398_cov_2.557065_119 -            566 KOW                  PF00467.24    32    0.0004   15.0   0.1   1   1   2.4e-06     0.001   13.8   0.1     2    26   119   143   118   151 0.80 # 122445 # 124142 # -1 # ID=1_119;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.517
+NODE_360_length_19888_cov_2.801174_20 -            139 RRM_1                PF00076.17    70   3.7e-26   85.6   0.0   1   1   1.1e-28   4.8e-26   85.2   0.0     1    69     4    73     4    74 0.99 # 10234 # 10650 # 1 # ID=6_20;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.600
+NODE_360_length_19888_cov_2.801174_20 -            139 RRM_6                PF14259.1     70   1.4e-20   68.0   0.0   1   1   4.3e-23   1.8e-20   67.7   0.0     1    69     4    73     4    74 0.98 # 10234 # 10650 # 1 # ID=6_20;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.600
+NODE_190_length_28574_cov_3.064260_17 -            136 CSD                  PF00313.17    66     0.002   12.8   0.0   1   1   1.5e-05    0.0065   11.2   0.0    39    62    56    79    40    83 0.85 # 8354 # 8761 # 1 # ID=4_17;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.529
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/58a2f2aa-18ea-45b4-a4b1-8e4aae41eee6
+# Target file:     ./checkm/bins/SRR7082967_bin.14/genes.faa
+# Option settings: hmmsearch --domtblout ./checkm/bins/SRR7082967_bin.14/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 4 /tmp/58a2f2aa-18ea-45b4-a4b1-8e4aae41eee6 ./checkm/bins/SRR7082967_bin.14/genes.faa 
+# Current dir:     /data_1/yzr_data/MetaSpades/OUT/SRR7082967_1e5/bin
+# Date:            Sat Jun  3 20:04:28 2023
+# [ok]

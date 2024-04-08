@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_51_length_56000_cov_2.068513_77 -            100 Ribosomal_L22        PF00237.14   105   0.00041   14.7   0.0   1   1   2.4e-06   0.00068   14.0   0.0    17    39    13    35     6    42 0.92 # 46014 # 46313 # 1 # ID=3_77;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.393
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/ac0e9e41-a07a-4016-a508-4b103cd62178
+# Target file:     ./checkm/bins/SRR7082967_bin.1/genes.faa
+# Option settings: hmmsearch --domtblout ./checkm/bins/SRR7082967_bin.1/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 4 /tmp/ac0e9e41-a07a-4016-a508-4b103cd62178 ./checkm/bins/SRR7082967_bin.1/genes.faa 
+# Current dir:     /data_1/yzr_data/MetaSpades/OUT/SRR7082967_1e5/bin
+# Date:            Sat Jun  3 19:56:14 2023
+# [ok]

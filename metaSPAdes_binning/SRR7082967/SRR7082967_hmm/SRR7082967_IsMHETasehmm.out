@@ -1,0 +1,288 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  IsMHETase.hmm
+# target sequence database:        protein_seq.fasta
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       IsMHETase_hmm  [M=560]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                              Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                              -----------
+     2e-190  638.3   0.1   2.5e-190  638.0   0.1    1.0  1  NODE_7187_length_2430_cov_0.622666_2   # 652 # 2430 # -1 # ID=7187_2;pa
+    1.4e-52  183.2   0.1    1.5e-52  183.1   0.1    1.0  1  NODE_124893_length_358_cov_0.242424_1  # 3 # 356 # 1 # ID=124893_1;part
+  ------ inclusion threshold ------
+      0.056   16.2   0.1      0.061   16.1   0.1    1.0  1  NODE_168771_length_309_cov_0.384615_1  # 2 # 307 # -1 # ID=168771_1;par
+       0.23   14.2   0.3       0.36   13.5   0.3    1.2  1  NODE_1549_length_7530_cov_0.929893_3   # 4234 # 6621 # -1 # ID=1549_3;p
+       0.61   12.8   0.0       0.62   12.7   0.0    1.0  1  NODE_180407_length_299_cov_0.424419_1  # 1 # 297 # 1 # ID=180407_1;part
+        0.8   12.4   0.0       0.99   12.1   0.0    1.1  1  NODE_25932_length_996_cov_0.391254_2   # 515 # 994 # -1 # ID=25932_2;pa
+        1.2   11.8   0.0        1.8   11.2   0.0    1.3  1  NODE_6289_length_2678_cov_0.448452_4   # 1975 # 2595 # 1 # ID=6289_4;pa
+        1.2   11.8   0.0        1.3   11.7   0.0    1.0  1  NODE_157483_length_320_cov_0.233161_1  # 2 # 319 # 1 # ID=157483_1;part
+        1.7   11.3   0.0        1.7   11.3   0.0    1.1  1  NODE_117217_length_369_cov_0.392562_1  # 3 # 368 # 1 # ID=117217_1;part
+        1.9   11.1   0.1        3.3   10.4   0.1    1.3  1  NODE_5165_length_3094_cov_0.403101_3   # 1587 # 3092 # -1 # ID=5165_3;p
+        1.9   11.1   0.0        2.7   10.6   0.0    1.1  1  NODE_30_length_82561_cov_2.809896_4    # 2892 # 3731 # -1 # ID=30_4;par
+        2.1   11.0   0.0        4.9    9.8   0.0    1.5  2  NODE_100281_length_400_cov_0.146520_1  # 2 # 361 # 1 # ID=100281_1;part
+        2.1   11.0   0.3        2.1   11.0   0.3    1.0  1  NODE_246_length_24741_cov_1.966320_30  # 11514 # 11741 # -1 # ID=246_30
+          3   10.5   0.0          3   10.5   0.0    1.0  1  NODE_47019_length_641_cov_0.060311_2   # 169 # 369 # -1 # ID=47019_2;pa
+        4.1   10.0   0.0        9.4    8.8   0.0    1.5  2  NODE_16395_length_1379_cov_0.479233_3  # 436 # 837 # -1 # ID=16395_3;pa
+
+
+Domain annotation for each sequence (and alignments):
+>> NODE_7187_length_2430_cov_0.622666_2  # 652 # 2430 # -1 # ID=7187_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spa
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  638.0   0.1  1.1e-194  2.5e-190       6     560 .]      18     576 ..      14     576 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 638.0 bits;  conditional E-value: 1.1e-194
+                         IsMHETase_hmm   6 aallaaplaaaallagcggddsvssaktrlaaatpaamaqtcdalaaklayantsftsvttaaagaltvagkp 78 
+                                           ++ l+a  a  all gcgg++s     +   a+ p   ++++d ++++++ +   +t++++   g + +a+ p
+  NODE_7187_length_2430_cov_0.622666_2  18 RLKLTACAAGIALLYGCGGSSS-----SGSDASPPPPQLACADITTEAMNLPGLVITKAVHNPEG-DPNANPP 84 
+                                           5566677777788888998855.....344556666778899999999999**999999888877.9999*** PP
+
+                         IsMHETase_hmm  79 lpehCviegklnervsavdgktyaigFelRlPkaWngrffyqangGldGnvvtatgeiggggpltdalaqgfa 151
+                                            p+hC ++g+l+er s vd++ yaigFe+RlP++Wngrff+q++gG+dG+v+ a+g+  g g+ t+al++g+a
+  NODE_7187_length_2430_cov_0.622666_2  85 EPAHCLVQGHLHERKSDVDNQQYAIGFEVRLPTNWNGRFFFQGGGGTDGAVNPAIGTLPGEGQETNALSMGYA 157
+                                           ************************************************************************* PP
+
+                         IsMHETase_hmm 152 vissdsGHd......aaqnplfglDpqaRldygyaavdaltpmakqvirlaygkapdrsyfvGCsnGGreamv 218
+                                           v s+d+GH+       a+ +lfg+DpqaR+dygy+av ++t++a+++i++ y  a drsyfvGCsnGGr+amv
+  NODE_7187_length_2430_cov_0.622666_2 158 VASTDGGHEevddgtPAGGSLFGVDPQARIDYGYNAVGEVTKVAHSLIQRHYDSAVDRSYFVGCSNGGRQAMV 230
+                                           *********99988888999***************************************************** PP
+
+                         IsMHETase_hmm 219 aavrnpddyDGivagdPgfhLpkaaiaeaygaqqlakiasatganglpdirsgfsdaerrlvaakilakCDal 291
+                                           aa+r++d yDG++ag+Pgf+Lpka i++a+++qq+a++a++   + +p+i+s+fs  ++++va+k+l+ CD l
+  NODE_7187_length_2430_cov_0.622666_2 231 AATRFADLYDGVIAGNPGFNLPKAGIQHAWDNQQFASVAPRDPVTDRPIIASSFSTDDMTFVANKVLEVCDDL 303
+                                           *****************************************9999**************************** PP
+
+                         IsMHETase_hmm 292 DgaaDglvqdvaaCqaafsleadvptcangtrtgaCLtta.qktalenvfaGarnsaGealYasfpyDaGiag 363
+                                           Dg++Dglv + aaCq++f+  ++      +t  ++CL    ++ al nvf+G++ns+G++lYas+p+DaGi +
+  NODE_7187_length_2430_cov_0.622666_2 304 DGLKDGLVLNSAACQSTFDPFQELVCNPGDTPGTDCLGDVkKVGALVNVFNGPKNSQGQSLYASWPWDAGIGE 376
+                                           ******************99665555555566789**8751679***************************** PP
+
+                         IsMHETase_hmm 364 egWaaWklgns.............vtldpaalaftfttppkkaaalan.laafalgfdmdkdapkifatsgvy 422
+                                            gW+ Wkl                +t++++al ++f+tpp +     + l+++ l++++d+dap i+ +++vy
+  NODE_7187_length_2430_cov_0.622666_2 377 WGWRLWKLELPfpnpdptipnsiiATMGGSALPYIFMTPPVQVPGAGHgLIDYLLNYNFDTDAPGIYRSTNVY 449
+                                           *********999***********99*****************9988878************************ PP
+
+                         IsMHETase_hmm 423 tqsawsfmtpadetdlsalkarGgkllvyhGtsDpvfsvnDtadwyarlaqanggdasdfaRlfpvpgmnHCs 495
+                                           t+s+++fmtp++ tdlsa++++Ggk++v h +sDpvfsv+D ++w+++l++a +  asd+aRl++vpg nHC+
+  NODE_7187_length_2430_cov_0.622666_2 450 TESSMEFMTPPNPTDLSAFRSKGGKIIVHHVNSDPVFSVHDSIQWFENLKNADAT-ASDYARLYTVPGQNHCG 521
+                                           **************************************************88766.***************** PP
+
+                         IsMHETase_hmm 496 GGpaadqfdmltalvaWveqgqaPaaivatardatnavpnaevpasWgagrtrPlCpyPqvaryn 560
+                                           GGp++ qfd l  lv+Wve+g+aPa+iva a + +     ++v        +rPlCpyPq a+y+
+  NODE_7187_length_2430_cov_0.622666_2 522 GGPSTSQFDLLNVLVDWVENGKAPAQIVAHASPVSTL---TDV-------ESRPLCPYPQYAKYD 576
+                                           ******************************9987763...333.......589**********95 PP
+
+>> NODE_124893_length_358_cov_0.242424_1  # 3 # 356 # 1 # ID=124893_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spac
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  183.1   0.1     7e-57   1.5e-52     404     519 ..       2     118 .]       1     118 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 183.1 bits;  conditional E-value: 7e-57
+                          IsMHETase_hmm 404 lgfdmdkdapkifatsgvytqsawsfmtpadetdlsalkarGgkllvyhGtsDpvfsvnDtadwyarlaqan 475
+                                            lgf++d+dap+ifat++ yt+sa+sfmtp++   ++ +k+rGgk+lvyhG+sDpvfsv+Dt++wy+ l+ ++
+  NODE_124893_length_358_cov_0.242424_1   2 LGFNFDRDAPRIFATTDLYTESAMSFMTPPNPDSFAEFKDRGGKMLVYHGNSDPVFSVDDTIRWYNSLRDNH 73 
+                                            8********************************************************************999 PP
+
+                          IsMHETase_hmm 476 g.gdasdfaRlfpvpgmnHCsGGpaadqfdmltalvaWveqgqaP 519
+                                            g +++s+faRlf++pgm+HC+GGpa+d+fdml+al +Wve+g+aP
+  NODE_124893_length_358_cov_0.242424_1  74 GpAETSSFARLFTIPGMTHCRGGPATDHFDMLSALTNWVEHGEAP 118
+                                            9899****************************************9 PP
+
+>> NODE_168771_length_309_cov_0.384615_1  # 2 # 307 # -1 # ID=168771_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spa
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   16.1   0.1   2.8e-06     0.061     213     274 ..       5      66 ..       3      88 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 16.1 bits;  conditional E-value: 2.8e-06
+                          IsMHETase_hmm 213 GreamvaavrnpddyDGivagdPgfhLpkaaiaeaygaqqlakiasatganglpdirsgfsd 274
+                                            G   mv+ ++np++y+G+  +  g  L+  ai+++y+  q a  ++ +g+ +++d+r+++ d
+  NODE_168771_length_309_cov_0.384615_1   5 GSGVMVTGSHNPANYNGLKIMLGGETLSGDAIQKLYDRIQNADFSAGQGELSREDVRRAYLD 66 
+                                            6778*******************************************************976 PP
+
+>> NODE_1549_length_7530_cov_0.929893_3  # 4234 # 6621 # -1 # ID=1549_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rb
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   13.5   0.3   1.6e-05      0.36     111     157 ..     256     300 ..     254     314 .. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 13.5 bits;  conditional E-value: 1.6e-05
+                         IsMHETase_hmm 111 kaWngrffyqangGldGnvvtatgeiggggpltdalaqgfavissds 157
+                                           ++Wngr++y  +gG+  ++ ++ g+ +g +   +al qg+avi s +
+  NODE_1549_length_7530_cov_0.929893_3 256 NNWNGRLLYHFEGGV--AIGHSQGRLSGRALSPEALGQGYAVIYSTG 300
+                                           58************8..699*********9999**********8754 PP
+
+>> NODE_180407_length_299_cov_0.424419_1  # 1 # 297 # 1 # ID=180407_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spac
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   12.7   0.0   2.8e-05      0.62     182     238 ..      28      83 ..      10      93 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 12.7 bits;  conditional E-value: 2.8e-05
+                          IsMHETase_hmm 182 vdaltpmakqvirlaygkapdrsyfvGCsnGGreamvaavrnpddyDGivagdPgfh 238
+                                            +d +++   ++i++ +  +++rs + G s GG+ a+v+a r p++y  + a  P + 
+  NODE_180407_length_299_cov_0.424419_1  28 YDYVVQELPALIEAHFPVTAERS-IRGHSMGGHGALVIALRTPGRYRRVSAFSPIVA 83 
+                                            566677777899999*99***99.79********************99999888765 PP
+
+>> NODE_25932_length_996_cov_0.391254_2  # 515 # 994 # -1 # ID=25932_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spa
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   12.1   0.0   4.5e-05      0.99     197     236 ..      42      81 ..      24      85 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 12.1 bits;  conditional E-value: 4.5e-05
+                         IsMHETase_hmm 197 ygkapdrsyfvGCsnGGreamvaavrnpddyDGivagdPg 236
+                                           +g ++++ yf G s+G   ++  ++rn+++y Giva   g
+  NODE_25932_length_996_cov_0.391254_2  42 HGFTAENIYFLGFSQGACLTLEYTARNAQRYGGIVAFTGG 81 
+                                           57789999****************************7665 PP
+
+>> NODE_6289_length_2678_cov_0.448452_4  # 1975 # 2595 # 1 # ID=6289_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spac
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   11.2   0.0   8.2e-05       1.8     193     236 ..      87     130 ..      45     133 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 11.2 bits;  conditional E-value: 8.2e-05
+                         IsMHETase_hmm 193 irlaygkapdrsyfvGCsnGGreamvaavrnpddyDGivagdPg 236
+                                           i +a g ++++ yf G s+G   ++ +++r++++y Giva   g
+  NODE_6289_length_2678_cov_0.448452_4  87 IVQAAGIETRNIYFLGFSQGACLTLEFTARHATRYGGIVAFTGG 130
+                                           556678899999****************************7665 PP
+
+>> NODE_157483_length_320_cov_0.233161_1  # 2 # 319 # 1 # ID=157483_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spac
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   11.7   0.0     6e-05       1.3     179     236 ..      33      89 ..      17      95 .. 0.82
+
+  Alignments for each domain:
+  == domain 1  score: 11.7 bits;  conditional E-value: 6e-05
+                          IsMHETase_hmm 179 yaavdaltpmakqvirlaygkapdrsyfvGCsnGGreamvaavrnpddyDGivagdPg 236
+                                            y+ +d +++   ++i++ +  + +rs +   s GG+ a+v a rnp++y  i a +P 
+  NODE_157483_length_320_cov_0.233161_1  33 YRMYDYVVEELPALIAKLFPITDKRS-ISAHSMGGHGALVCALRNPERYRSISAFAPI 89 
+                                            55666666666778888887777776.5778*********************999995 PP
+
+>> NODE_117217_length_369_cov_0.392562_1  # 3 # 368 # 1 # ID=117217_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spac
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   11.3   0.0   7.9e-05       1.7      59     129 ..      54     120 ..      16     122 .] 0.79
+
+  Alignments for each domain:
+  == domain 1  score: 11.3 bits;  conditional E-value: 7.9e-05
+                          IsMHETase_hmm  59 tsftsvttaaagaltvagkplpehCviegklnervsavdgktyaigFelRlP..kaWngrffyqangGldGn 128
+                                             s+ + ++++++  ++a+ +++e C ++g++ +       +t  i + + lP  ++Wng+ +  ++g  dG 
+  NODE_117217_length_369_cov_0.392562_1  54 DSLPNGAKVTSTEIRAATGNMTEACIVRGEIVT------SDTSTILWAVELPefEDWNGKTLTVGGGAFDGF 119
+                                            445555666777788889999********9854......34557888888884459***************8 PP
+
+                          IsMHETase_hmm 129 v 129
+                                            +
+  NODE_117217_length_369_cov_0.392562_1 120 I 120
+                                            7 PP
+
+>> NODE_5165_length_3094_cov_0.403101_3  # 1587 # 3092 # -1 # ID=5165_3;partial=01;start_type=Edge;rbs_motif=None;rbs_sp
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   10.4   0.1   0.00015       3.3      33     102 ..      73     143 ..      57     147 .. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 10.4 bits;  conditional E-value: 0.00015
+                         IsMHETase_hmm  33 trlaaatpaamaqtcdalaaklayantsftsvttaaag.altvagkplpehCviegklnervsavdgktya 102
+                                           ++ +++++a m  +++a+ +++ + + ++++v +a+   a + a++++ +hC+i+ +l e v++ + ++y 
+  NODE_5165_length_3094_cov_0.403101_3  73 PTFQQLAQADMDIMVGATLDNIMMVEGEMNEVSEAEMLeAIKFAHEEIKKHCRIQMELTEAVGKTEKRAYS 143
+                                           56677888999999************99999999887658899*********************9999996 PP
+
+>> NODE_30_length_82561_cov_2.809896_4  # 2892 # 3731 # -1 # ID=30_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   10.6   0.0   0.00013       2.7     190     238 ..     129     176 ..     104     181 .. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 10.6 bits;  conditional E-value: 0.00013
+                        IsMHETase_hmm 190 kqvirlaygkapdrsyfvGCsnGGreamvaavrnpddyDGivagdPgfh 238
+                                          +q++++    + +r  + G s GG+ a+v+a rnp+ y  + a +P  h
+  NODE_30_length_82561_cov_2.809896_4 129 RQLVEQHLPLN-QRRAISGHSMGGHGALVMAIRNPELYTSVSAFAPICH 176
+                                          55555555444.455689***********************99999765 PP
+
+>> NODE_100281_length_400_cov_0.146520_1  # 2 # 361 # 1 # ID=100281_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spac
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    9.8   0.0   0.00022       4.9     201     262 ..       6      67 ..       2      85 .. 0.86
+   2 ?    2.3   0.0     0.041   9.1e+02     445     473 ..      58      86 ..      54     100 .. 0.81
+
+  Alignments for each domain:
+  == domain 1  score: 9.8 bits;  conditional E-value: 0.00022
+                          IsMHETase_hmm 201 pdrsyfvGCsnGGreamvaavrnpddyDGivagdPgfhLpkaaiaeaygaqqlakiasatga 262
+                                            +dr  ++G s+G   a+ +  r+p++  Gi+     + L+ aa +e   a q ++i  a+g+
+  NODE_100281_length_400_cov_0.146520_1   6 TDRIVLAGFSQGCAMALQTGLRYPEKLAGIIGLSGYLPLAGAARQERQPANQTTRIFLAHGT 67 
+                                            688899***************************9999******9999999999999877655 PP
+
+  == domain 2  score: 2.3 bits;  conditional E-value: 0.041
+                          IsMHETase_hmm 445 GgkllvyhGtsDpvfsvnDtadwyarlaq 473
+                                             +++++ hGt Dpv+ ++  ++  + l++
+  NODE_100281_length_400_cov_0.146520_1  58 TTRIFLAHGTMDPVVPFERAQATLEALQA 86 
+                                            578999********999888877777765 PP
+
+>> NODE_246_length_24741_cov_1.966320_30  # 11514 # 11741 # -1 # ID=246_30;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   11.0   0.3   9.5e-05       2.1     255     311 ..      16      71 ..       8      75 .. 0.72
+
+  Alignments for each domain:
+  == domain 1  score: 11.0 bits;  conditional E-value: 9.5e-05
+                          IsMHETase_hmm 255 kiasatganglpdirsgfsdaerrlvaakilakCDalDgaaDglvqdvaaCqaafsl 311
+                                            +i ++ ++  ++ + +  +dae r v+ ++l++C+ lD + D +  +  + +++++l
+  NODE_246_length_24741_cov_1.966320_30  16 QIVDTIDTLRRNGL-ADMTDAEVRAVSGTVLDACEKLDYVIDIMAMAEYRAEMRMDL 71 
+                                            55555544333333.3579***********************997776666666555 PP
+
+>> NODE_47019_length_641_cov_0.060311_2  # 169 # 369 # -1 # ID=47019_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spac
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   10.5   0.0   0.00014         3     353     393 ..      21      61 ..      12      66 .. 0.83
+
+  Alignments for each domain:
+  == domain 1  score: 10.5 bits;  conditional E-value: 0.00014
+                         IsMHETase_hmm 353 asfpyDaGiagegWaaWklgnsvtldpaalaftfttppkka 393
+                                           ++f  D G++ + W++Wk g +  l  + l ++  +ppk++
+  NODE_47019_length_641_cov_0.060311_2  21 NQFCQDIGVSRTSWQRWKAGIVNPLLETWLRVQELAPPKEK 61 
+                                           68999***************998887777777777777766 PP
+
+>> NODE_16395_length_1379_cov_0.479233_3  # 436 # 837 # -1 # ID=16395_3;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GA
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    8.8   0.0   0.00043       9.4     195     231 ..       4      43 ..       2      58 .. 0.84
+   2 ?   -2.1   0.0      0.91     2e+04     145     160 ..     110     125 ..     100     130 .. 0.82
+
+  Alignments for each domain:
+  == domain 1  score: 8.8 bits;  conditional E-value: 0.00043
+                          IsMHETase_hmm 195 laygkapdrsyfvGCsnGGreamvaav...rnpddyDGiv 231
+                                            ++y++  + syf+ Cs+   +++++a+   r+++++ Gi 
+  NODE_16395_length_1379_cov_0.479233_3   4 MFYSEGVNPSYFITCSKSAARSILTATemmRYSSNFWGIC 43 
+                                            699*******************999954449999999996 PP
+
+  == domain 2  score: -2.1 bits;  conditional E-value: 0.91
+                          IsMHETase_hmm 145 alaqgfavissdsGHd 160
+                                            al    av + dsGHd
+  NODE_16395_length_1379_cov_0.479233_3 110 ALLYILAVAALDSGHD 125
+                                            666677999******8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (560 nodes)
+Target sequences:                     329302  (46987629 residues searched)
+Passed MSV filter:                      7172  (0.0217794); expected 6586.0 (0.02)
+Passed bias filter:                     5096  (0.0154752); expected 6586.0 (0.02)
+Passed Vit filter:                       405  (0.00122987); expected 329.3 (0.001)
+Passed Fwd filter:                        15  (4.55509e-05); expected 3.3 (1e-05)
+Initial search space (Z):             329302  [actual number of targets]
+Domain search space  (domZ):              15  [number of targets reported over threshold]
+# CPU time: 3.09u 0.10s 00:00:03.19 Elapsed: 00:00:01.25
+# Mc/sec: 21021.21
+//
+[ok]

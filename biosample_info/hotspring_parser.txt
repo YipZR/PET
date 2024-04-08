@@ -1,0 +1,376 @@
+SAMN17260790	2014-12 	Chile: Los Lagos	42.458083 S 72.460917 W	Porcelana hot spring 55 C Mitomycin induction 	Phototrophic microbial mat 	
+SAMN17260789	2014-12 	Chile: Los Lagos	42.458083 S 72.460917 W	Porcelana hot spring 50 C Mitomycin induction 	Phototrophic microbial mat 	
+SAMN17260788	2014-12 	Chile: Los Lagos	42.458083 S 72.460917 W	Porcelana hot spring 55 C 	Phototrophic microbial mat 	
+SAMN17260787	2014-12 	Chile: Los Lagos	42.458083 S 72.460917 W	Porcelana hot spring 50 C 	Phototrophic microbial mat 	
+SAMN14653531	sediment 	2017-02-15 	Costa Rica: Espabel salitral, 26C	9.901885 N 85.454327 W	26 	
+SAMN14653530	fluid 	2017-02-15 	Costa Rica: Espabel salitral, 26C	9.901885 N 85.454327 W	26 	
+SAMN14653521	fluid (1st metagenome, out of 2) 	2017-02-18 	Costa Rica: Borinquen hot springs, 89C	10.810883 N 85.413707 W	https://eartharxiv.org/gyr7n/	89 	
+SAMN14653520	soil 	2017-02-20 	Costa Rica: flank of Arnal Volcano,	10.4864 N 84.6872 W	https://eartharxiv.org/gyr7n/	
+SAMN14653529	sediment 	2017-02-14 	Costa Rica: Rio Cayuco hot springs, 72C	10.287497 N 84.955524 W	72 	
+SAMN14653528	fluid 	2017-02-14 	Costa Rica: Rio Cayuco hot springs, 72C	10.287497 N 84.955524 W	72 	
+SAMN14653527	sediment 	2017-02-18 	Costa Rica: Blue River hot springs, 54C	10.89837 N 85.32853 W	54 	
+SAMN14653526	fluid 	2017-02-18 	Costa Rica: Blue River hot springs, 54C	10.89837 N 85.32853 W	54 	
+SAMN14653525	sediment 	2017-02-18 	Costa Rica: Blue River hot springs, 59C	10.89837 N 85.32839 W	https://eartharxiv.org/gyr7n/	59 	
+SAMN14653524	fluid 	2017-02-18 	Costa Rica: Blue River hot springs, 59C	10.89837 N 85.32839 W	https://eartharxiv.org/gyr7n/	59 	
+SAMN14653557	sediment 	2017-02-21 	Costa Rica: El Tucano Hot Spring, 64C	10.366486 N 84.381208 W	64 	
+SAMN14653556	fluid 	2017-02-21 	Costa Rica: El Tucano Hot Spring, 64C	10.366486 N 84.381208 W	64 	
+SAMN14653555	sediment 	2017-02-17 	Costa Rica: El Sitio salitral, 36C	10.301239 N 85.610549 W	36 	
+SAMN14653554	fluid 	2017-02-17 	Costa Rica: El Sitio salitral, 36C	10.301239 N 85.610549 W	36 	
+SAMN14653553	sediment 	2017-02-14 	Costa Rica: Santa Lucia Hot Spring, 57C	10.290599 N 84.972435 W	57 	
+SAMN14653552	fluid 	2017-02-14 	Costa Rica: Santa Lucia Hot Spring, 57C	10.290599 N 84.972435 W	57 	
+SAMN14653523	sediment 	2017-02-18 	Costa Rica: Borinquen hot springs, 89C	10.810883 N 85.413707 W	https://eartharxiv.org/gyr7n/	89 	
+SAMN14653549	fluid 	2017-02-21 	Costa Rica: Recreo Verde deep well, flank of Poas Volcano, 43C	10.321576 N 84.243686 W	43 	
+SAMN14653548	sediment 	2017-02-16 	Costa Rica: Rancho Salitral, 29C	10.232331 N 85.531602 W	29 	
+SAMN14653547	fluid 	2017-02-16 	Costa Rica: Rancho Salitral, 29C	10.232331 N 85.531602 W	29 	
+SAMN14653546	sediment 	2017-02-20 	Costa Rica: Quebrada Naranja, Don Tobias Hot Spring, 23C	10.495573 N 84.696714 W	23 	
+SAMN14653545	fluid 	2017-02-20 	Costa Rica: Quebrada Naranja, Don Tobias Hot Spring, 23C	10.495573 N 84.696714 W	23 	
+SAMN14653544	sediment 	2017-02-13 	Costa Rica: Quepos Hot Spring (Spring #1), 49C	9.56171 N 84.123251 W	49 	
+SAMN14653543	sediment 	2017-02-13 	Costa Rica: Quepos Hot Spring (Spring #2), 37C	9.561575 N 84.123468 W	
+SAMN14653542	fluid 	2017-02-13 	Costa Rica: Quepos Hot Spring (Spring #2), 37C	9.561575 N 84.123468 W	
+SAMN14653541	sediment 	2017-02-24 	Costa Rica: inside Poas Volcano Crater, in the hyperacidic lake, 38C	10.196777 N 84.229892 W	
+SAMN14653540	soil 	2017-02-24 	Costa Rica: inside Poas Volcano Crater, near the hyperacidic lake	10.188962 N 84.227388 W	
+SAMN14653522	fluid (2nd metagenome, out of 2) 	2017-02-18 	Costa Rica: Borinquen hot springs, 89C	10.810883 N 85.413707 W	https://eartharxiv.org/gyr7n/	89 	
+SAMN14653539	fluid 	2017-02-19 	Costa Rica: 50 m open well (Mouse Trap), 59C	10.595774 N 85.238451 W	59 	
+SAMN14653538	sediment 	2017-02-24 	Costa Rica: Laguna Botos, CO2-fed lake on flank of Poas Volcano,	10.188962 N 84.227388 W	
+SAMN14653537	water 	2017-02-24 	Costa Rica: Laguna Botos, CO2-fed lake on flank of Poas Volcano,	10.188962 N 84.227388 W	
+SAMN14653536	sediment 	2017-02-19 	Costa Rica: Finca ANDE hot spring, 55C	10.336843 N 85.069499 W	55 	
+SAMN14653535	sediment 	2017-02-22 	Costa Rica: Pompilo's Finca back arc hot spring, 29C	10.518466 N 84.11518 W	29 	
+SAMN14653534	fluid 	2017-02-22 	Costa Rica: Pompilo's Finca back arc hot spring, 29C	10.518466 N 84.11518 W	29 	
+SAMN14653533	sediment 	2017-02-20 	Costa Rica: Eco Termales hot spring, 40C	10.484006 N 84.675853 W	40 	
+SAMN14653532	fluid 	2017-02-15 	Costa Rica: Estrada salitral, 28C	9.899005 N 85.453514 W	28 	
+SAMN20822862	hot spring soil 	2018-04-19 	India: Unnai Hot-spring,Gujarat	20.85333 N 73.33417 E	biological replicate 2 	
+SAMN20822861	hot spring soil 	2018-04-19 	India: Unnai Hot-spring,Gujarat	20.85333 N 73.33444 E	biological replicate 1 	
+SAMN20822860	hot spring soil 	2019-11-11 	India: Tuwa Hot-spring,Gujarat	22.79944 N 73.46028 E	biological replicate 2 	
+SAMN20822859	hot spring soil 	2019-11-11 	India: Tuwa Hot-spring,Gujarat	22.79944 N 73.45972 E	biological replicate 1 	
+SAMN20822857	hot spring soil 	2019-11-11 	India: Tuwa Hot-spring,Gujarat	22.79944 N 73.46000 E	biological replicate 2 	
+SAMN20822856	hot spring soil 	2019-11-11 	India: Tuwa Hot-spring,Gujarat	22.79944 N 73.46028 E	biological replicate 1 	
+SAMN16687078	Water and mud samples from a hot spring 	2018-10-16 	Costa Rica: Rincon de la Vieja	10.774800 N 85.345000 W	
+SAMN34111310	missing 	enrichment cultures from hot spring sediment 	2022-07-20T10:00:01Z 	China:Yunnan	not collected 	anaerobe 	
+SAMN06264996	2014-09-02 	not applicable 	USA: California	39.0314 N 122.4323 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06266021	2014-09-02 	not applicable 	USA: California	39.0348 N 122.4271 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06343856	2012-09-26 	not applicable 	Canada: British Columbia	49.9543 N 116.5155 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06343854	2012-09-26 	not applicable 	Canada: British Columbia	49.9543 N 116.5155 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06343855	2012-09-26 	not applicable 	Canada: British Columbia	49.9543 N 116.5155 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06343857	2012-09-26 	not applicable 	Canada: British Columbia	49.9543 N 116.5155 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06343858	2010-09-15 	not applicable 	Canada: British Columbia	49.9543 N 116.5155 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06343859	2012-10-01 	not applicable 	Canada: British Columbia	60.1987 N 125.5127 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN32670531	N/A 	hot spring 	2021-07-20 	USA: Yellowstone National Park, WY	44.56713 N 110.80562 W	hot spring 	geothermal heated sediment 	hot spring sediment 	
+SAMN32678673	N/A 	hot spring 	2022-01 	USA: Yellowstone National Park, WY	44.57763 N 110.78957 W	
+SAMN32678672	N/A 	hot spring 	2021-06 	USA: Yellowstone National Park, WY	44.57763 N 110.78957 W	
+SAMN32713365	N/A 	hot spring 	2021-07-20 	USA: Yellowstone National Park, WY	44.56713 N 110.80562 W	
+SAMN16843768	Chloroflexus-dominated hot spring microbial mat 	2019-09-06 	Japan: Nakabusa Hot Spring	36.388889 N 137.739444 E	
+SAMN10948629	2017-07-08 	0.1 	1760 	aquatic 	hot spring microbial mat 	microbial mat 	India: Kheerganga,H.P.	31.59297 N 77.30349 E	45 °C 	
+SAMN10948628	2017-07-08 	0.1 	1760 	aquatic 	hot spring microbial mat 	microbial mat 	India: Kheerganga,H.P.	31.59297 N 77.30349 E	46 °C 	
+SAMEA18680668	2016-05 	pond 	hot spring 	water 	South Africa	metagenome 	Brandvlei metavirome 	Brandvlei 	2017-10-31 	2016-12-02 	ERC000024 	SAMEA18680668 	Department of Microbiology and Plant Pathology 	Department of Microbiology and Plant Pathology 	2017-10-31T17:02:42Z 	2016-12-02T08:21:46Z 	public 	Brandvlei 	0.5 	-33.732496 	19.413317 	Illumina Miseq 	water 	
+SAMEA104550428	2014 	hot spring 	biofilm 	biofilm 	Iceland	metagenome 	3F 	3F1 	2018-03-17 	2018-01-26 	ERC000025 	SAMEA104550428 	UNIVERSITY OF VIENNA 	UNIVERSITY OF VIENNA 	2018-03-17T17:02:56Z 	2018-01-26T16:06:11Z 	public 	3F1 	64° 1’ 7” N 	21° 11’ 20” W 	miscellaneous natural or artificial environment 	Illumina, NanoPore 	
+SAMEA104550428	2014 	hot spring 	biofilm 	biofilm 	Iceland	metagenome 	3F 	3F1 	2018-03-17 	2018-01-26 	ERC000025 	SAMEA104550428 	UNIVERSITY OF VIENNA 	UNIVERSITY OF VIENNA 	2018-03-17T17:02:56Z 	2018-01-26T16:06:11Z 	public 	3F1 	64° 1’ 7” N 	21° 11’ 20” W 	miscellaneous natural or artificial environment 	Illumina, NanoPore 	
+SAMEA3495622	2015-06-26 	0 	hot spring 	hot spring 	microbial mat 	USA	metagenome 	International Geobiology Course 2015 	LHC_ConePool1 	2017-07-30 	2016-10-21 	ERC000019 	SAMEA3495622 	UO 	University of Oklahoma - USA 	2017-07-30T17:01:52Z 	2016-10-21T09:43:13Z 	public 	LHC_ConePool1 	2135.3 	37.4127 	-118.504 	microbial mat/biofilm 	Illumina 	
+SAMN12692075	water 	hot spring 	2017-11 	India	27.14957 N 88.18183 E	
+SAMN12692074	water 	hot spring 	2017-11 	India	27.20982 N 88.1930 E	
+SAMN18355317	2019-01-19 	2953 	Hot spring microbiome 	Hot spring 	Spring water 	Kazakhstan:Zharkent	44.163733 N 79.981335 E	
+SAMN08918378	2015-07-02 	1m 	fresh water 	hot spring 	water 	Portugal: Azores	37.772708 N 25.304020 W	hot spring 	
+SAMN08918378	2015-07-02 	1m 	fresh water 	hot spring 	water 	Portugal: Azores	37.772708 N 25.304020 W	hot spring 	
+SAMN08918378	2015-07-02 	1m 	fresh water 	hot spring 	water 	Portugal: Azores	37.772708 N 25.304020 W	hot spring 	
+SAMN09580624	Hot spring_55deg. 	2015-11-28 	India:Chattisgarh	23.69 N 83.68 E	
+SAMN09580623	Hot spring_65deg. 	2015-11-28 	India:Chattisgarh	23.69 N 83.68 E	
+SAMN09580622	Hot spring_95deg. 	2015-11-28 	India:Chattisgarh	23.69 N 83.68 E	
+SAMN09580621	Hot spring_98deg. 	2015-11-28 	India:Chattisgarh	23.69 N 83.68 E	
+SAMN10130911	Sediments sample of Tretyakovsky Hot Spring (Northern Group) 	2017-08-17 	Russia:Kunashir Island	43.988333 N 145.651389 E	
+SAMN05518198	2011-09-09 	not applicable 	USA:Elkhorn Slough, Monterey Bay, California, USA	36.82188 N 121.744 W	Elkhorn Slough, Monterey Bay, California, USA 	Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Microbial mats 	
+SAMN05518589	2011-09-11 	not applicable 	USA:Elkhorn Slough, Monterey Bay, California, USA	36.82188 N 121.744 W	Elkhorn Slough, Monterey Bay, California, USA 	Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Unclassified 	
+SAMN05518183	2011-08-11 	not applicable 	USA:Elkhorn Slough, Monterey Bay, California, USA	36.82188 N 121.744 W	Elkhorn Slough, Monterey Bay, California, USA 	Environmental | Aquatic | Non-marine Saline and Alkaline | Saline | Microbial mats 	
+SAMN06268946	2011-08-11 	not applicable 	USA:Elkhorn Slough, Monterey Bay, California, USA	36.83 N 121.785 W	Elkhorn Slough, Monterey Bay, California, USA 	Environmental | Aquatic | Marine | Intertidal zone | Estuary: Microbial mat 	
+SAMN13258264	2016-08-17 	0.1m 	caldera [ENVO_00000096] 	acid hot spring [ENVO_00002120] 	acidic water [ENVO_01000358] 	New Zealand: Whakaari|White Island	37.5248 S 177.1902 E	9.7 mg/L 	80 mg/L 	0.203 uM 	0.0022 mg/L 	2.53 	64.27 mg/L 	83.1 	
+SAMD00054237	AR19 	2009-06-25 	0.05 m 	322 m 	hot spring 	geothermal area 	soil 	Japan:Miyagi, Osaki	38.80 N 140.67 E	7.2 	Analysis of sequences collected from a hot spring 	
+SAMD00155364	K1 	2013-09 	0.1 m 	freshwater biome 	hot spring 	water 	Japan:Kagoshima, Kirishima	31.55 N 130.47 E	6.6 	Metagenomic analysis of Kirishima hot springs 	84.5 	
+SAMD00155365	Y1 	2013-09 	0.1 m 	freshwater biome 	hot spring 	water 	Japan:Kagoshima, Kirishima	31.53 N 130.49 E	4.8 	Metagenomic analysis of Kirishima hot springs 	90.4 	
+SAMD00155366	N1 	2013-09 	0.1 m 	freshwater biome 	hot spring 	water 	Japan:Kagoshima, Kirishima	31.55 N 130.47 E	6.9 	Metagenomic analysis of Kirishima hot springs 	68 	
+SAMD00155367	M1 	2013-09 	0.1 m 	freshwater biome 	hot spring 	water 	Japan:Kagoshima, Kirishima	31.57 N 130.46 E	8.8 	Metagenomic analysis of Kirishima hot springs 	96.8 	
+SAMD00155368	K2 	2013-09 	0.1 m 	freshwater biome 	hot spring 	water 	Japan:Kagoshima, Kirishima	31.55 N 130.47 E	1.9 	Metagenomic analysis of Kirishima hot springs 	94.7 	
+SAMD00155369	I1 	2013-09 	0.1 m 	freshwater biome 	hot spring 	water 	Japan:Kagoshima, Kirishima	31.53 N 130.50 E	2.9 	Metagenomic analysis of Kirishima hot springs 	88 	
+SAMD00155370	T1 	2013-09 	0.1 m 	freshwater biome 	hot spring 	water 	Japan:Kagoshima, Kirishima	31.54 N 130.49 E	2.4 	Metagenomic analysis of Kirishima hot springs 	84 	
+SAMD00155371	G1 	2013-09 	0.1 m 	freshwater biome 	hot spring 	water 	Japan:Kagoshima, Kirishima	31.55 N 130.48 E	2.9 	Metagenomic analysis of Kirishima hot springs 	85.5 	
+SAMD00155372	N2 	2013-09 	0.1 m 	freshwater biome 	hot spring 	water 	Japan:Kagoshima, Kirishima	31.54 N 130.49 E	2.8 	Metagenomic analysis of Kirishima hot springs 	89.1 	
+SAMD00319324	KatS3 	2012-06-11 	0 	0 	freshwater biome 	neutral hot spring 	thermophilic sediment 	Japan:Shizuoka, Higashi-izu, Arayu	34.804 N 139.064 E	Metagenomics of Katase hot spring sample 	
+SAMEA94257418	Water sample collected from a geothermal spring located in Manikaran, Himachal Pradesh, India. 	ERS1563791 	2012-06-12 	Aquatic biome 	Geographical feature 	Water 	India	metagenome 	Manikaran Metagenomics 	MNW1 	ERC000024 	UNIVERSITY OF DELHI 	2017-03-24T13:18:41Z 	2017-02-19T09:54:38Z 	public 	ERS1563791 	MNW1 	5 	1760 	32.026333 	77.347306 	Illumina 	water 	
+SAMEA94258168	Water sample collected from a geothermal spring located at Manikaran, Himachal Pradesh, India 	ERS1563792 	2012-12-06 	Aquatic biome 	Water 	Water 	India	metagenome 	Manikaran metagenome 	MNW2 	ERC000024 	UNIVERSITY OF DELHI 	2017-03-24T13:18:41Z 	2017-02-19T10:02:40Z 	public 	ERS1563792 	MNW2 	5 	32.026333 	77.347306 	Illumina 	water 	
+SAMEA3142070	2013 	Hot spring 	Hot spring pool 	Water and soil 	Zimbabwe	metagenome 	Binga Hot spring 	Binga1 	2015-04-28 	2016-10-21 	ERC000024 	SAMEA3142070 	NUST 	NUST 	2015-04-28T17:01:36Z 	2016-10-21T09:44:00Z 	public 	Binga1 	0.2 	-17.593101 	27.358368 	Illumina MiSeq 	water 	
+SAMEA3299992	2014-10-16 	Hot spring 	Water reservoir 	Hot water 	India	metagenome 	Metagenomic exploration of Lasundra hot spring 	Hot spring microbial communities from Lasundra 11 	2015-03-14 	2016-10-21 	ERC000024 	SAMEA3299992 	Hem. North Gujarat University - India 	Hem. North Gujarat University - India 	2015-03-14T17:07:39Z 	2016-10-21T09:44:02Z 	public 	Hot spring microbial communities from Lasundra 11 	8 	22.92 	73.20 	Ion torrent PGM platform 	water 	
+SAMEA3307975	2012-12-13 	Hot spring 	Water reservoir 	Hot water 	India	metagenome 	BAM-TUVA TIMBA 	Hot spring microbial communities from Tuva timba 	2015-03-27 	2016-10-21 	ERC000024 	SAMEA3307975 	Hem. North Gujarat University - India 	Hem. North Gujarat University - India 	2015-03-27T17:06:50Z 	2016-10-21T09:44:02Z 	public 	Hot spring microbial communities from Tuva timba 	10 	22.79 	73.46 	Ion torrent PGM platform 	water 	
+SAMEA3310623	2012-11-15 	Hot spring 	Water Reservoir 	Water 	India	metagenome 	A Comprehensive survey of Microbial Diversity in Hot Spring of Unai 	Hot spring microbial communities from Unai sample1 	2015-04-13 	2016-10-21 	ERC000024 	SAMEA3310623 	Hem. North Gujarat University - India 	Hem. North Gujarat University - India 	2015-04-13T17:02:37Z 	2016-10-21T09:44:02Z 	public 	Hot spring microbial communities from Unai sample1 	7 	20.85 	73.33 	Ion-Torrent PGM platform 	water 	
+SAMN07732890	2016-03-31 	-0.1m 	island arc [ENVO:00000353], humid subtropical [ENVO:01000377], caldera [ENVO:00000096] 	caldera lake [ENVO:01001061] 	water 	New Zealand: Raoul Island	29.263502 S 177.920697 W	6.96 	syringe 	filtered onto Sterivex 	30mL 	34.5 	
+SAMN07732891	2016-03-31 	-0.05m 	island arc [ENVO:00000353], humid subtropical [ENVO:01000377], caldera [ENVO:00000096] 	caldera lake [ENVO:01001061] 	water 	New Zealand: Raoul Island	29.262380 S 177.920850 W	5.9 	syringe 	filtered onto Sterivex 	480mL 	29.9 	
+SAMN07732889	2016-03-31 	-0.05m 	island arc [ENVO:00000353], humid subtropical [ENVO:01000377], caldera [ENVO:00000096] 	caldera lake [ENVO:01001061] 	water 	New Zealand: Raoul Island	29.262380 S 177.919075 W	5.43 	syringe 	filtered onto Sterivex 	100mL 	27.2 	
+SAMN12723041	45 deg. C spring 3 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	EPS_3 	
+SAMN12723040	45 deg. C spring 2 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	EPS_2 	
+SAMN12723039	45 deg. C spring 1 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	EPS_1 	
+SAMN12723038	30 deg. C spring 3 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	BETA_3 	
+SAMN12723037	30 deg. C spring 2 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	BETA_2 	
+SAMN12723036	30 deg. C spring 1 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	BETA_1 	
+SAMN12723035	17 deg. C spring 3 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	COOL_3 	
+SAMN12723034	17 deg. C spring 2 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	COOL_2 	
+SAMN12723033	17 deg. C spring 1 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	COOL_1 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN09092771	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN09092771	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN08455322	2016-06-21 	-0.05m 	temperate mixed forest biome [ENVO:01000212] 	neutral hot spring [ENVO:00002181] 	water 	New Zealand: Taup? Volcanic Zone	38.47333 S 176.14711 E	7.2 	syringe 	filtered onto Sterivex 	2L 	2L 	91.3 	
+SAMN06264355	2015-08-17 	not applicable 	USA: California	37.4127 N 118.5040 W	Hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN12813068	2009-07-29 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN14506365	2011-10 	0 cm 	n/a 	hot spring [ENVO:00000051]|acidic hot spring [ENVO:00002120] 	spring [ENVO:00000027]|sediment [ENVO:00002007] 	sediment environment [ENVO:01001048] 	New Zealand: Cub Bath in Tiger Springs area of Ngawha Springs	35.4075150 S 173.8554755 E	3.2-3.6 	grab sample 	sediment stored at -80C prior to DNA extraction 	acidic hot springs sediment 	
+SAMN14506364	2011-10 	0 cm 	n/a 	hot spring [ENVO:00000051]|acidic hot spring [ENVO:00002120] 	spring [ENVO:00000027]|sediment [ENVO:00002007] 	sediment environment [ENVO:01001048] 	New Zealand: Tiger Bath in Tiger Springs area of Ngawha Springs	35.4075155 S 173.8554535 E	2.9-3.0 	grab sample 	sediment stored at -80C prior to DNA extraction 	acidic hot springs sediment 	
+SAMN02645644	MIGS/MIMS/MIMARKS.water 	metagenome 	hot spring 	2010-06-10 	hot spring 	China: Xiamen	24.57000 N 118.07000 E	water 	1m 	
+SAMN05518071	2008-12-01 	not applicable 	USA:Great Boiling Spring, Nevada	40.6614 N 119.36622 W	Great Boiling Spring, Nevada 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN15721936	2018-10-31 	not applicable 	USA: Wyoming	44.5324 N 110.7974 W	Hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN02786246	2010-11-03, 2010-11-10, 2010-11-21, 2011-02-08, 2011-03-17 	0 ~ 25 cm 	acidic hot spring water 	acidic hot spring 	Taiwan: Shi-Huang-Ping hot spring	25.19544 N 121.60245 E	Water 	acidic hot spring 	acidic hot spring 	water 	
+SAMN16773005	2018-10-31 	not applicable 	USA: Wyoming	44.5324 N 110.7974 W	Hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN16773200	2018-10-31 	not applicable 	USA: Wyoming	44.5324 N 110.7974 W	Hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN16773056	2018-10-31 	not applicable 	USA: Wyoming	44.5324 N 110.7974 W	Hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN16773057	2018-10-31 	not applicable 	USA: Wyoming	44.5324 N 110.7974 W	Hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN16773995	2018-10-31 	not applicable 	USA: Wyoming	44.5324 N 110.7974 W	Hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN16773445	2018-10-31 	not applicable 	USA: Wyoming	44.5324 N 110.7974 W	Hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN16969497	Hot spring sediment 	2015 	USA: Wyoming	44.76 N 110.44 W	
+SAMN17862813	2016-07-28 	hot spring metagenome 	terrestrial 	acid hot spring 	acidic water 	USA:Wyoming	44.732266 N 110.710719 W	371.9 	4.24 	63.4 	4.06 	430.6 	95.6C 	
+SAMN17862812	2016-07-28 	hot spring metagenome 	terrestrial 	acid hot spring 	acidic water 	USA:Wyoming	44.732266 N 110.710719 W	215.3 	4.38 	39.8 	4.11 	489.6 	88.4C 	
+SAMN17862811	2016-07-28 	hot spring metagenome 	terrestrial 	acid hot spring 	acidic water 	USA:Wyoming	44.732266 N 110.710719 W	371.9 	4.20 	10.8 	4.13 	458.3 	85.8C 	
+SAMN17674923	2018-10-31 	not applicable 	USA: Wyoming	44.5324 N 110.7974 W	Hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN18645360	hot spring water 	2015-05 	Philippines:Manleluag spring	15.70 N 120.28 E	
+SAMN19405191	2016-12-13 	0 	Geothermal hot spring 	Plateau 	Geothermal water 	Kerguelen Archipelago	49.62535 S 68.79869 E	25 	290 	8.7 	4 	78.4 	
+SAMN19461014	2016-12-13 	0 	Geothermal hot spring 	Plateau 	Geothermal water 	Kerguelen Archipelago	49.62566 S 68.79865 E	29 	287 	7.61 	4 	93 	
+SAMN19602603	2016-12-13 	0 	Geothermal hot spring 	Plateau 	Geothermal hot spring water 	Kerguelen Archipelago	49.62579 S 68.79895 E	3.2 	753 	5.79 	4 	97 	
+SAMN19603101	2016-12-14 	0 	Geothermal hot spring 	Beach 	Geothermal water 	Kerguelen Archipelago	49.63508 S 68.78616 E	83 	9.59 	4 	101.3 	
+SAMN20308268	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak17L 	
+SAMN20308267	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak17H 	
+SAMN20308266	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak16L 	
+SAMN20308265	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak16H 	
+SAMN20308264	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak15L 	
+SAMN20308263	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak15H 	
+SAMN20308262	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak14L 	
+SAMN20308280	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak20cL 	
+SAMN20308279	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak20cH 	
+SAMN20308261	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak14H 	
+SAMN20308278	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak20bL 	
+SAMN20308277	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak20bH 	
+SAMN20308276	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak20aL 	
+SAMN20308275	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak19cL 	
+SAMN20308274	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak19bL 	
+SAMN20308273	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak19bH 	
+SAMN20308272	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak19aL 	
+SAMN20308271	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak19aH 	
+SAMN20308270	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak18L 	
+SAMN20308269	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak18H 	
+SAMN20308260	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak13L 	
+SAMN20308259	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak13H 	
+SAMN20822858	hot spring water 	2019-11-11 	India: Tuwa Hot-spring,Gujarat	22.79944 N 73.46028 E	biological replicate 1 	
+SAMN21353070	2020-08 	50 cm 	50 m 	hot spring [ENVO:00000051] 	alkaline hot spring [ENVO:00002119] 	Biofilm [ENVO:01000156] 	Malaysia: Sungkai, Perak	3.9956 N 101.3933 E	Brown Biofilm 3 	
+SAMN21353068	2019-11 	30 cm 	50 m 	hot spring [ENVO:00000051] 	alkaline hot spring [ENVO:00002119] 	Biofilm [ENVO:01000156] 	Malaysia: Sungkai, Perak	3.9956 N 101.3933 E	Brown Biofilm 1 	
+SAMN21353067	2020-08 	0 cm 	50 m 	hot spring [ENVO:00000051] 	alkaline hot spring [ENVO:00002119] 	Biofilm [ENVO:01000156] 	Malaysia: Sungkai, Perak	3.9956 N 101.3933 E	Green Biofilm 3 	
+SAMN21353065	2019-11 	0 cm 	50 m 	hot spring [ENVO:00000051] 	alkaline hot spring [ENVO:00002119] 	Biofilm [ENVO:01000156] 	Malaysia: Sungkai, Perak	3.9956 N 101.3933 E	Green Biofilm 1 	
+SAMN03196561	2003 	0 	not collected 	spring 	alkaline hot spring 	microbial mat/biofilm 	USA: Yellowstone National Park	44.5647376 N 110.8602622 W	9.1 	57 	
+SAMN03196562	2003 	0 	not collected 	spring 	alkaline hot spring 	microbial mat/biofilm 	USA: Yellowstone National Park	44.5647287 N 110.8603051 W	9.1 	54 	
+SAMN03196563	2010 	0 	not collected 	spring 	alkaline hot spring 	microbial mat/biofilm 	USA: Yellowstone National Park	44.5697637 N 110.8649129 W	8.6 	40 	
+SAMN03196564	2010 	0 	not collected 	spring 	alkaline hot spring 	microbial mat/biofilm 	USA: Yellowstone National Park	44.56970403 N 110.8649643 W	7.7 	63 	
+SAMN23100584	2016-03-29 	enrichment culture; in situ ammonia-fiber explosion-treated corn stover incubated for 6 months in hot spring 	0 	biome [ENVO:00000428]|aquatic biome [ENVO:00002030] 	hot spring [ENVO:00000051] 	enrichment culturing unit [ENVO:01001818] 	USA: Great Boiling Spring, Gerlach, Nevada	40.662186 N 119.366729 W	7.15 	86.5 	
+SAMN23100584	2016-03-29 	enrichment culture; in situ ammonia-fiber explosion-treated corn stover incubated for 6 months in hot spring 	0 	biome [ENVO:00000428]|aquatic biome [ENVO:00002030] 	hot spring [ENVO:00000051] 	enrichment culturing unit [ENVO:01001818] 	USA: Great Boiling Spring, Gerlach, Nevada	40.662186 N 119.366729 W	7.15 	86.5 	
+SAMN24468286	2019 	USA: Yellowstone National Park	44.56963 N 110.86518 W	hot spring sediment from LGB-01 spring 	1-20 cm 	ENVO:00000051 	ENVO:0000207 	ENVO:0000207 	2200 	
+SAMN24468288	2019 	USA: Yellowstone National Park	44.56097 N 110.83286 W	hot spring sediment from LGB-05 spring 	1-20 cm 	ENVO:00000051 	ENVO:0000207 	ENVO:0000207 	2193 	
+SAMN06684313	4 m 	terrestrial geothermal area 	2013-04 	New Zealand: Rotorua	thermal spring 	water and sediment 	terrestrial hot spring 	78.5 	38.063 S 176.36 E	6.48 	3.07 mg/L 	
+SAMN26311772	2018-11-08 	0 	volcanic arc 	crater-lake active volcano 	hot-spring 	Mexico:Chiapas	17.21 N 93.13 W	crater-lake active volcano hot spring 	
+SAMN29644205	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto5 	
+SAMN29644206	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto6 	
+SAMN29644207	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto7 	
+SAMN29644208	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto8 	
+SAMN29644209	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto9 	
+SAMN29644210	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto10 	
+SAMN29644211	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto11 	
+SAMN29644212	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto12 	
+SAMN29635981	Microbial mat from hot spring 	2019-08 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto1 	
+SAMN29644202	Microbial mat from hot spring 	2019-08 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto2 	
+SAMN29644203	Microbial mat from hot spring 	2019-08 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto3 	
+SAMN29644204	Microbial mat from hot spring 	2019-08 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto4 	
+SAMN29644213	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	Pto13 	
+SAMN29644214	Microbial mat from hot spring 	2020-01 	Chile: El Tatio	22.20 S 68 W	Primary publication	aerobe 	Punch 	RNAlater at -20 degree celsius 	2mL 	T82 	
+SAMN03699771	not applicable 	hotsprings 	2003 	USA: Yellowstone National Park	44.732423 N 110.70977708 W	
+SAMN03699772	not applicable 	hotsprings 	2003 	USA: Yellowstone National Park	44.553361 N 110.30458050 W	
+SAMN03699773	not applicable 	hotsprings 	2003 	USA: Yellowstone National Park	44.634664 N 110.60455453 W	
+SAMN03699774	not applicable 	hotsprings 	2004 	USA: Yellowstone National Park	44.754916 N 110.41586584 W	
+SAMN29886733	missing 	hot spring 	2021-09 	China: Tibet	30.52 N 98.06 E	
+SAMN03797534	water from Lobios Hot Spring 	2011-02-08 	Spain: Lobios, Galicia	41.86113 N 8.1062 W	25 L 	
+SAMN32331379	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	7.44104 N 81.73277 W	
+SAMN32331377	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.70508 N 80.26919 W	
+SAMN32331433	2018-03 	1-21 	subsurface 	hot spring 	fluid 	Panama	9.19492 N 83.28059 W	
+SAMN32331432	2018-03 	1-21 	subsurface 	hot spring 	sediment 	Panama	10.485523 N 84.113229 W	
+SAMN32331431	2018-03 	1-21 	subsurface 	hot spring 	fluid 	Panama	10.485523 N 84.113229 W	
+SAMN32331430	2019-02 	1-21 	subsurface 	hot spring 	fluid 	Argentina	27.112858 S 66.822241 W	
+SAMN32331429	2019-02 	1-21 	subsurface 	hot spring 	sediment 	Argentina	24.18778 S 66.55451 W	
+SAMN32331428	2019-02 	1-21 	subsurface 	hot spring 	sediment 	Costa Rica	8.15755 N 81.13097 W	
+SAMN32331427	2018-03 	1-21 	subsurface 	hot spring 	fluid 	Panama	8.15755 N 81.13097 W	
+SAMN32331426	2018-03 	1-21 	subsurface 	hot spring 	fluid 	Panama	8.63591 N 82.22369 W	
+SAMN32331425	2019-02 	1-21 	subsurface 	hot spring 	sediment 	Argentina	25.40986 S 64.59134 W	
+SAMN32331424	2019-02 	1-21 	subsurface 	hot spring 	sediment 	Costa Rica	9.30283 N 83.29782 W	
+SAMN32331423	2019-02 	1-21 	subsurface 	hot spring 	fluid 	Costa Rica	9.30283 N 83.29782 W	
+SAMN32331422	2018-03 	1-21 	subsurface 	hot spring 	sediment 	Panama	10.488755 N 84.113598 W	
+SAMN32331421	2018-03 	1-21 	subsurface 	hot spring 	sediment 	Panama	8.57554 N 83.36416 W	
+SAMN32331420	2019-02 	1-21 	subsurface 	hot spring 	sediment 	Argentina	24.40986 S 64.59146 W	
+SAMN32331375	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.66645 N 82.3491 W	
+SAMN32331419	2019-02 	1-21 	subsurface 	hot spring 	sediment 	Argentina	24.246688 S 66.362722 W	
+SAMN32331418	2019-02 	1-21 	subsurface 	hot spring 	fluid 	Argentina	24.246688 S 66.362722 W	
+SAMN32331417	2019-02 	1-21 	subsurface 	hot spring 	sediment 	Argentina	24.364589 S 66.571132 W	
+SAMN32331416	2019-02 	1-21 	subsurface 	hot spring 	fluid 	Argentina	24.364589 S 66.571132 W	
+SAMN32331415	2018-03 	1-20 	subsurface 	hot spring 	sediment 	Panama	9.34391 N 83.59565 W	
+SAMN32331414	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	9.34391 N 83.59565 W	
+SAMN32331413	2018-03 	1-20 	subsurface 	hot spring 	sediment 	Panama	8.44119 N 82.90487 W	
+SAMN32331412	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.44119 N 82.90487 W	
+SAMN32331411	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.86966 N 82.69282 W	
+SAMN32331410	2018-03 	1-20 	subsurface 	hot spring 	sediment 	Panama	8.87095 N 82.6899 W	
+SAMN32331409	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.87095 N 82.6899 W	
+SAMN32331408	2018-03 	1-20 	subsurface 	hot spring 	sediment 	Costa Rica	10.427103 N 84.368543 W	
+SAMN32331407	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Costa Rica	10.427103 N 84.368543 W	
+SAMN32331405	2019-02 	1-20 	subsurface 	hot spring 	fluid 	Argentina	26.032911 S 66.986094 W	
+SAMN32331404	2018-03 	1-20 	subsurface 	hot spring 	sediment 	Panama	8.80736 N 79.79061 W	
+SAMN32331403	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.80736 N 79.79061 W	
+SAMN32331402	2021-06 	1-20 	subsurface 	hot spring 	sediment 	Iceland	63.895451 N 22.057004 W	
+SAMN32331401	2019-02 	1-20 	subsurface 	hot spring 	sediment 	Argentina	24.282129 S 66.466761 W	
+SAMN32331400	2019-02 	1-20 	subsurface 	hot spring 	fluid 	Argentina	24.282129 S 66.466761 W	
+SAMN32331399	2021-06 	1-20 	subsurface 	hot spring 	sediment 	Iceland	64.007062 N 21.180739 W	
+SAMN32331398	2021-06 	1-20 	subsurface 	hot spring 	sediment 	Iceland	64.008117 N 21.17949 W	
+SAMN32331397	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	9.36022 N 83.91664 W	
+SAMN32331372	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.806037 N 79.790968 W	
+SAMN32331387	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	9.938223 N 83.161331 W	
+SAMN32331384	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	9.735746 N 82.825737 W	
+SAMN32331381	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.40448 N 80.80375 W	
+SAMN03436243	2008-12-01 	0 m 	Desert Springs 	Hot Springs 	Water 	USA: Great Boiling Spring, Nevada	40.71458 N 119.36959 W	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN05449938	2014-10-25 	400 mts 	Hot spring water 	surface water 	water 	India: Anhoni, Madhya Pradesh	22.65 N 78.36 E	7.8 	5 Litre 	5 Litre 	52.1 øC 	
+SAMN05449939	2014-10-25 	1 mtr 	Hot spring water 	surface water 	water 	India: Anhoni, Madhya Pradesh	22.65 N 78.36 E	7.8 	5 Litre 	5 Litre 	55 øC 	
+SAMN05449940	2014-10-25 	1 mtr 	Hot spring water 	surface water 	water 	India: Anhoni, Madhya Pradesh	22.65 N 78.36 E	7.5 	5 Litre 	5 Litre 	43.5 øC 	
+SAMN05449941	2016-01-26 	1 mtr 	Hot spring water 	surface water 	water 	India: Tattapani, Chhattisgarh	23.41 N 83.39 E	7.5 	5 Litre 	5 Litre 	98 øC 	
+SAMN05449943	2016-01-26 	1 mtr 	Hot spring water 	surface water 	water 	India: Tattapani, Chhattisgarh	23.41 N 83.39 E	7 	5 Litre 	5 Litre 	69 øC 	
+SAMN05449944	2016-01-26 	1 mtr 	Hot spring water 	surface water 	water 	India: Tattapani, Chhattisgarh	23.41 N 83.39 E	7.8 	5 Litre 	5 Litre 	67 øC 	
+SAMN05518494	2010-02-24 	not applicable 	USA:Great Boiling Spring, Nevada	40.67 N 119.37 W	Great Boiling Spring, Nevada 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN05518492	2008-12-01 	not applicable 	USA:Great Boiling Spring, Nevada	40.71458 N 119.369659 W	Great Boiling Spring, Nevada 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN05518453	2008-12-01 	not applicable 	USA:Great Boiling Spring, Nevada	40.71458 N 119.369659 W	Great Boiling Spring, Nevada 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN05518655	2011-10-11 	not applicable 	USA:Octopus Spring Streamers, Yellowstone National Park, Wyoming, USA	44.5340836 N 110.7978895 W	Octopus Spring Streamers, Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06264876	2013-12-03 	not applicable 	USA: Zodletone Spring, Oklahoma	34.9956 N 98.6889 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06266181	2013-12-03 	not applicable 	USA: Zodletone Spring, Oklahoma	34.9956 N 98.6889 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06266162	2015-06-22 	not applicable 	South Africa: Limpopo	22.5304 S 30.6814 E	Hot spring water 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06264664	2015-06-21 	not applicable 	South Africa: Tshipise	22.6092 S 30.1749 E	Hot spring water 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06265911	2015-08-17 	not applicable 	USA: California	37.4127 N 118.5040 W	Hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN06266020	2015-08-17 	not applicable 	USA: California	37.4127 N 118.5040 W	Hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN06268700	missing 	not applicable 	USA:Octopus Spring, Yellowstone National Park, Wyoming, USA	44.376 N 110.69 W	Octopus Spring, Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268364	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268364	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268364	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268364	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268364	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268365	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268589	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268588	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268446	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268447	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268448	2012-10-11 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268369	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.611006 N 110.440182 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268369	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.611006 N 110.440182 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06706421	Porcelana 66 C degree phototrophic mat 	2013-03 	Chile: Los lagos, Porcelana Hot Spring	42.27291 S 72.27393 W	
+SAMN06706403	Porcelana 58 C degree phototrophic mat 	2013-03 	Chile: Los lagos, Porcelana Hot Spring	42.27291 S 72.27393 W	
+SAMN06706385	Porcelana 48 degree celcius phototrophic mat 	2013-03 	Chile: Los lagos, Porcelana Hot Spring	42.27291 S 72.27393 W	
+SAMN06267026	2014-04-19 	not applicable 	USA:Sandy's Spring West	40.6530 N 119.3749 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06267027	2013-03-16 	not applicable 	USA:Sandy's Spring West	40.6530 N 119.3749 W	hot spring, corn stover 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06267029	2014-04-06 	USA:Little Hot Creek 4	37.6906 N 118.8442 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06267028	2014-04-19 	not applicable 	USA:Sandy's Spring West	40.6530 N 119.3749 W	hot spring water 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06267030	2014-04-06 	not applicable 	USA:Little Hot Creek 4	37.6906 N 118.8442 W	hot spring, corn stover 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06267032	2012-08-12 	not applicable 	China:Gongxiaoshe hot spring	25.4401 N 98.4408 E	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06267031	2011-08-09 	not applicable 	China:Gongxiaoshe hot spring	25.4401 N 98.4408 E	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06267034	2011-08-09 	China:Jinze Hot Spring, China	25.4413 N 98.4600 E	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06267033	2012-08-12 	China:Jinze Hot Spring, China	25.4413 N 98.4600 E	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN07139021	enviromental 	2011-09 	Russia: Uzon Caldera, Kamchatka	54.29 N 159.59 E	
+SAMN06562581	hot spring from Yellowstone National Park 	2009-09-11 	USA: Yellowstone National Park	44.761133 N 110.730900 W	mini-metagenomics 	2 mL 	Bijah Spring Sample #4 	7.0 	YELL_05788 	
+SAMN06562582	hot spring from Yellowstone National Park 	2009-09-14 	USA: Yellowstone National Park	44.564833 N 110.859933 W	mini-metagenomics 	2 mL 	43.3 	9.0 	YELL_05788 	
+SAMN06267239	2014-12-14 	not applicable 	USA:Beatty, NV	36.9600 N 116.7200 W	Well OV2, Beatty, Nevada 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06267238	2014-12-14 	not applicable 	USA:Beatty, NV	36.9600 N 116.7200 W	Well OV2, Beatty, Nevada 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06267240	2014-12-14 	not applicable 	USA:Beatty, NV	36.9600 N 116.7200 W	Well OV2, Beatty, Nevada 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN07631051	2012-10-12 	not applicable 	USA: Yellowstone National Park	44.6100 N 110.4400 W	mud, sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268366	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.6102 N 110.4387 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN08046056	2001-08-01 	1m 	2000m 	hot spring 	acid hot spring 	thermophilic sediment 	Russia: Kamchatka, Mutnovsky	52.453 N 158.195 E	3.5-4 	70C 	thermophilic sediment from acid hot spring 	
+SAMN08046056	2001-08-01 	1m 	2000m 	hot spring 	acid hot spring 	thermophilic sediment 	Russia: Kamchatka, Mutnovsky	52.453 N 158.195 E	3.5-4 	70C 	thermophilic sediment from acid hot spring 	
+SAMN08046057	2001-07-27 	1m 	1617m 	hot spring 	neutral hot spring 	thermophilic sediment 	Russia: Kamchatka, Uzon Caldera	54.5 N 159.967 E	7.2-7.4 	81C 	thermophilic sediment from neutral hot spring 	
+SAMN08046057	2001-07-27 	1m 	1617m 	hot spring 	neutral hot spring 	thermophilic sediment 	Russia: Kamchatka, Uzon Caldera	54.5 N 159.967 E	7.2-7.4 	81C 	thermophilic sediment from neutral hot spring 	
+SAMN08046056	2001-08-01 	1m 	2000m 	hot spring 	acid hot spring 	thermophilic sediment 	Russia: Kamchatka, Mutnovsky	52.453 N 158.195 E	3.5-4 	70C 	thermophilic sediment from acid hot spring 	
+SAMN08046056	2001-08-01 	1m 	2000m 	hot spring 	acid hot spring 	thermophilic sediment 	Russia: Kamchatka, Mutnovsky	52.453 N 158.195 E	3.5-4 	70C 	thermophilic sediment from acid hot spring 	
+SAMN08046057	2001-07-27 	1m 	1617m 	hot spring 	neutral hot spring 	thermophilic sediment 	Russia: Kamchatka, Uzon Caldera	54.5 N 159.967 E	7.2-7.4 	81C 	thermophilic sediment from neutral hot spring 	
+SAMN08275520	2015-07 	0.5 m 	1118 m 	alkaline hot spring 	alkaline hot spring 	microbial mat 	Russia: Ush-Beldyr	51.46897 N 98.05402 E	9.8 	58 	
+SAMN08275520	2015-07 	0.5 m 	1118 m 	alkaline hot spring 	alkaline hot spring 	microbial mat 	Russia: Ush-Beldyr	51.46897 N 98.05402 E	9.8 	58 	
+SAMN08939786	environmental 	2016-08-04 	Malaysia: Ulu Slim	3.89 N 101.49 E	
+SAMN08939778	environmental 	2016-08-04 	Malaysia: Ulu Slim	3.89 N 101.49 E	
+SAMN08778463	2013-03-24 	USA: Great Boiling Springs, Gerlach, Nevada	40.6614 N 119.3661 W	top 1 cm of 60 C hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN08778269	2013-03-24 	USA: Great Boiling Springs, Gerlach, Nevada	40.6614 N 119.3661 W	top 1 cm of 70 C hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN08778188	2013-03-24 	USA: Great Boiling Springs, Gerlach, Nevada	40.6614 N 119.3661 W	top 1 cm of 85 C hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN01909144	MIGS/MIMS/MIMARKS.water 	metagenome 	hot spring 	2008-07-09 	hot spring 	China: Yunnan	26.6040N 899.5649E	water 	Characterization of Eryuan hot spring metagenome and thermal adaptive mechanisms revealed by comparative analyses 	0 	
+SAMN10130926	sediments of hot spring 	2017-08-18 	Russia:Kunashir Island, Faust Lake	44.003056 N 145.778611 E	
+SAMN10864103	2004-07-19 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864102	2004-07-19 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864405	2005-06-23 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864101	2005-06-24 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864100	2005-06-30 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864338	2005-07-01 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864099	2005-09-30 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864409	2005-10-01 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864300	2005-09-30 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864098	2005-10-01 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864397	2006-09-14 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864096	2006-09-13 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN10864309	2007-07-28 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11536904	hot spring wet sediment 	2014-01 	Spain: Lobios	42.53 N 8.30 W	collected from a borehole into sterile container 	400 grams 	
+SAMN11532175	2006-09-14 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532449	2006-09-13 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11533395	2006-09-14 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532581	2006-09-14 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532949	2006-09-11 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532293	2006-09-12 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532524	2006-09-12 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532953	2006-09-11 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11528599	2006-09-12 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11533357	2007-07-28 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532356	2009-07-30 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11528525	2007-07-28 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532655	2009-07-30 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532174	2009-07-30 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532656	2009-07-30 	not applicable 	USA: Wyoming	44.5341 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532361	2009-07-30 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532523	2009-07-30 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532354	2009-07-29 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532090	2009-07-30 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN11532360	2009-07-30 	not applicable 	USA: Wyoming	44.5387 N 110.798 W	hot spring microbial mat 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Microbial mats 	
+SAMN06818715	water 	hot spring 	2015-08-27 	China	28.14 N 91.47 E	
+SAMN06818714	water 	hot spring 	2015-08-27 	China	28.14 N 91.48 E	
+SAMEA9456869	25 	2016-12-13 	Spring located on a plateau 	Geothermal hot spring 	Water 	Indian Ocean	metagenome-assembled genome 	8.7 	Insight into the microbial diversity of four insulated geothermal springs from Kerguelen Islands through metagenomics 	RB10 	78.4 	2021-09-19 	2021-09-19 	ERC000024 	SAMEA9456869 	IUEM 	European Institute of the Sea (IUEM) - France 	2021-09-19T00:24:59Z 	2021-09-19T00:24:59Z 	public 	RB10 	0 	-49.62535 	68.79869 	Rallier du Baty peninsula 	NovaSeq 6000 	water 	
+SAMEA9456870	29 	2016-12-13 	Spring located on a plateau 	Geothermal hot spring 	Water 	Indian Ocean	metagenome-assembled genome 	7.6 	Insight into the microbial diversity of four insulated geothermal springs from Kerguelen Islands through metagenomics 	RB13 	93 	2021-09-19 	2021-09-19 	ERC000024 	SAMEA9456870 	IUEM 	European Institute of the Sea (IUEM) - France 	2021-09-19T00:24:59Z 	2021-09-19T00:24:59Z 	public 	RB13 	0 	-49.62566 	68.79865 	Rallier du Baty peninsula 	NovaSeq 6000 	water 	
+SAMEA9456871	3.2 	2016-12-13 	Spring located on a plateau 	Geothermal hot spring 	Water 	Indian Ocean	metagenome-assembled genome 	5.79 	Insight into the microbial diversity of four insulated geothermal springs from Kerguelen Islands through metagenomics 	RB32 	97 	2021-09-19 	2021-09-19 	ERC000024 	SAMEA9456871 	IUEM 	European Institute of the Sea (IUEM) - France 	2021-09-19T00:24:59Z 	2021-09-19T00:24:59Z 	public 	RB32 	0 	-49,62579 	68,79895 	Rallier du Baty peninsula 	NovaSeq 6000 	water 	
+SAMEA9456872	83 	2016-12-14 	Spring located on a beatch 	Geothermal hot spring 	Water 	Indian Ocean	metagenome-assembled genome 	9.59 	Insight into the microbial diversity of four insulated geothermal springs from Kerguelen Islands through metagenomics 	RB108 	101.3 	2021-09-19 	2021-09-19 	ERC000024 	SAMEA9456872 	IUEM 	European Institute of the Sea (IUEM) - France 	2021-09-19T00:24:59Z 	2021-09-19T00:24:59Z 	public 	RB108 	0 	-49.63508 	68.78616 	Rallier du Baty peninsula 	NovaSeq 6000 	water 	
+SAMN22794761	Water from the Hot Spring "Aguas Termales" of Contamana 	2021-02-15 	Peru: Loreto region	7.20126 S 74.95205 W	2 L 	
+SAMN22794760	Water from the Hot Spring "Aguas Termales" of Contamana 	2021-02-15 	Peru: Loreto region	7.20126 S 74.95205 W	2 L 	
+SAMN06343853	2013-09-29 	not applicable 	Canada: Banff	51.1699 N 116.1578 W	iron-sulfur acid spring 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Acidic 	

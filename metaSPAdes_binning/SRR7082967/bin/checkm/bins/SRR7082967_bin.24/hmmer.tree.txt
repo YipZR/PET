@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/9e124839-6638-4a74-aaea-e1927ff68dfc
+# Target file:     ./checkm/bins/SRR7082967_bin.24/genes.faa
+# Option settings: hmmsearch --domtblout ./checkm/bins/SRR7082967_bin.24/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 4 /tmp/9e124839-6638-4a74-aaea-e1927ff68dfc ./checkm/bins/SRR7082967_bin.24/genes.faa 
+# Current dir:     /data_1/yzr_data/MetaSpades/OUT/SRR7082967_1e5/bin
+# Date:            Sat Jun  3 19:56:16 2023
+# [ok]

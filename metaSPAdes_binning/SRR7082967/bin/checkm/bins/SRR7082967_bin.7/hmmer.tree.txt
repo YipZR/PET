@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_2_length_281446_cov_5.527696_2 -            441 TIGR00344            TIGR00344    847    4e-153  506.3   0.0   1   1    1e-155  4.4e-153  506.1   0.0     1   420     5   431     5   440 0.94 # 347 # 1669 # -1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.538
+NODE_49_length_56237_cov_5.430654_70 -            609 TIGR00422            TIGR00422    863   8.2e-51  167.6  17.3   1   4   2.1e-27   9.2e-25   81.4   1.1     5   162     2   144     1   149 0.87 # 53208 # 55034 # 1 # ID=2_70;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.507
+NODE_49_length_56237_cov_5.430654_70 -            609 TIGR00422            TIGR00422    863   8.2e-51  167.6  17.3   2   4   0.00069       0.3    3.6   0.1   404   440   164   200   163   223 0.74 # 53208 # 55034 # 1 # ID=2_70;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.507
+NODE_49_length_56237_cov_5.430654_70 -            609 TIGR00422            TIGR00422    863   8.2e-51  167.6  17.3   3   4   1.4e-26     6e-24   78.7   2.8   357   590   202   462   197   511 0.73 # 53208 # 55034 # 1 # ID=2_70;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.507
+NODE_49_length_56237_cov_5.430654_70 -            609 TIGR00422            TIGR00422    863   8.2e-51  167.6  17.3   4   4   1.2e-05    0.0051    9.4   0.1   678   719   511   551   500   563 0.85 # 53208 # 55034 # 1 # ID=2_70;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.507
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/daeab338-25fd-407c-9760-10b859c3e89d
+# Target file:     ./checkm/bins/SRR7082967_bin.7/genes.faa
+# Option settings: hmmsearch --domtblout ./checkm/bins/SRR7082967_bin.7/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 4 /tmp/daeab338-25fd-407c-9760-10b859c3e89d ./checkm/bins/SRR7082967_bin.7/genes.faa 
+# Current dir:     /data_1/yzr_data/MetaSpades/OUT/SRR7082967_1e5/bin
+# Date:            Sat Jun  3 19:56:15 2023
+# [ok]

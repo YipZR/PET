@@ -1,0 +1,1067 @@
+SAMEA94257418	Water sample collected from a geothermal spring located in Manikaran, Himachal Pradesh, India. 	ERS1563791 	2012-06-12 	Aquatic biome 	Geographical feature 	Water 	India	metagenome 	Manikaran Metagenomics 	MNW1 	ERC000024 	UNIVERSITY OF DELHI 	2017-03-24T13:18:41Z 	2017-02-19T09:54:38Z 	public 	ERS1563791 	MNW1 	5 	1760 	32.026333 	77.347306 	Illumina 	water 	
+SAMEA94258168	Water sample collected from a geothermal spring located at Manikaran, Himachal Pradesh, India 	ERS1563792 	2012-12-06 	Aquatic biome 	Water 	Water 	India	metagenome 	Manikaran metagenome 	MNW2 	ERC000024 	UNIVERSITY OF DELHI 	2017-03-24T13:18:41Z 	2017-02-19T10:02:40Z 	public 	ERS1563792 	MNW2 	5 	32.026333 	77.347306 	Illumina 	water 	
+SAMEA104453076	2016 	Environmental material 	Agricultural environmental material 	Compost 	Italy	metagenome 	CarbOnFarm 	Compost L5/6A 	2018-01-05 	2018-01-05 	ERC000025 	SAMEA104453076 	CREA-ORT 	CREA-ORT 	2018-01-05T17:03:02Z 	2018-01-05T11:44:04Z 	public 	Compost L5/6A 	40.554724 	14.959120 	miscellaneous natural or artificial environment 	WGS 	
+SAMEA104453077	2016 	Environmental material 	Agricultural environmental material 	Compost 	Italy	metagenome 	CarbOnFarm 	Compost L2A 	2018-01-05 	2018-01-05 	ERC000025 	SAMEA104453077 	CREA-ORT 	CREA-ORT 	2018-01-05T17:03:02Z 	2018-01-05T11:44:04Z 	public 	Compost L2A 	40.554724 	14.959120 	miscellaneous natural or artificial environment 	WGS 	
+SAMEA4877249	2014-10-03 	wetland ecosystem 	wetland ecosystem 	soil 	USA	metagenome 	6.83 	HRTC 	JC04 	2018-09-05 	2018-08-31 	ERC000022 	SAMEA4877249 	CORNELL UNIVERSITY 	Cornell University 	2018-09-05T17:02:08Z 	2018-08-31T16:17:31Z 	public 	JC04 	CF1 	0.1 	473 	42.430868 	-76.23032445 	8 	0.36 	Illumina HiSeq SE 	soil 	23.3387 	
+SAMEA4877251	2014-10-03 	wetland ecosystem 	wetland ecosystem 	soil 	USA	metagenome 	6.97 	HRTC 	JC06 	2018-09-05 	2018-08-31 	ERC000022 	SAMEA4877251 	CORNELL UNIVERSITY 	Cornell University 	2018-09-05T17:02:08Z 	2018-08-31T16:17:31Z 	public 	JC06 	CF3 	0.1 	473 	42.430868 	-76.23032445 	5.6 	0.19 	Illumina HiSeq SE 	soil 	23.3387 	
+SAMEA4960278	2018-02-23 	microbial function 	high-petroleum hydrocarbon 	petroleum hydrocarbon 	China	metagenome 	petroleum hydrocarbon 	973 	Activatedsludge_H345-D01 	2018-12-06 	2018-10-07 	ERC000023 	SAMEA4960278 	TIANJIN UNIVERSITY, TIANJIN, CHINA 	TIANJIN UNIVERSITY, TIANJIN, CHINA 	2018-12-06T17:03:34Z 	2018-10-07T08:59:44Z 	public 	Activatedsludge_H345-D01 	activated sludge 	39:10N 	117:10E 	Paired 	wastewater/sludge 	
+SAMEA6942737	2018-03-01 	ocean 	pelagic 	sea water 	Southern Ocean	metagenome 	Marine Ecosystem Biodiversity and Dynamics of Carbon around Kerguelen (MOBYDICK) 	MOBYDICK_MG_M4 	2021-06-29 	2021-06-29 	ERC000024 	SAMEA6942737 	OBSERVATOIRE OCEANOLOGIQUE DE BANYULS 	OBSERVATOIRE OCEANOLOGIQUE DE BANYULS 	2021-06-29T00:19:01Z 	2021-06-29T00:19:01Z 	public 	MOBYDICK_MG_M4 	marine metagenome 	10 	52.6 	67.2 	Illumina HiSeq 	water 	
+SAMEA6942735	2018-02-26 	ocean 	pelagic 	sea water 	Southern Ocean	metagenome 	Marine Ecosystem Biodiversity and Dynamics of Carbon around Kerguelen (MOBYDICK) 	MOBYDICK_MG_M2 	2021-06-29 	2021-06-29 	ERC000024 	SAMEA6942735 	OBSERVATOIRE OCEANOLOGIQUE DE BANYULS 	OBSERVATOIRE OCEANOLOGIQUE DE BANYULS 	2021-06-29T00:19:01Z 	2021-06-29T00:19:01Z 	public 	MOBYDICK_MG_M2 	marine metagenome 	10 	50.6 	72 	Illumina HiSeq 	water 	
+SAMEA6942736	2018-03-04 	ocean 	pelagic 	sea water 	Southern Ocean	metagenome 	Marine Ecosystem Biodiversity and Dynamics of Carbon around Kerguelen (MOBYDICK) 	MOBYDICK_MG_M3 	2021-06-29 	2021-06-29 	ERC000024 	SAMEA6942736 	OBSERVATOIRE OCEANOLOGIQUE DE BANYULS 	OBSERVATOIRE OCEANOLOGIQUE DE BANYULS 	2021-06-29T00:19:01Z 	2021-06-29T00:19:01Z 	public 	MOBYDICK_MG_M3 	marine metagenome 	10 	50.7 	68.1 	Illumina HiSeq 	water 	
+SAMEA7723682	0 	marine benthic biome 	marine benthic feature 	sediment 	sediment 	sediment 	Atlantic Ocean:Northeast Atlantic Ocean,Iberian Abyssal Plain	AP7 	metagenome 	Deep marine sediments 	qiita_sid_13114:13114.rohwer.85.s007 	sediment 	2020-12-17 	2020-12-15 	ERC000011 	SAMEA7723682 	UCSDMI 	University of California San Diego Microbiome Initiative 	2020-12-17T04:08:04Z 	2020-12-15T23:55:54Z 	public 	qiita_sid_13114:13114.rohwer.85.s007 	85.31758347089634 	85.31758347089634 	537.0 	1.9015260031902528 	57.99043252 	334.0 	1.608587906 	21.29869354871334 	101.0 	1.8656874983544225 	11.64068074 	45.0 	1.651991922 	537.0 	1.9015260031902528 	rohwer.85.s007 	not provided 	9 	5036.8 	Rohwer 	85 	Iberia and Guatemala deep-sea sediments 	EMP sample 	Free-living 	Saline 	Sediment (saline) 	A 	50 	46.68323333 	1.00 	Bulk_201901_UCSD 	1F9 	no 	1F9_2_60_rohwer-85-s007-a03 	1F9_2_60_rohwer-85-s007-a03.mzML 	Sample 	Bulk 	149 	-11.6042 	64.5 	74.1 	http://www-odp.tamu.edu/publications/149_IR/chap_07/chap_07.htm 	Rohwer85.deep.sediment.AP7 	UCSD Knight Lab Freezer I 	TRUE 	7028354.0 	5868742.0 	4150609.0 	Rohwer85.deep.sediment.AP7 	5.Rohwer85.deep.sediment.AP7 	bulk 	01W 	900 	Test 	7 	2 	
+SAMEA7723485	0 	marine benthic biome 	marine benthic feature 	sediment 	sediment 	sediment 	Atlantic Ocean:Northeast Atlantic Ocean,Iberian Abyssal Plain	AP11 	metagenome 	Deep marine sediments 	qiita_sid_13114:13114.rohwer.85.s011 	sediment 	2020-12-17 	2020-12-15 	ERC000011 	SAMEA7723485 	UCSDMI 	University of California San Diego Microbiome Initiative 	2020-12-17T04:08:05Z 	2020-12-15T22:07:07Z 	public 	qiita_sid_13114:13114.rohwer.85.s011 	126.43328255275469 	125.93027119571549 	918.0 	2.557921296154181 	89.80332877 	638.0 	2.117318217 	37.49424491933314 	198.0 	2.5424234779428088 	21.3308033 	92.0 	2.171889386 	920.0 	2.558161620562435 	rohwer.85.s011 	not provided 	17 	5036.8 	Rohwer 	85 	Iberia and Guatemala deep-sea sediments 	EMP sample 	Free-living 	Saline 	Sediment (saline) 	A 	39.5 	46.68323333 	2.00 	Bulk_201901_UCSD 	2C5 	no 	2C5_4_7_rohwer-85-s011-a03 	2C5_4_7_rohwer-85-s011-a03.mzML 	Sample 	Bulk 	149 	-11.6042 	141.6 	151.3 	http://www-odp.tamu.edu/publications/149_IR/chap_07/chap_07.htm 	Rohwer85.deep.sediment.AP11 	UCSD Knight Lab Freezer I 	TRUE 	6740632.0 	3920206.0 	2375606.0 	Rohwer85.deep.sediment.AP11 	5.Rohwer85.deep.sediment.AP11 	bulk 	03W 	900 	Train 	11 	2 	
+SAMEA7723488	0 	marine benthic biome 	marine benthic feature 	sediment 	sediment 	sediment 	Atlantic Ocean:Northeast Atlantic Ocean,Iberian Abyssal Plain	AP16 	metagenome 	Deep marine sediments 	qiita_sid_13114:13114.rohwer.85.s016 	sediment 	2020-12-17 	2020-12-15 	ERC000011 	SAMEA7723488 	UCSDMI 	University of California San Diego Microbiome Initiative 	2020-12-17T04:08:05Z 	2020-12-15T22:07:07Z 	public 	qiita_sid_13114:13114.rohwer.85.s016 	121.11198733441029 	121.11198733441029 	816.0 	4.951791140824706 	83.74466993 	553.0 	4.974049303 	59.25347811678376 	351.0 	4.8940571836894025 	32.78047594 	193.0 	4.886967178 	816.0 	4.951791140824706 	rohwer.85.s016 	not provided 	44 	5036.8 	Rohwer 	85 	Iberia and Guatemala deep-sea sediments 	EMP sample 	Free-living 	Saline 	Sediment (saline) 	A 	67.5 	46.68323333 	2.00 	Bulk_201901_UCSD 	2D9 	no 	2D9_4_73_rohwer-85-s016-a03 	2D9_4_73_rohwer-85-s016-a03.mzML 	Sample 	Bulk 	149 	-11.6042 	402.3 	412 	http://www-odp.tamu.edu/publications/149_IR/chap_07/chap_07.htm 	Rohwer85.deep.sediment.AP16 	UCSD Knight Lab Freezer I 	TRUE 	12559778.0 	19421359.0 	329972.0 	Rohwer85.deep.sediment.AP16 	4.Rohwer85.deep.sediment.AP16 	bulk 	05W 	900 	Test 	16 	2 	
+SAMEA7723490	0 	marine benthic biome 	marine benthic feature 	sediment 	sediment 	sediment 	Atlantic Ocean:Northeast Atlantic Ocean,Iberian Abyssal Plain	AP19 	metagenome 	Deep marine sediments 	qiita_sid_13114:13114.rohwer.85.s019 	sediment 	2020-12-17 	2020-12-15 	ERC000011 	SAMEA7723490 	UCSDMI 	University of California San Diego Microbiome Initiative 	2020-12-17T04:08:05Z 	2020-12-15T22:07:07Z 	public 	qiita_sid_13114:13114.rohwer.85.s019 	147.98975687637903 	147.06465746656067 	1000.0 	4.5410445164820095 	91.27823997 	601.0 	4.239071864 	43.76321258780513 	258.0 	4.433907498370912 	22.43187987 	132.0 	4.155574352 	1001.0 	4.541581477915049 	rohwer.85.s019 	not provided 	75 	5036.8 	Rohwer 	85 	Iberia and Guatemala deep-sea sediments 	EMP sample 	Free-living 	Saline 	Sediment (saline) 	A 	19 	46.68323333 	2.00 	Bulk_201901_UCSD 	2C10 	no 	2C10_4_15_rohwer-85-s019-a03 	2C10_4_15_rohwer-85-s019-a03.mzML 	Sample 	Bulk 	149 	-11.6042 	701.1 	710.4 	http://www-odp.tamu.edu/publications/149_IR/chap_07/chap_07.htm 	Rohwer85.deep.sediment.AP19 	UCSD Knight Lab Freezer I 	TRUE 	12981532.0 	5182687.0 	2306130.0 	Rohwer85.deep.sediment.AP19 	3.Rohwer85.deep.sediment.AP19 	bulk 	02W 	900 	Train 	19 	2 	
+SAMEA7723492	0 	marine benthic biome 	marine benthic feature 	sediment 	sediment 	sediment 	Pacific Ocean:Northeast Pacific Ocean,Guatemala Basin	GB1 	metagenome 	Deep marine sediments 	qiita_sid_13114:13114.rohwer.85.s021 	sediment 	2020-12-17 	2020-12-15 	ERC000011 	SAMEA7723492 	UCSDMI 	University of California San Diego Microbiome Initiative 	2020-12-17T04:08:05Z 	2020-12-15T22:07:08Z 	public 	qiita_sid_13114:13114.rohwer.85.s021 	54.417030316079035 	54.417030316079035 	309.0 	4.959427379654902 	35.92694758 	210.0 	4.616633554 	43.036820238456144 	237.0 	4.946003190702721 	23.35913630000001 	131.0 	4.559763297 	309.0 	4.959427379654902 	rohwer.85.s021 	11/16/02 0:00 	001H 	3634.7 	Rohwer 	85 	Iberia and Guatemala deep-sea sediments 	EMP sample 	Free-living 	Saline 	Sediment (saline) 	note applicable 	UCSD 	EMP_Feces_rohwer_85_s021_a03_M_278 	278 	B 	117. 122. 	6.7365 	2.00 	Bulk_201901_UCSD 	2D2 	no 	2D2_4_33_rohwer-85-s021-a04 	2D2_4_33_rohwer-85-s021-a04.mzML 	Sample 	Bulk 	206 	-91.93433333 	0 	not provided 	http://www-odp.tamu.edu/publications/leg_ndx/206ndex.htm 	Rohwer85.deep.sediment.GB1 	UCSD Knight Lab Freezer I 	TRUE 	697893.0 	469112.0 	29730.0 	Rohwer85.deep.sediment.GB1 	5.Rohwer85.deep.sediment.GB1 	bulk 	04WR 	1256 	Train 	21 	1 	
+SAMEA7723873	0 	marine salt marsh biome 	marine benthic feature 	sediment 	marine sediment 	sediment 	USA: Commonwealth of Massachusetts,Plum Island	Plum Island sediments 	qiita_sid_13114:13114.bowen.74.s003 	sediment 	2020-12-17 	2020-12-16 	ERC000011 	SAMEA7723873 	UCSDMI 	University of California San Diego Microbiome Initiative 	2020-12-17T04:08:06Z 	2020-12-16T00:39:58Z 	public 	qiita_sid_13114:13114.bowen.74.s003 	887.0 	354.0 	5/15/14 0:00 	0 	Bowen 	74 	Massachusetts salt marsh sediments 	Saline 	Sediment (saline) 	42.739897 	1.00 	-70.83609 	UCSD Knight Lab Freezer I and Boston, MA 	bulk 	3 	
+SAMEA8585548	2012-07-22 	terrestrial biome 	river valley 	soil 	Canada	metagenome 	wetSoilMG 	Y34 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585548 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:16Z 	2022-01-10T12:20:16Z 	public 	Y34 	soil metagenome 	0 	0 	45.1189 	-74.2039 	pasture 	fallow 	river_valley 	CA-QC 	Illumina NovaSeq with 2 x 150 bp paired-end 	Quebec_drained_bog 	soil 	herbs 	herbs 	
+SAMEA8585603	2014-01-24 	terrestrial biome 	valley 	soil 	Australia	metagenome 	wetSoilMG 	Y88 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585603 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:17Z 	2022-01-10T12:20:17Z 	public 	Y88 	soil metagenome 	0 	0 	-42.1744 	146.5762 	peat_extraction 	peat_extraction 	mountain_valley 	AU-TAS 	Illumina NovaSeq with 2 x 150 bp paired-end 	Tasmania_raised_bog 	soil 	bare_soil 	bare_soil 	
+SAMEA8585647	2015-05-01 	terrestrial biome 	valley 	soil 	Morocco	metagenome 	wetSoilMG 	Y132 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585647 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:16Z 	2022-01-10T12:20:16Z 	public 	Y132 	soil metagenome 	0 	0 	35.1866 	-5.3622 	bog 	natural_bog 	mountain_valley 	MA 	Illumina NovaSeq with 2 x 150 bp paired-end 	Morocco_bog_2 	soil 	Sphagnum_spp. 	Sphagnum 	
+SAMEA8585688	2017-08-17 	terrestrial biome 	plain 	soil 	USA	metagenome 	wetSoilMG 	Y171 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585688 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:17Z 	2022-01-10T12:20:17Z 	public 	Y171 	soil metagenome 	0 	0 	45.582581 	-111.661221 	pasture 	pasture 	lowland 	US-MT 	Illumina NovaSeq with 2 x 150 bp paired-end 	Montana_bog_2 	soil 	sedges 	sedges 	
+SAMEA8585689	2017-08-17 	terrestrial biome 	plain 	soil 	USA	metagenome 	wetSoilMG 	Y172 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585689 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:17Z 	2022-01-10T12:20:17Z 	public 	Y172 	soil metagenome 	0 	0 	45.582581 	-111.661221 	pasture 	pasture 	lowland 	US-MT 	Illumina NovaSeq with 2 x 150 bp paired-end 	Montana_bog_2 	soil 	sedges 	sedges 	
+SAMEA8585690	2017-08-17 	terrestrial biome 	plain 	soil 	USA	metagenome 	wetSoilMG 	Y173 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585690 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:17Z 	2022-01-10T12:20:17Z 	public 	Y173 	soil metagenome 	0 	0 	45.582581 	-111.661221 	pasture 	pasture 	lowland 	US-MT 	Illumina NovaSeq with 2 x 150 bp paired-end 	Montana_bog_2 	soil 	sedges 	sedges 	
+SAMEA8585691	2017-08-17 	terrestrial biome 	valley 	soil 	USA	metagenome 	wetSoilMG 	Y174 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585691 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:17Z 	2022-01-10T12:20:17Z 	public 	Y174 	soil metagenome 	0 	0 	45.524884 	-111.018086 	bog 	natural_bog 	mountain_valley 	US-MT 	Illumina NovaSeq with 2 x 150 bp paired-end 	Montana_Bog_1 	soil 	sedges 	sedges 	
+SAMEA8585692	2017-08-17 	terrestrial biome 	valley 	soil 	USA	metagenome 	wetSoilMG 	Y175 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585692 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:17Z 	2022-01-10T12:20:17Z 	public 	Y175 	soil metagenome 	0 	0 	45.524884 	-111.018086 	bog 	natural_bog 	mountain_valley 	US-MT 	Illumina NovaSeq with 2 x 150 bp paired-end 	Montana_Bog_1 	soil 	sedges 	sedges 	
+SAMEA8585693	2017-08-17 	terrestrial biome 	valley 	soil 	USA	metagenome 	wetSoilMG 	Y176 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585693 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:17Z 	2022-01-10T12:20:17Z 	public 	Y176 	soil metagenome 	0 	0 	45.524884 	-111.018086 	bog 	natural_bog 	mountain_valley 	US-MT 	Illumina NovaSeq with 2 x 150 bp paired-end 	Montana_Bog_1 	soil 	sedges 	sedges 	
+SAMEA8585714	2015-05-01 	terrestrial biome 	valley 	soil 	Morocco	metagenome 	wetSoilMG 	Y198 	2022-01-10 	2022-01-10 	ERC000022 	SAMEA8585714 	Quadram Institute Bioscience 	Quadram Institute Bioscience 	2022-01-10T12:20:17Z 	2022-01-10T12:20:17Z 	public 	Y198 	soil metagenome 	0 	0 	35.1866 	-5.3622 	bog 	natural_bog 	mountain_valley 	MA 	Illumina NovaSeq with 2 x 150 bp paired-end 	Morocco_bog_2 	soil 	Sphagnum_spp. 	Sphagnum 	
+SAMEA110295448	2019-10-03 	terrestrial biome (ENVO_00000446) 	sphagnum bog (ENVO:00002268) 	plant matter (ENVO:01001121) 	Iceland	metagenome 	Peat moss microbial communities from sphagnum bogs in various regions of Europe 	ena-SAMPLE-TAB-08-07-2022-21:21:39:982-125561 	ERC000020 	2022-07-18 	2022-07-18 	SAMEA110295448 	Plant Systems Biology (ORNL) 	plant systems biology (ornl) 	2022-07-18T14:32:04Z 	2022-07-18T14:32:04Z 	public 	ena-SAMPLE-TAB-08-07-2022-21:21:39:982-125561 	64.1115 	-20.561 	plant-associated 	Illumina NovaSeq 	
+SAMEA110295449	2019-10-03 	terrestrial biome (ENVO_00000446) 	sphagnum bog (ENVO:00002268) 	plant matter (ENVO:01001121) 	Iceland	metagenome 	Peat moss microbial communities from sphagnum bogs in various regions of Europe 	ena-SAMPLE-TAB-08-07-2022-21:21:39:982-125562 	ERC000020 	2022-07-18 	2022-07-18 	SAMEA110295449 	Plant Systems Biology (ORNL) 	plant systems biology (ornl) 	2022-07-18T14:32:04Z 	2022-07-18T14:32:04Z 	public 	ena-SAMPLE-TAB-08-07-2022-21:21:39:982-125562 	64.1122 	-20.5608 	plant-associated 	Illumina NovaSeq 	
+SAMN12692074	water 	hot spring 	2017-11 	India	27.20982 N 88.1930 E	
+SAMN12687857	marine sediment 	2018-06 	Singapore	1.471197 N 103.804527 E	
+SAMN12687857	marine sediment 	2018-06 	Singapore	1.471197 N 103.804527 E	
+SAMN12687857	marine sediment 	2018-06 	Singapore	1.471197 N 103.804527 E	
+SAMN12687859	marine sediment 	2018-11 	Singapore	1.457300 N 103.720583 E	Grab 	
+SAMN12687858	marine sediment 	2018-11 	Singapore	1.447450 N 103.763550 E	
+SAMN12687858	marine sediment 	2018-11 	Singapore	1.447450 N 103.763550 E	
+SAMN12723038	30 deg. C spring 3 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	BETA_3 	
+SAMN12723036	30 deg. C spring 1 	2018-08-27 	Canada: Liard River, BC	59.431 N 126.1 W	BETA_1 	
+SAMN05720239	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720237	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN11533378	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN11533329	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12799096	marine sediments 	2013-12 	Antarctica: Amundsen Sea	72.46 S 104.36 W	primary publication	multicorer 	sediments were frozen 	8_event31 	
+SAMN12799094	marine sediments 	2013-12 	Antarctica: Amundsen Sea	71.45 S 102.16 W	primary publication	multicorer 	sediments were frozen 	12_event21 	
+SAMN12394951	Soil with 5% biochar replicate 5 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394950	Soil with 5% biochar replicate 4 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394949	Soil with 5% biochar replicate 3 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394948	Soil with 5% biochar replicate 2 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394947	Soil with 5% biochar replicate 1 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394946	Soil without biochar replicate 5 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394945	Soil without biochar replicate 4 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394944	Soil without biochar replicate 3 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394956	Soil with 10% biochar replicate 5 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394955	Soil with 10% biochar replicate 4 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394954	Soil with 10% biochar replicate 3 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394953	Soil with 10% biochar replicate 2 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394952	Soil with 10% biochar replicate 1 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394943	Soil without biochar replicate 2 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN12394942	Soil without biochar replicate 1 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+SAMN06264690	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4965 N 122.1330 W	Pond R2 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN13482111	2018-10-02 	2 - 5 cm 	9 m 	urban biome 	farm | plant-associated environment 	compost 	Singapore: Lim Chu Kang Farm Area, Singapore	1.42 N 103.7 E	COMR3 	
+SAMN13482110	2018-10-02 	2 - 5 cm 	9 m 	urban biome 	farm | plant-associated environment 	compost 	Singapore: Lim Chu Kang Farm Area, Singapore	1.42 N 103.7 E	COMR2 	
+SAMN13482109	2018-10-02 	2 - 5 cm 	9 m 	urban biome 	farm | plant-associated environment 	compost 	Singapore: Lim Chu Kang Farm Area, Singapore	1.42 N 103.7 E	COMR1 	
+SAMN13482098	2018-03-14 	2 - 5 cm 	9 m 	urban biome 	farm | plant-associated environment 	compost 	Singapore: Lim Chu Kang Farm Area, Singapore	1.42 N 103.7 E	COMR2G 	
+SAMN12815146	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12814033	2017-09-25 	Populus deltoides 	USA: Georgia	32.1348 N 81.9657 W	live xylem of Populus deltoides 	Host-associated | Plants | Phyllosphere | Stem | Wood/Secondary xylem 	
+SAMN12794342	2015-07-17 	not applicable 	USA: Alaska	64.9141 N 147.8348 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794341	2015-07-17 	not applicable 	USA: Alaska	64.9142 N 147.835 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793968	2015-07-17 	not applicable 	USA: Alaska	64.9141 N 147.8344 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793952	2016-07-13 	not applicable 	USA: Alaska	64.9141 N 147.8348 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794187	2016-07-13 	not applicable 	USA: Alaska	64.9141 N 147.834 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793951	2016-07-13 	not applicable 	USA: Alaska	64.9142 N 147.835 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793976	2016-07-13 	not applicable 	USA: Alaska	64.9141 N 147.8344 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794090	2016-07-13 	not applicable 	USA: Alaska	64.9142 N 147.8349 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794027	2016-07-16 	not applicable 	USA: Alaska	64.9096 N 147.9451 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794181	2016-07-16 	not applicable 	USA: Alaska	64.9149 N 147.8357 W	Wetland bog 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793948	2017-09-12 	not applicable 	USA: Alaska	64.9141 N 147.8344 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794030	2017-09-12 	not applicable 	USA: Alaska	64.9142 N 147.835 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793978	2017-09-12 	not applicable 	USA: Alaska	64.9142 N 147.8349 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794404	2017-09-12 	not applicable 	USA: Alaska	64.9144 N 147.8354 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794095	2017-09-12 	not applicable 	USA: Alaska	64.9141 N 147.834 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794337	2018-06-26 	not applicable 	USA: Alaska	64.9141 N 147.8348 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793967	2018-06-26 	not applicable 	USA: Alaska	64.9141 N 147.8344 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794094	2018-06-26 	not applicable 	USA: Alaska	64.9142 N 147.835 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794336	2018-06-26 	not applicable 	USA: Alaska	64.9142 N 147.8349 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793953	2018-06-26 	not applicable 	USA: Alaska	64.9144 N 147.8354 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794340	2018-06-26 	not applicable 	USA: Alaska	64.9142 N 147.835 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794332	2018-06-26 	not applicable 	USA: Alaska	64.9142 N 147.835 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12794186	2018-06-27 	not applicable 	USA: Alaska	64.9096 N 147.9451 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793950	2018-06-26 	not applicable 	USA: Alaska	64.9141 N 147.8344 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN12793975	2018-06-26 	not applicable 	USA: Alaska	64.9141 N 147.8344 W	Wetland fen 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14103087	landfill solid waste inoculated with endophyte fungus Paravalsa indica 	2017-11-05 	India:New Delhi, Okhla landfill site	28.5626 N 77.2914 E	manual, composite sample 	2 	
+SAMN14103086	landfill solid waste 	2017-11-05 	India:New Delhi, Okhla landfill site	28.5626 N 77.2914 E	manual, composite sample 	1 	
+SAMN14124373	SOIL 	agricultural soil 	2018-10-30 	South Africa: MAFIKENG	25.78 S 25.61 E	
+SAMN13908148	2011-02-13 	10 cm 	800 masl 	soil biome 	volcanic soil 1751B-run1 	volcanic soil 1751B-run1 	Chile: Melipeuco	38.83 S 71.65 W	
+SAMN13908146	2011-02-13 	10 cm 	800 masl 	soil biome 	volcanic soil 1751A-run1 	volcanic soil 1751A-run1 	Chile: Melipeuco	38.83 S 71.65 W	
+SAMN13908144	2011-02-20 	10 cm 	800 masl 	soil biome 	volcanic soil 1640C-run1 	volcanic soil 1640C-run1 	Chile: Melipeuco	38.57 S 71.78 W	
+SAMN13908156	2011-02-13 	5 cm 	800 masl 	soil biome 	volcanic soil 1957C-run1 	volcanic soil 1957C-run1 	Chile: Melipeuco	38.82 S 71.68 W	
+SAMN13908154	2011-02-13 	5 cm 	800 masl 	soil biome 	volcanic soil 1957B-run1 	volcanic soil 1957B-run1 	Chile: Melipeuco	38.82 S 71.68 W	
+SAMN13908150	2011-02-13 	10 cm 	800 masl 	soil biome 	volcanic soil 1751C-run1 	volcanic soil 1751C-run1 	Chile: Melipeuco	38.83 S 71.65 W	
+SAMN13908140	2011-02-20 	10 cm 	800 masl 	soil biome 	volcanic soil 1640A-run1 	volcanic soil 1640A-run1 	Chile: Melipeuco	38.57 S 71.78 W	
+SAMN14563491	Environment 	PM2.5 	2019-11-25 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+SAMN14563490	Environment 	PM2.5 	2019-11-20 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+SAMN14563489	Environment 	PM2.5 	2019-11-10 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+SAMN14563488	Environment 	PM2.5 	2019-10-18 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+SAMN14563487	Environment 	PM2.5 	2019-10-11 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+SAMN14563486	Environment 	PM2.5 	2019-10-08 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+SAMN02364458	2012-02-10 	USA: MN, Marcell Experimental Forest	47.5062 N 93.45426667 W	25-50 	MIGS/MIMS/MIMARKS.soil 	metagenome 	Forest 	bog 	soil 	SPRUCE carbon cycle 	125 	
+SAMN14653537	water 	2017-02-24 	Costa Rica: Laguna Botos, CO2-fed lake on flank of Poas Volcano,	10.188962 N 84.227388 W	
+SAMN14775404	Aegiceras corniculatum soil 	2017-07 	China:Guangdong,Shenzhen,Futian Mangrove Nature Reserve,Constructed wetland system	22.53 N 113.99 E	Rhizosphere 	
+SAMN14775405	Kenaelia candel soil 	2017-07 	China:Guangdong,Shenzhen,Futian Mangrove Nature Reserve,Constructed wetland system	22.53 N 113.99 E	Rhizoplane 	
+SAMN14775405	Kenaelia candel soil 	2017-07 	China:Guangdong,Shenzhen,Futian Mangrove Nature Reserve,Constructed wetland system	22.53 N 113.99 E	Rhizoplane 	
+SAMN14775406	Kenaelia candel soil 	2017-07 	China:Guangdong,Shenzhen,Futian Mangrove Nature Reserve,Constructed wetland system	22.53 N 113.99 E	Rhizosphere 	
+SAMN14775403	Aegiceras corniculatum soil 	2017-07 	China:Guangdong,Shenzhen,Futian Mangrove Nature Reserve,Constructed wetland system	22.53 N 113.99 E	Rhizoplane 	
+SAMN14775403	Aegiceras corniculatum soil 	2017-07 	China:Guangdong,Shenzhen,Futian Mangrove Nature Reserve,Constructed wetland system	22.53 N 113.99 E	Rhizoplane 	
+SAMN14512427	2016-06-13 	not applicable 	USA: North Carolina	35.8959 N 76.1658 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14513307	2016-06-13 	not applicable 	USA: North Carolina	35.8956 N 76.1655 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14513147	2016-06-13 	not applicable 	USA: North Carolina	35.8959 N 76.1658 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14513136	2016-06-13 	not applicable 	USA: North Carolina	35.8956 N 76.1655 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14513141	2016-06-13 	not applicable 	USA: North Carolina	35.8956 N 76.1655 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14512977	2016-08-11 	not applicable 	USA: North Carolina	35.8959 N 76.1658 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14513140	2016-08-11 	not applicable 	USA: North Carolina	35.8959 N 76.1658 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14513134	2016-08-11 	not applicable 	USA: North Carolina	35.8956 N 76.1655 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14512605	2016-08-11 	not applicable 	USA: North Carolina	35.8959 N 76.1658 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14513135	2016-08-11 	not applicable 	USA: North Carolina	35.8956 N 76.1655 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14512299	2016-08-11 	not applicable 	USA: North Carolina	35.8956 N 76.1655 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14512087	2016-08-11 	not applicable 	USA: North Carolina	35.8959 N 76.1658 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14512965	2016-08-11 	not applicable 	USA: North Carolina	35.8959 N 76.1658 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14512660	2016-08-11 	not applicable 	USA: North Carolina	35.8956 N 76.1655 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN14513301	2016-08-11 	not applicable 	USA: North Carolina	35.8959 N 76.1658 W	restored coastal freshwater wetland 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN15091510	bubbling pool in the central crater-like structure of an active mud volcano 	2019-05-18 	Ukraine: eastern Crimea	45.4261 N 36.4780 E	
+SAMN09979600	marine sediment 	2011-11-08 	Atlantic Ocean	22.80 N 46.05 W	1383E_4H-2 	
+SAMN15772041	2018-12-19 	25-30 	0 m 	Wetland [ENVO:00000043] 	not applicable 	soil [ENVO:00001998] 	Australia	37.908647 S 145.139591 E	16 	
+SAMN15772039	2018-12-19 	5-10 	0 m 	Wetland [ENVO:00000043] 	not applicable 	soil [ENVO:00001998] 	Australia	37.908647 S 145.139591 E	14 	
+SAMN15772038	2018-12-19 	0-5 	0 m 	Wetland [ENVO:00000043] 	not applicable 	soil [ENVO:00001998] 	Australia	37.908647 S 145.139591 E	13 	
+SAMN15835514	Environment 	Leachate 	2018-09-18 	India: Gujarat	22.9828 N 72.5650 E	
+SAMN15835513	Environment 	soil sample 	2018-09-18 	India: Gujarat	22.9828 N 72.5650 E	
+SAMN15835510	Environment 	Leachate 	2018-05-11 	India: Gujarat	22.9828 N 72.5650 E	
+SAMN15835502	Environment 	soil sample 	2018-05-11 	India: Gujarat	22.9828 N 72.5650 E	
+SAMN15835500	Environment 	soil sample 	2018-05-11 	India: Gujarat	22.9828 N 72.5650 E	
+SAMN16252676	Mariana trench surficial sediment 	2016-06-29 	Pacific Ocean: Mariana Trench	11.801 N 142.117 E	deep sea sediment biome 	deep see 	Mariana trench surficial sediment 	24-26cmbsf 	-5533m 	
+SAMN16252675	Mariana trench surficial sediment 	2016-06-29 	Pacific Ocean: Mariana Trench	11.801 N 142.117 E	deep sea sediment biome 	deep see 	Mariana trench surficial sediment 	4-6cmbsf replicate2 	-5533m 	
+SAMN16690188	dairy manure 	2016-06 	USA	42.45 N 76.47 W	biological replicate 2 	
+SAMN16686071	2019-02-15 	30 	marine biome 	marine 	seawater 	Spain: off the Coast of Alicante	37.35361 N 0.286194 W	seawater 	
+SAMN06859935	C3_55_B_DNA 	2013-05 	0-5 cm 	N/A 	terrestrial biome 	organic feature 	compost soil 	Germany: Goettingen	51.6 N 9.9 E	
+SAMN06859928	C2_55_B_DNA 	2013-05 	0-5 cm 	N/A 	terrestrial biome 	organic feature 	compost soil 	Germany: Goettingen	51.6 N 9.9 E	
+SAMN16861441	NA 	marine water, oceanic 	2020-04-16T16:16:00Z 	Atlantic Ocean	34.504488 N 73.506992 W	underway 	C13.5/A13.5-231 	23.315 	NA 	NA 	biological replicate 1 	
+SAMN16861379	NA 	marine water, oceanic 	2020-04-11T20:58:00Z 	Atlantic Ocean	21.490495 N 54.802722 W	underway 	C13.5/A13.5-170 	25.753 	NA 	NA 	biological replicate 1 	
+SAMN16930153	2017-08-31T20:06:00Z 	43 	marine biome 	marine water body 	water 	USA: Chukchi Sea	70.9745 N 161.8871667 W	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	id226 	
+SAMN16930154	2017-08-31T20:06:00Z 	43 	marine biome 	marine water body 	water 	USA: Chukchi Sea	70.9745 N 161.8871667 W	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	id227 	
+SAMN16930113	2017-08-30T06:29:00Z 	31.513 	marine biome 	marine water body 	water 	USA: Chukchi Sea	68.24683333 N 167.1216667 W	2.98 	1.411 	5.5 	0.2591 	0.27 	20.6 	5.16815 	32.2547 	289.1755089 	2.8 	0.18 	id186 	
+SAMN16930171	2017-08-31T07:39:00Z 	34.858 	marine biome 	marine water body 	water 	USA: Chukchi Sea	71.49033333 N 163.3768333 W	not collected 	not collected 	not collected 	3.0372 	not collected 	not collected 	0.74115 	32.04995 	332.2912383 	not collected 	not collected 	id244 	
+SAMN16930038	2016-07-13T21:08:00Z 	299.086 	marine biome 	marine water body 	water 	USA: Chukchi Sea	74.322 N 159.4448333 W	11.759484159 	1.266072801 	0.077829347 	0.412073469387755 	not collected 	9.992663932 	0.0674040816326531 	34.5704163265306 	274.327448979592 	11.67870933 	0.002945482 	id111 	
+SAMN16930037	2016-07-13T21:08:00Z 	253.491 	marine biome 	marine water body 	water 	USA: Chukchi Sea	74.322 N 159.4448333 W	12.084117613 	1.38312611 	0.085373689 	0.461578723404255 	not collected 	13.8071298 	-0.594629787234043 	34.2499468085106 	272.730723404255 	11.9951815 	0.003562424 	id110 	
+SAMN16930033	2016-07-13T21:08:00Z 	185.02 	marine biome 	marine water body 	water 	USA: Chukchi Sea	74.322 N 159.4448333 W	10.501198599999999 	2.040178086 	1.383969997 	0.4677875 	not collected 	27.86325363 	-1.43944166666667 	33.2039229166667 	274.348291666667 	9.098088911 	0.019139692 	id106 	
+SAMN16930035	2016-07-19T21:12:00Z 	212.817 	marine biome 	marine water body 	water 	USA: Chukchi Sea	77.0705 N 161.8135 W	18.042178952 	2.375497525 	1.707397298 	0.450628125 	not collected 	33.29665529 	-1.476846875 	33.15164375 	274.13384375 	16.32998943 	0.004792224 	id108 	
+SAMN16930194	2017-09-01T19:29:00Z 	61.714 	marine biome 	marine water body 	water 	USA: Chukchi Sea	71.32666667 N 157.3145 W	14.35 	1.781 	0.2 	0.1875 	0.049 	28.3 	-1.2581 	33.24285 	288.3984075 	14.3 	0.05 	id267 	
+SAMN16930076	missing 	4 	marine biome 	marine water body 	water 	missing 	missing 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	id149 	
+SAMN16930077	missing 	4 	marine biome 	marine water body 	water 	missing 	missing 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	id150 	
+SAMN16930078	missing 	4 	marine biome 	marine water body 	water 	missing 	missing 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	id151 	
+SAMN16929993	2016-07-06T22:14:00Z 	70 	marine biome 	marine water body 	water 	USA: Bering Sea	61.236833 N 167.955833 W	not collected 	not collected 	not collected 	not collected 	0.06 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	id66 	
+SAMN16930108	missing 	4 	marine biome 	marine water body 	water 	missing 	missing 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	id181 	
+SAMN16929929	2017-08-07T17:09:00Z 	31.754 	marine biome 	marine water body 	water 	USA: Chukchi Sea	68.2996 N 166.93871 W	0.21 	0.52 	0.23 	1.397 	2.16 	4.49 	10.54875 	31.01195 	280.2455 	not collected 	not collected 	id2 	
+SAMN16929979	2017-06-16T18:22:00Z 	16.1 	marine biome 	marine water body 	water 	USA: Chukchi Sea	68.1848 N 167.3097 W	0.12 	0.715 	1.23 	0.8554 	0.9 	1.5 	2.2475 	32.289 	375.772 	0.1 	0.02 	id52 	
+SAMN16929967	2017-06-24T23:33:00Z 	4.46 	marine biome 	marine water body 	water 	USA: Chukchi Sea	64.96014 N 169.8903 W	16.98 	1.643 	1.46 	0.3369 	0.7 	31.6 	2.669 	32.7705 	301.367 	16.8 	0.18 	id40 	
+SAMN16929961	2017-06-26T00:00:00Z 	49.01 	marine biome 	marine water body 	water 	USA: Chukchi Sea	63.60452 N 172.59099 W	17.72 	1.857 	1.78 	0.6383 	0.51 	36.9 	0.698 	32.664 	281.19 	17.6 	0.12 	id34 	
+SAMN16929978	2017-06-16T18:22:00Z 	16.1 	marine biome 	marine water body 	water 	USA: Chukchi Sea	68.1848 N 167.3097 W	0.12 	0.715 	1.23 	0.8554 	0.9 	1.5 	2.2475 	32.289 	375.772 	0.1 	0.02 	id51 	
+SAMN16929986	2017-06-15T19:24:00Z 	20.1 	marine biome 	marine water body 	water 	USA: Chukchi Sea	67.67048 N 168.72936 W	10.26 	1.274 	1.61 	5.0973 	7.05 	11.6 	2.112 	32.845 	335.926 	10.1 	0.16 	id59 	
+SAMN16929969	2017-06-24T23:33:00Z 	15.09 	marine biome 	marine water body 	water 	USA: Chukchi Sea	64.96016 N 169.89046 W	15.67 	1.596 	1.49 	0.8447 	0.75 	29.5 	2.686 	32.77 	301.201 	15.5 	0.17 	id42 	
+SAMN16929966	2017-06-24T23:33:00Z 	4.46 	marine biome 	marine water body 	water 	USA: Chukchi Sea	64.96014 N 169.8903 W	16.98 	1.643 	1.46 	0.3369 	0.7 	31.6 	2.669 	32.7705 	301.367 	16.8 	0.18 	id39 	
+SAMN16930228	2017-09-01T05:55:00Z 	30.261 	marine biome 	marine water body 	water 	USA: Chukchi Sea	71.57866667 N 157.8113333 W	0.15 	0.698 	0.2 	0.3144 	0.297 	4.6 	1.39575 	31.38425 	383.0484648 	0.1 	0.05 	id301 	
+SAMN16930056	2016-07-16T19:56:00Z 	232.537 	marine biome 	marine water body 	water 	Arctic Ocean	75.639 N 158.8061667 W	14.790041305999999 	2.253006688 	0.291616418 	0.440330769230769 	not collected 	30.19866335 	-1.38653846153846 	33.4132730769231 	272.535461538462 	14.49544624 	0.002978648 	id129 	
+SAMN16930032	2016-07-13T21:08:00Z 	117.021 	marine biome 	marine water body 	water 	USA: Chukchi Sea	74.322 N 159.4448333 W	13.351978303000001 	2.204188472 	0.001916967 	0.483252112676056 	not collected 	25.56297527 	-1.46474366197183 	32.5628183098592 	297.644056338028 	13.34272308 	0.007338256 	id105 	
+SAMN16930049	2016-07-15T10:51:00Z 	506.886 	marine biome 	marine water body 	water 	USA: Chukchi Sea	74.7085 N 158.481 W	13.435917986 	1.154871714 	0.237489899 	0.36781935483871 	0.09 	7.903804617 	0.738248387096774 	34.8368225806452 	285.190741935484 	13.19231231 	0.006115777 	id122 	
+SAMN16930058	2016-07-16T19:56:00Z 	507.383 	marine biome 	marine water body 	water 	Arctic Ocean	75.639 N 158.8061667 W	13.246736662 	1.147596459 	0.097193174 	0.431525 	not collected 	7.295967515 	0.363425 	34.85915 	289.121041666667 	13.14890031 	0.000643178 	id131 	
+SAMN16930046	2016-07-15T10:51:00Z 	244.556 	marine biome 	marine water body 	water 	USA: Chukchi Sea	74.7085 N 158.481 W	15.078569278999998 	1.905547489 	0.097321666 	0.447316666666667 	not collected 	24.83037132 	-1.09237333333333 	33.8687866666667 	263.893533333333 	14.97880487 	0.002442743 	id119 	
+SAMN16930193	2017-09-01T19:29:00Z 	61.714 	marine biome 	marine water body 	water 	USA: Chukchi Sea	71.32666667 N 157.3145 W	14.35 	1.781 	0.2 	0.1875 	0.049 	28.3 	-1.2581 	33.24285 	288.3984075 	14.3 	0.05 	id266 	
+SAMN17320291	2016-12-01 	0-2cm 	-10853m 	Marine sediment 	Surficial sediment 	Deep marine sediment 	Pacific Ocean: Mariana Trench	11.4037 N 142.3630 E	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	sediment from Mariana Trench 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	
+SAMN17320294	2016-12-01 	4_5cm 	-10853m 	Marine sediment 	Surficial sediment 	Deep marine sediment 	Pacific Ocean: Mariana Trench	11.4037 N 142.3630 E	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	sediment from Mariana Trench 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	not collected 	
+SAMN18057476	not applicable 	Water column (marine) 	2015-01-15 	Antarctica	77.619 S 165.413 E	1 	GOS_933_01_metaG 	
+SAMN18057475	not applicable 	Water column (marine) 	2015-01-15 	Antarctica	77.619 S 165.413 E	1 	GOS_933_08_metaG 	
+SAMN18057474	not applicable 	Water column (marine) 	2015-01-15 	Antarctica	77.619 S 165.413 E	1 	GOS_933_3_metaG 	
+SAMN18057479	not applicable 	Water column (marine) 	2015-01-22 	Antarctica	77.622 S 165.419 E	1 	GOS_935_01_metaG 	
+SAMN18057478	not applicable 	Water column (marine) 	2015-01-22 	Antarctica	77.622 S 165.419 E	1 	GOS_935_08_metaG 	
+SAMN18057477	not applicable 	Water column (marine) 	2015-01-22 	Antarctica	77.622 S 165.419 E	1 	GOS_935_3_metaG 	
+SAMN17306780	Post methanisation process compost 	2020-10 	Switzerland: Bernex	46.18725 N 6.06247 E	
+SAMN17306779	Post methanisation process compost 	2020-10 	Switzerland: Bernex	46.18725 N 6.06247 E	
+SAMN17306778	Post methanisation process solid digestate 	2020-10 	Switzerland: Bernex	46.18725 N 6.06247 E	
+SAMN17306777	Post methanisation process solid digestate 	2020-10 	Switzerland: Lavigny	46.5069167 N 6.41369444 E	
+SAMN18309518	soil 	2009-05 	China: Zoige wetland	33.9333 N 102.8667 E	anaerobe 	replicate = biological replicate 3 	
+SAMN18309516	soil 	2009-05 	China: Zoige wetland	33.9333 N 102.8667 E	anaerobe 	replicate = biological replicate 1 	
+SAMN18528059	2015-10-27 	0-5 cm (from surface of sediment) 	-145 m 	marine shelf 	sea floor 	sea floor sediment 	Canada: Labrador Sea	59.09 N 62.24 W	0.1 % v/v Crude Oil 	box corer 	315 µL slurry of sediment in artificial seawater was used for DNA extraction (1mL sediment to 4mL water in incubation) 	University of Calgary 	+4 deg C 	crude oil sediment 	
+SAMN18528058	2015-10-27 	0-5 cm (from surface of sediment) 	-145 m 	marine shelf 	sea floor 	sea floor sediment 	Canada: Labrador Sea	59.09 N 62.24 W	0.1 % v/v Diesel 	box corer 	300 µL slurry of sediment in artificial seawater was used for DNA extraction (1mL sediment to 4mL water in incubation) 	University of Calgary 	+4 deg C 	diesel sediment 	
+SAMN18645360	hot spring water 	2015-05 	Philippines:Manleluag spring	15.70 N 120.28 E	
+SAMN18824493	Radish 	agricultural soil 	2019-09-30 	Canada	43.01 N 81.2 W	Radish_4 	
+SAMN18824500	Radish 	agricultural soil 	2019-09-30 	Canada	43.01 N 81.2 W	Radish_11 	
+SAMN18824495	Radish 	agricultural soil 	2019-09-30 	Canada	43.01 N 81.2 W	Radish_6 	
+SAMN18824494	Radish 	agricultural soil 	2019-09-30 	Canada	43.01 N 81.2 W	Radish_5 	
+SAMN18824507	Radish 	agricultural soil 	2019-09-30 	Canada	43.01 N 81.2 W	Radish_18 	
+SAMN18824506	Radish 	agricultural soil 	2019-09-30 	Canada	43.01 N 81.2 W	Radish_17 	
+SAMN18824505	Radish 	agricultural soil 	2019-09-30 	Canada	43.01 N 81.2 W	Radish_16 	
+SAMN18896307	constructed wetland 	2019-07-09 	China	39.98 N 116.39 E	W1S3R 	
+SAMN18896306	constructed wetland 	2019-07-09 	China	39.98 N 116.39 E	W1S3L 	
+SAMN18896304	constructed wetland 	2019-07-09 	China	39.98 N 116.39 E	W1S2S 	
+SAMN18896320	constructed wetland 	2019-07-09 	China	40.00 N 116.39 E	W6S3S 	
+SAMN18896319	constructed wetland 	2019-07-09 	China	40.00 N 116.39 E	W6S3R 	
+SAMN18896318	constructed wetland 	2019-07-09 	China	40.00 N 116.39 E	W6S3L 	
+SAMN18896300	constructed wetland 	2019-07-09 	China	39.98 N 116.39 E	W1S1S 	
+SAMN18896315	constructed wetland 	2019-07-09 	China	40.00 N 116.39 E	W6S2R 	
+SAMN18896314	constructed wetland 	2019-07-09 	China	40.00 N 116.39 E	W6S2L 	
+SAMN18896312	constructed wetland 	2019-07-09 	China	40.00 N 116.39 E	W6S1S 	
+SAMN18896311	constructed wetland 	2019-07-09 	China	40.00 N 116.39 E	W6S1R 	
+SAMN18896310	constructed wetland 	2019-07-09 	China	40.00 N 116.39 E	W6S1L 	
+SAMN18896299	constructed wetland 	2019-07-09 	China	39.98 N 116.39 E	W1S1R 	
+SAMN18896298	constructed wetland 	2019-07-09 	China	39.98 N 116.39 E	W1S1L 	
+SAMN19044779	RTx642 	2016-07-26 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044778	BTx430 	2016-07-26 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044777	RTx642 	2016-06-28 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044776	BTx430 	2016-06-28 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044775	RTx642 	2016-06-28 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044774	BTx430 	2016-06-28 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044773	RTx642 	2016-06-21 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044793	RTx642 	2016-08-16 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044792	BTx430 	2016-08-16 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044791	RTx642 	2016-08-16 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044772	BTx430 	2016-06-21 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044790	BTx430 	2016-08-16 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044789	RTx642 	2016-08-09 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044788	BTx430 	2016-08-09 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044787	RTx642 	2016-08-09 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044786	BTx430 	2016-08-09 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044784	BTx430 	2016-08-02 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044783	RTx642 	2016-08-02 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044782	BTx430 	2016-08-02 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044781	RTx642 	2016-07-26 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044780	BTx430 	2016-07-26 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	not watered	36.597906 N 119.518373 W	
+SAMN19044771	RTx642 	2016-06-21 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19044770	BTx430 	2016-06-21 	field site 	sandy clay loam 	rhizosphere 	USA: Parlier, CA	Soil 	watered weekly at 100% evapotransporiation	36.597906 N 119.518373 W	
+SAMN19118267	sea water 	2018-08-22 	Chile: Comau fjord	42.38636 S 72.45599 W	7.99 	10.52 	43.1 	29.14 	82.1 	13.239408 	243.91841738089664 	48.13310013920072 	5.992962368607996 	13.01588 	1.311723 	1.812599 	0.2117629 	12.8041171 	33 	
+SAMN19118265	sea water 	2018-08-26 	Chile: Comau fjord	42.4731 S 72.40573 W	8.31 	9.96 	NA 	26.95 	77.1 	2.291436 	180.39250283576214 	19.932437859908326 	6.307320546264541 	2.948838 	0.5007176 	3.083599 	0.1176598 	2.8311781999999996 	29 	
+SAMN19118264	sea water 	2018-08-26 	Chile: Comau fjord	42.47294 S 72.41806 W	8.03 	10.41 	NA 	29.03 	71.3 	1.9277160000000002 	112.99276348880701 	24.692797669210645 	9.61669308115608 	15.72388 	1.673463 	5.122164 	0.305866 	15.418014 	32 	
+SAMN19118262	sea water 	2018-08-26 	Chile: Comau fjord	42.47733 S 72.43112 W	7.79 	10.88 	NA 	29.82 	74.3 	3.473526 	238.8716176779037 	23.211447567595314 	5.409642345813344 	22.17022 	2.271923 	9.704412 	0.4178935 	21.7523265 	34 	
+SAMN19118228	sea water 	2017-06-08 	Chile: Comau fjord	42.30682 S 72.51469 W	7 	11.65 	161.5 	32.5 	24.9 	1.309392 	71.1061048 	8.12385021 	8.75275921 	11.6 	11.1 	0.52 	1.76 	14 	N/A 	
+SAMN19118225	sea water 	2017-06-02 	Chile: Comau fjord	42.38579 S 72.45607 W	7.64 	12.73 	0 	35.62 	65.3 	0.36372 	51.0337415 	3.73491103 	13.6639778 	19.3 	19.2 	0.07 	2.34 	7 	N/A 	
+SAMN19118282	sea water 	2018-08-24 	Chile: Comau fjord	42.20202 S 72.49854 W	8.13 	10.23 	NA 	30.47 	77.6 	3.4735259999999997 	234.36739405740175 	44.15663779746407 	6.165746378471634 	12.85491 	1.26163 	6.297494 	0.1893574 	12.6655526 	34 	
+SAMN19118274	sea water 	2018-08-29 	Chile: Comau fjord	42.3066 S 72.51493 W	8.05 	9.78 	NA 	30.39 	64.3 	3.491712 	160.9090889644938 	26.46098744567457 	6.932315983132966 	14.10609 	1.47529 	7.790157 	0.2207251 	13.8853649 	34 	
+SAMN19118273	sea water 	2018-08-29 	Chile: Comau fjord	42.3066 S 72.51493 W	8.25 	10.11 	NA 	26.91 	80.3 	5.564916 	178.38100126164906 	6.5334886649261525 	6.741282865118778 	2.264345 	0.5057564 	2.130413 	0.0325189 	2.2318261 	28 	
+SAMN19118270	sea water 	2018-08-22 	Chile: Comau fjord	42.38078 S 72.43892 W	7.85 	10.98 	0 	29.25 	73.9 	2.600598 	202.3397655250828 	14.010966764061367 	6.109076823641707 	25.94311 	2.291425 	14.63582 	0.3641203 	25.5789897 	34 	
+SAMN19118268	sea water 	2018-08-22 	Chile: Comau fjord	42.38636 S 72.45599 W	7.76 	10.77 	0 	31.3 	55.8 	0.8729280000000003 	178.621611497787 	7.170036984453165 	6.869729564036888 	26.39245 	2.23324 	16.35843 	0.350677 	26.041773 	32 	
+SAMN06266271	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4971 N 122.1330 W	Pond R1 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN06264491	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4958 N 122.1331 W	Pond R2 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN19716615	Natural host 	Environmental source 	2018-04-27 	China: South China sea	25.58 N 119.85 E	
+SAMN19716613	Natural host 	Environmental source 	2018-04-27 	China: South China sea	25.49 N 119.84 E	
+SAMN19716612	Natural host 	Environmental source 	2018-04-27 	China: South China sea	25.47 N 119.86 E	
+SAMN19707289	surface water in the sea 	2018-04-29 	China: South China sea	24.42 N 118.00 E	
+SAMN20058460	2019-12-11 	6477m 	-6477m 	original and enrichiment hadal sediment 	surface seafloor in Mariana Trench 	surface seafloor in Mariana Trench 	Pacific Ocean: Mariana Trench	10.81 N 141.18 E	surface seafloor hadal sediment 	
+SAMN20308266	2018-08-21 	Canada:Terrace, Lakelse Hot Spring	hot spring sediment 	54.358300 N 128.541133 W	Lak16L 	
+SAMN20521043	rhizosphere soil 	2020-08-27 	China: Axi township, Sichuan province	33.68 N 102.93 E	replicate = biological replicate 3 	
+SAMN20521042	rhizosphere soil 	2020-08-27 	China: Axi township, Sichuan province	33.68 N 102.93 E	replicate = biological replicate 2 	
+SAMN20521041	rhizosphere soil 	2020-08-27 	China: Axi township, Sichuan province	33.68 N 102.93 E	replicate = biological replicate 1 	
+SAMN20600050	alpine meadow soil with moderate precipitation change: biological replicate 1 	2020-09 	China:the Zoige plateau, Zoige county	33.62 N 102.87 E	
+SAMN20600049	alpine meadow soil with ambiant precipitation: biological replicate 3 	2020-09 	China:the Zoige plateau, Zoige county	33.62 N 102.87 E	
+SAMN20600048	alpine meadow soil with ambiant precipitation: biological replicate 2 	2020-09 	China:the Zoige plateau, Zoige county	33.62 N 102.87 E	
+SAMN20600047	alpine meadow soil with ambiant precipitation: biological replicate 1 	2020-09 	China:the Zoige plateau, Zoige county	33.62 N 102.87 E	
+SAMN20600054	alpine meadow soil with severe precipitation change: biological replicate 2 	2020-09 	China:the Zoige plateau, Zoige county	33.62 N 102.87 E	
+SAMN20600053	alpine meadow soil with severe precipitation change: biological replicate 1 	2020-09 	China:the Zoige plateau, Zoige county	33.62 N 102.87 E	
+SAMN20600051	alpine meadow soil with moderate precipitation change: biological replicate 2 	2020-09 	China:the Zoige plateau, Zoige county	33.62 N 102.87 E	
+SAMN20821175	2015-08 	41.382783 N 82.51465 W	freshwater wetland soil 	USA: Ohio, Lake Erie, Old Woman Creek NERR	0-5cm 	173 m 	freshwater wetland soil 	mud flat 	soil 	anaerobic enrichment 	AMS1 	
+SAMN20863992	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	PVC10_3 	
+SAMN20863991	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	control2 	
+SAMN20863990	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	PVC1_2 	
+SAMN20863989	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	ZnH_1 	
+SAMN20863988	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	PVC1_1 	
+SAMN20863987	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	PVC10_2 	
+SAMN20863986	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	ZnL_2 	
+SAMN20863985	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	ZnL_1 	
+SAMN20863998	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	ZnL_4 	
+SAMN20863997	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	PVC1_4 	
+SAMN20863996	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	PVC1_3 	
+SAMN20863995	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	control3 	
+SAMN20863994	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	ZnH_2 	
+SAMN20863993	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	ZnL_3 	
+SAMN20863984	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	PVC10_1 	
+SAMN20863983	not applicable 	seawater 	2019-11-25 	Australia: Port Hacking, NSW	34.116 S 151.219 E	control1 	
+SAMN20864073	2013-10-30 	41.3778 N 82.5108 W	freshwater wetland soil 	USA: Ohio, Lake Erie, Old Woman Creek NERR	24-35cm 	173m 	freshwater wetland soil 	water covered soil -estuary channel 	soil 	O3C3D4_DDIG 	
+SAMN20864073	2013-10-30 	41.3778 N 82.5108 W	freshwater wetland soil 	USA: Ohio, Lake Erie, Old Woman Creek NERR	24-35cm 	173m 	freshwater wetland soil 	water covered soil -estuary channel 	soil 	O3C3D4_DDIG 	
+SAMN20864072	2013-10-30 	41.3778 N 82.5108 W	freshwater wetland soil 	USA: Ohio, Lake Erie, Old Woman Creek NERR	13-23cm 	173m 	freshwater wetland soil 	water covered soil -estuary channel 	soil 	O3C3D3_DDIG 	
+SAMN20864072	2013-10-30 	41.3778 N 82.5108 W	freshwater wetland soil 	USA: Ohio, Lake Erie, Old Woman Creek NERR	13-23cm 	173m 	freshwater wetland soil 	water covered soil -estuary channel 	soil 	O3C3D3_DDIG 	
+SAMN20864071	2013-10-30 	41.3778 N 82.5108 W	freshwater wetland soil 	USA: Ohio, Lake Erie, Old Woman Creek NERR	0-5cm 	173m 	freshwater wetland soil 	water covered soil -estuary channel 	soil 	O3C3D1_DDIG 	
+SAMN21013452	Nicotiana tabacum 	rhizosphere soil 	2019-06-30 	not collected 	25.38 N 100.41 E	replicate = biological replicate 3 	
+SAMN21013461	Nicotiana tabacum 	rhizosphere soil 	2019-07-01 	not collected 	24.65 N 102.88 E	replicate = biological replicate 3 	
+SAMN21013460	Nicotiana tabacum 	rhizosphere soil 	2019-07-01 	not collected 	24.65 N 102.88 E	replicate = biological replicate 2 	
+SAMN21013451	Nicotiana tabacum 	rhizosphere soil 	2019-06-30 	not collected 	25.38 N 100.41 E	replicate = biological replicate 2 	
+SAMN21013450	Nicotiana tabacum 	rhizosphere soil 	2019-06-30 	not collected 	25.38 N 100.41 E	replicate = biological replicate 1 	
+SAMN21013459	Nicotiana tabacum 	rhizosphere soil 	2019-07-01 	not collected 	24.65 N 102.88 E	replicate = biological replicate 1 	
+SAMN21013458	Nicotiana tabacum 	rhizosphere soil 	2019-07-01 	not collected 	24.67 N 102.93 E	replicate = biological replicate 3 	
+SAMN21013457	Nicotiana tabacum 	rhizosphere soil 	2019-07-01 	not collected 	24.67 N 102.93 E	replicate = biological replicate 2 	
+SAMN21013456	Nicotiana tabacum 	rhizosphere soil 	2019-07-01 	not collected 	24.67 N 102.93 E	replicate = biological replicate 1 	
+SAMN21013455	Nicotiana tabacum 	rhizosphere soil 	2019-06-30 	not collected 	25.39 N 100.43 E	replicate = biological replicate 3 	
+SAMN21013454	Nicotiana tabacum 	rhizosphere soil 	2019-06-30 	not collected 	25.39 N 100.43 E	replicate = biological replicate 2 	
+SAMN21013453	Nicotiana tabacum 	rhizosphere soil 	2019-06-30 	not collected 	25.39 N 100.43 E	replicate = biological replicate 1 	
+SAMN21157293	2019-10 	90 cm 	1000 	temperate woodland biome [ENVO:01000221] 	area of woody wetland [ENVO:01000893] 	lake bottom mud [ENVO:00005797] 	USA: California, Lake County	sediments of a seasonal vernal pool 	38.41 N 122.31 W	trench1d 	
+SAMN21157285	2018-10 	20 cm 	1000 	temperate woodland biome [ENVO:01000221] 	area of woody wetland [ENVO:01000893] 	lake bottom mud [ENVO:00005797] 	USA: California, Lake County	sediments of a seasonal vernal pool 	38.41 N 122.31 W	trench5 	
+SAMN21246663	2020-06-08 	wheat field 	wheat leaf 	wheat flag leaf 	Denmark:Vridsloesemagle	Triticum aestivum 	55.68 N 12.29 E	Maturity stage 	Elixir 	4565 (4565)	500 leaves 	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21465149	Glysine max 	soil 	2021-03-12 	South Africa: Free State	27.28 S 26.72 E	
+SAMN21575217	marine; 775m at St17 in the ETSP 2013 	2013-07-11 	Pacific Ocean: Eastern Tropical South Pacific	16.7 S 79 W	CA Fuchsman, L Cherubini, MD Hays. An analysis of protists in Pacific Oxygen Deficient Zones: Implications for Prochlorococcus and N2 producing bacteria	Niskin Bottle 	0.2 um filter 	4.5 L 	
+SAMN21575223	marine; 475m at St17 in the ETSP 2013 Hypoxic waters 	2013-07-11 	Pacific Ocean: Eastern Tropical South Pacific	16.7 S 79 W	CA Fuchsman, L Cherubini, MD Hays. An analysis of protists in Pacific Oxygen Deficient Zones: Implications for Prochlorococcus and N2 producing bacteria	Niskin Bottle 	0.2 um filter 	4.5 L 	
+SAMN22544000	not applicable 	soil sample 	2018-04-15 	China: Heilongjiang	47.16 N 124.21 E	anaerobe 	
+SAMN22543999	not applicable 	soil sample 	2018-04-15 	China: Heilongjiang	47.16 N 124.21 E	aerobe 	
+SAMN22543998	not applicable 	soil sample 	2017-10-29 	China: Heilongjiang	47.16 N 124.21 E	anaerobe 	
+SAMN22543997	not applicable 	soil sample 	2017-10-29 	China: Heilongjiang	47.16 N 124.21 E	aerobe 	
+SAMN22543996	not applicable 	soil sample 	2017-07-14 	China: Heilongjiang	47.16 N 124.21 E	anaerobe 	
+SAMN22543995	not applicable 	soil sample 	2017-07-14 	China: Heilongjiang	47.16 N 124.21 E	aerobe 	
+SAMN22814772	Mssing 	Surface seawater 	2019-06-08 	Indian Ocean	32.5 S 56.8 E	
+SAMN22876307	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	CT 	21 	8 	na 	na 	na 	na 	na 	Shotgun metagenomic 	
+SAMN22876306	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	CT 	63 	8 	na 	na 	na 	na 	na 	Shotgun metagenomic 	
+SAMN22876305	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	EW 	21 	7 	698 	409 	759 	20 	399.42 	Shotgun metagenomic 	
+SAMN22876304	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	EW 	63 	7 	725 	175 	386 	45 	178.27 	Shotgun metagenomic 	
+SAMN22876303	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	CT 	21 	12 	na 	na 	na 	na 	na 	Shotgun metagenomic 	
+SAMN22876302	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	CT 	63 	12 	na 	na 	na 	na 	na 	Shotgun metagenomic 	
+SAMN22876300	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	EW 	63 	11 	816 	90 	437 	6 	222.15 	Shotgun metagenomic 	
+SAMN22876309	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	EW 	21 	9 	720 	199 	926 	9 	386.66 	Shotgun metagenomic 	
+SAMN22876308	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	EW 	63 	9 	702 	78 	386 	69 	146.56 	Shotgun metagenomic 	
+SAMN22876299	2016 	FOODON:00001071 	FOODON:00001071 	FOODON:00001071 	Spain: southern Galicia	43.0300 N 8.0800 W	CT 	21 	10 	na 	na 	na 	na 	na 	Shotgun metagenomic 	
+SAMN22929136	missing 	rhizosphere soil 	2020-09-05 	China:Puer	23.10 N 100.20 E	20 cm from the ground 	rep3 	
+SAMN22929135	missing 	rhizosphere soil 	2020-09-05 	China:Puer	23.10 N 100.20 E	20 cm from the ground 	rep2 	
+SAMN22929169	missing 	rhizosphere soil 	2020-09-05 	China:Puer	23.10 N 100.20 E	rep3 	
+SAMN22929168	missing 	rhizosphere soil 	2020-09-05 	China:Puer	23.10 N 100.20 E	rep2 	
+SAMN22929167	missing 	rhizosphere soil 	2020-09-05 	China:Puer	23.10 N 100.20 E	rep1 	
+SAMN23040518	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S21 	
+SAMN23040500	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S3 	
+SAMN23040498	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S1 	
+SAMN23040516	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S19 	
+SAMN23040514	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S17 	
+SAMN23040512	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S15 	
+SAMN23040510	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S13 	
+SAMN23040508	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S11 	
+SAMN23040506	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S9 	
+SAMN23040504	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S7 	
+SAMN23040556	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S59 	
+SAMN23040554	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S57 	
+SAMN23040552	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S55 	
+SAMN23040550	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S53 	
+SAMN23040548	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S51 	
+SAMN23040546	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S49 	
+SAMN23040544	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S47 	
+SAMN23040542	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S45 	
+SAMN23040540	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S43 	
+SAMN23040538	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S41 	
+SAMN23040502	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S5 	
+SAMN23040536	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S39 	
+SAMN23040534	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S37 	
+SAMN23040532	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S35 	
+SAMN23040530	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S33 	
+SAMN23040528	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S31 	
+SAMN23040526	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S29 	
+SAMN23040524	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S27 	
+SAMN23040522	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S25 	
+SAMN23040520	apple orchard soil 	apple rhizosphere 	2017-10-01 	USA: Washington	47.884722 N 120.158333 W	S23 	
+SAMN23393990	Wheat rhizosphere 	2019-08-09 	USA: Lind, WA	46.97 N 118.62 W	biological replicate 4 	
+SAMN23393989	Wheat rhizosphere 	2019-08-09 	USA: Lind, WA	46.97 N 118.62 W	biological replicate 3 	
+SAMN23393988	Wheat rhizosphere 	2019-08-09 	USA: Lind, WA	46.97 N 118.62 W	biological replicate 2 	
+SAMN23393987	Wheat rhizosphere 	2019-08-09 	USA: Lind, WA	46.97 N 118.62 W	biological replicate 1 	
+SAMN23436148	Peanut 	Peanut rhizosphere:Replicate 4 of P5 treatment 	2019-07 	China: Fuzhou	28.37 N 106.58 E	
+SAMN23436147	Peanut 	Peanut rhizosphere:Replicate 3 of P5 treatment 	2019-07 	China: Fuzhou	28.37 N 106.58 E	
+SAMN23436146	Peanut 	Peanut rhizosphere:Replicate 2 of P5 treatment 	2019-07 	China: Fuzhou	28.37 N 106.58 E	
+SAMN23436145	Peanut 	Peanut rhizosphere:Replicate 1 of P5 treatment 	2019-07 	China: Fuzhou	28.37 N 106.58 E	
+SAMN23436144	Peanut 	Peanut rhizosphere:Replicate 4 of P1 treatment 	2019-07 	China: Fuzhou	28.37 N 106.58 E	
+SAMN23436143	Peanut 	Peanut rhizosphere:Replicate 3 of P1 treatment 	2019-07 	China: Fuzhou	28.37 N 106.58 E	
+SAMN23436142	Peanut 	Peanut rhizosphere:Replicate 2 of P1 treatment 	2019-07 	China: Fuzhou	28.37 N 106.58 E	
+SAMN23436141	Peanut 	Peanut rhizosphere:Replicate 1 of P1 treatment 	2019-07 	China: Fuzhou	28.37 N 106.58 E	
+SAMN23431682	2019-01-16 	ENVO:00002170 	UBERON:0000174|PO:0009007|ENVO:00003869|ENVO:2000007 	ENVO:00002170 	Germany:Eckernfoerde	54.49016392 N 9.80877414 E	
+SAMN23431681	2019-01-16 	ENVO:00002170 	UBERON:0000174|PO:0009007|ENVO:00003869 	ENVO:00002170 	Germany:Eckernfoerde	54.49016392 N 9.80877414 E	
+SAMN23431680	2019-01-16 	ENVO:00002170 	UBERON:0000174|PO:0009007|ENVO:00003869|ENVO:2000007 	ENVO:00002170 	Germany:Eckernfoerde	54.49016392 N 9.80877414 E	
+SAMN23431679	2019-01-16 	ENVO:00002170 	UBERON:0000174|PO:0009007|ENVO:00003869 	ENVO:00002170 	Germany:Eckernfoerde	54.49016392 N 9.80877414 E	
+SAMN23382800	2018-08-29 	ENVO:01000373 	UBERON:0000174|PO:0009007|ENVO:00003869|ENVO:2000007 	UBERON:0000174|PO:0009007|ENVO:00003869|ENVO:2000007 	Germany:Eckernfoerde	54.49016392 N 9.80877414 E	
+SAMN23382804	2018-08-29 	ENVO:01000373 	UBERON:0000174|PO:0009007|ENVO:00003869 	UBERON:0000174|PO:0009007|ENVO:00003869 	Germany:Eckernfoerde	54.49016392 N 9.80877414 E	
+SAMN23382793	2018-08-15 	ENVO:01000373 	UBERON:0000174|PO:0009007|ENVO:00003869|ENVO:2000007 	UBERON:0000174|PO:0009007|ENVO:00003869|ENVO:2000007 	Germany:Eckernfoerde	54.49016392 N 9.80877414 E	
+SAMN23382798	2018-08-15 	ENVO:01000373 	UBERON:0000174|PO:0009007|ENVO:00003869 	UBERON:0000174|PO:0009007|ENVO:00003869 	Germany:Eckernfoerde	54.49016392 N 9.80877414 E	
+SAMN23600559	2015 	0 -1 m below surface 	marine biome [ENVO:00000447] 	neritic pelagic zone biome [ENVO_01000032] 	coastal seawater [ENVO:00002150] 	USA:Massachusetts,Nahant,Canoe Beach	42.11 N 70.54 W	Carrageenan 	12 	
+SAMN23600622	2015 	0 -1 m below surface 	marine biome [ENVO:00000447] 	neritic pelagic zone biome [ENVO_01000032] 	coastal seawater [ENVO:00002150] 	USA:Massachusetts,Nahant,Canoe Beach	42.11 N 70.54 W	Alginate 	204 	
+SAMN23585749	cow manure stored for 6 years 	2021-10-28 	Russia: Kemerovo region, village Makuryno	56.033883 N 84.670111 E	Olga V. Karnachuk 	not applicable 	sterile wooden spatula 	
+SAMN23585748	cow manure stored for 3 years 	2021-10-28 	Russia: Kemerovo region, village Makuryno	56.033883 N 84.670111 E	Olga V. Karnachuk 	not applicable 	sterile wooden spatula 	
+SAMN23585747	fresh cow manure 	2021-10-28 	Russia: Kemerovo region, village Makuryno	56.033883 N 84.670111 E	Olga V. Karnachuk 	not applicable 	sterile wooden spatula 	
+SAMN23585746	cow manure stored for 1 year 	2021-10-25 	Russia: Tomsk region, village "Voskhod", no. 16	56.454000 N 85.043000 E	Inna A. Panova 	not applicable 	sterile wooden spatula 	
+SAMN23585745	stored horse manure 	2021-10-26 	Russia: Tomsk region, Takhtamyshevo village, Sovetskaya street 30	56.381333 N 84.882667 E	Inna A. Panova 	not applicable 	sterile wooden spatula 	
+SAMN23585744	stored cow manure 	2021-10-26 	Russia: Tomsk region, Kaftanchikovo village, Light street 9	56.331556 N 84.855472 E	Inna A. Panova 	not applicable 	sterile wooden spatula 	
+SAMN23585743	stored mixed chicken and pork manure 	2021-10-26 	Russia: Tomsk region, Kopylovo village	56.607694 N 85.116639 E	Andrey Lapin 	not applicable 	sterile wooden spatula 	
+SAMN23585742	stored chicken manure 	2021-10-25 	Russia: Tomsk region, village "Veteran" 4, No. 105	56.380361 N 85.008417 E	Lyudmila O. Sokolyankaya 	not applicable 	sterile wooden spatula 	
+SAMN23585741	stored cow manure 	2021-10-25 	Russia: Tomsk region, village "Veteran" 4, No. 104	56.380306 N 85.008694 E	Lyudmila O. Sokolyankaya 	not applicable 	sterile wooden spatula 	
+SAMN23585740	stored mixed horse and cow manure 	2021-10-28 	Russia: Tomsk region	56.394101 N 85.016555 E	Olga V. Karnachuk 	not applicable 	sterile wooden spatula 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN23898321	Plant 	soil sample 	2021-05-08 	missing 	missing 	
+SAMN24468171	Not Applicable 	Not Applicable 	beaver pond sediment 	2020-09-04 	USA: Wyoming	41.03340973 N 106.61031147 W	Beaver pond sediment metagenomic sequencing reads 	Direct link to water samples in manuscript, beaver pond directly below large complex (BP4 in manuscript). Metagenomics sequencing data from DNA extracted from sediment sample. 	
+SAMN24468170	Not Applicable 	Not Applicable 	beaver pond sediment 	2020-09-04 	USA: Wyoming	41.01211929 N 106.58575355 W	Beaver pond sediment metagenomic sequencing reads 	Direct link to water samples in manuscript, lower part of large beaver complex in Ryan Fire burn scar. Metagenomics sequencing data from DNA extracted from sediment sample. 	
+SAMN24468175	Not Applicable 	Not Applicable 	beaver pond sediment 	2020-09-04 	USA: Wyoming	40.955436 N 106.634877 W	Beaver pond sediment metagenomic sequencing reads 	External beaver pond from outside Ryan Fire burn scar. Southfork big lower pond. Metagenomics sequencing data from DNA extracted from sediment sample. 	
+SAMN24468172	Not Applicable 	Not Applicable 	beaver pond sediment 	2020-09-04 	USA: Wyoming	40.973396 N 106.630675 W	Beaver pond sediment metagenomic sequencing reads 	External beaver pond from outside Ryan Fire burn scar. Large pond with many lilly pads. Metagenomics sequencing data from DNA extracted from sediment sample. 	
+SAMN11493621	2018-02 	41.382783 N 82.51465 W	Freshwater sediment 	USA:Ohio	not applicable 	anaerobic microcosm experiment 	T3NoSub3 	
+SAMN25166260	rhizosphere soil 	2019-09-19 	China:Baishui	35.280 N 109.460 E	replicate = biological replicate 10 	
+SAMN25166259	rhizosphere soil 	2019-09-19 	China:Baishui	35.280 N 109.460 E	replicate = biological replicate 9 	
+SAMN25166258	rhizosphere soil 	2019-09-19 	China:Yongshou	34.820 N 108.146 E	replicate = biological replicate 8 	
+SAMN25166257	rhizosphere soil 	2019-09-19 	China:Yongshou	34.838 N 108.087 E	replicate = biological replicate 7 	
+SAMN25166256	rhizosphere soil 	2019-09-19 	China:Yongshou	34.836 N 108.095 E	replicate = biological replicate 6 	
+SAMN25166255	rhizosphere soil 	2019-09-19 	China:Yongshou	34.836 N 108.095 E	replicate = biological replicate 5 	
+SAMN25166254	rhizosphere soil 	2019-09-19 	China:Zhengning	35.443 N 108.567 E	replicate = biological replicate 4 	
+SAMN25166253	rhizosphere soil 	2019-09-19 	China:Zhengning	35.443 N 108.567 E	replicate = biological replicate 3 	
+SAMN25166266	rhizosphere soil 	2019-09-19 	China:Ansai	36.561 N 109.235 E	replicate = biological replicate 16 	
+SAMN25166265	rhizosphere soil 	2019-09-19 	China:Ansai	36.561 N 109.235 E	replicate = biological replicate 15 	
+SAMN25166264	rhizosphere soil 	2019-09-19 	China:Ansai	36.561 N 109.235 E	replicate = biological replicate 14 	
+SAMN25166263	rhizosphere soil 	2019-09-19 	China:Ansai	36.561 N 109.235 E	replicate = biological replicate 13 	
+SAMN25166262	rhizosphere soil 	2019-09-19 	China:Baishui	35.281 N 109.367 E	replicate = biological replicate 12 	
+SAMN25166261	rhizosphere soil 	2019-09-19 	China:Baishui	35.280 N 109.460 E	replicate = biological replicate 11 	
+SAMN25166252	rhizosphere soil 	2019-09-19 	China:Zhengning	35.441 N 108.638 E	replicate = biological replicate 2 	
+SAMN25166251	rhizosphere soil 	2019-09-19 	China:Zhengning	35.441 N 108.638 E	replicate = biological replicate 1 	
+SAMN25740214	2021-10-23 	0-20 cm 	199 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.01 N 83.47 E	rep10 	
+SAMN25740213	2021-10-23 	0-20 cm 	199 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.01 N 83.47 E	rep9 	
+SAMN25740212	2021-10-23 	0-20 cm 	214 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.00 N 83.49 E	rep8 	
+SAMN25740211	2021-10-23 	0-20 cm 	214 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.00 N 83.49 E	rep7 	
+SAMN25740210	2021-10-23 	0-20 cm 	214 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.00 N 83.49 E	rep6 	
+SAMN25740209	2021-10-23 	0-20 cm 	214 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.00 N 83.49 E	rep5 	
+SAMN25740208	2021-10-23 	0-20 cm 	206 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.00 N 83.49 E	rep4 	
+SAMN25740207	2021-10-23 	0-20 cm 	206 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.00 N 83.49 E	rep3 	
+SAMN25740220	2021-10-23 	0-20 cm 	197 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.01 N 83.47 E	rep16 	
+SAMN25740219	2021-10-23 	0-20 cm 	197 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.01 N 83.47 E	rep15 	
+SAMN25740218	2021-10-23 	0-20 cm 	197 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.01 N 83.47 E	rep14 	
+SAMN25740217	2021-10-23 	0-20 cm 	197 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.01 N 83.47 E	rep13 	
+SAMN25740216	2021-10-23 	0-20 cm 	199 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.01 N 83.47 E	rep12 	
+SAMN25740215	2021-10-23 	0-20 cm 	199 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.01 N 83.47 E	rep11 	
+SAMN25740206	2021-10-23 	0-20 cm 	206 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.00 N 83.49 E	rep2 	
+SAMN25740205	2021-10-23 	0-20 cm 	206 m 	agriculture [ENVO:01001442] 	compost [ENVO:00002170] 	agricultural soil [ENVO:00002259] 	Russia: Novosibirsk	55.00 N 83.49 E	rep1 	
+SAMN25753498	Tuft 	2020-11 	20 m 	Marine 	Gulf of Aqaba 	Seawater 	Israel: Gulf of Aqaba	Net Tow 	29.56 N 34.95 E	
+SAMN25753497	Long Puff 	2020-11 	20 m 	Marine 	Gulf of Aqaba 	Seawater 	Israel: Gulf of Aqaba	Net Tow 	29.56 N 34.95 E	
+SAMN25753496	Dense Puff 	2020-11 	20 m 	Marine 	Gulf of Aqaba 	Seawater 	Israel: Gulf of Aqaba	Net Tow 	29.56 N 34.95 E	
+SAMN26804930	2020-11 	10cm 	425m 	Rice cultivation land 	Agricultural land 	Wetland Soil 	India:Tamil Nadu,Coimbatore	11 N 76.93 E	
+SAMN26804930	2020-11 	10cm 	425m 	Rice cultivation land 	Agricultural land 	Wetland Soil 	India:Tamil Nadu,Coimbatore	11 N 76.93 E	
+SAMN26866764	Composting of residues from poultry and swine livestock industry 	2014-12-01 	Swine industry residues (young pig) 	Composting of swine bed and faeces 	Traditional static pile of compost 	Brazil: Toledo, Parana	24.55 S 53.87 W	130 days of composting 	35.8 Celsius degrees 	
+SAMN27010174	not collected 	2019-06 	Pacific Ocean	10.02 N 140.20 E	
+SAMN27010173	not collected 	2016-09 	Pacific Ocean	11.65 N 142.23 E	
+SAMN27259107	2017-10 	5 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] | anthropogenic environmental material [ENVO:0010001] 	Canada: Waterloo	43.44 N 80.58 W	LW1 	
+SAMN27259105	2017-10 	5 m 	water well [ENVO:01000002] 	water well [ENVO:01000002] 	groundwater [ENVO:01001004] 	Canada: Waterloo	43.44 N 80.58 W	GW1 	
+SAMN27362034	alpine peatland soil without precipitation in plant early growth: biological replicate 1 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362033	alpine peatland soil with ambiant precipitation in plant final growth: biological replicate 3 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362032	alpine peatland soil with ambiant precipitation in plant final growth: biological replicate 2 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362031	alpine peatland soil with ambiant precipitation in plant final growth: biological replicate 1 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362030	alpine peatland soil with ambiant precipitation in plant rapid growth: biological replicate 3 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362029	alpine peatland soil with ambiant precipitation in plant rapid growth: biological replicate 2 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362028	alpine peatland soil with ambiant precipitation in plant rapid growth: biological replicate 1 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362027	alpine peatland soil with ambiant precipitation in plant early growth: biological replicate 3 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362042	alpine peatland soil without precipitation in plant final growth: biological replicate 3 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362041	alpine peatland soil without precipitation in plant final growth: biological replicate 2 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362040	alpine peatland soil without precipitation in plant final growth: biological replicate 1 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362039	alpine peatland soil without ambiant precipitation in plant rapid growth: biological replicate 3 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362038	alpine peatland soil without ambiant precipitation in plant rapid growth: biological replicate 2 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362037	alpine peatland soil without ambiant precipitation in plant rapid growth: biological replicate 1 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362036	alpine peatland soil without precipitation in plant early growth: biological replicate 3 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362035	alpine peatland soil without precipitation in plant early growth: biological replicate 2 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362026	alpine peatland soil with ambiant precipitation in plant early growth: biological replicate 2 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN27362025	alpine peatland soil with ambiant precipitation in plant early growth: biological replicate 1 	2019-09 	China:the Zoige plateau, Zoige county	33.68 N 103.22 E	
+SAMN28000196	missing 	reactor sample 	2022-03-25 	missing 	missing 	
+SAMN28000195	missing 	reactor sample 	2022-03-24 	missing 	missing 	
+SAMN28000194	missing 	reactor sample 	2022-03-23 	missing 	missing 	
+SAMN28000193	missing 	reactor sample 	2022-03-22 	missing 	missing 	
+SAMN28000192	missing 	reactor sample 	2022-03-21 	missing 	missing 	
+SAMN28000191	missing 	reactor sample 	2022-03-20 	missing 	missing 	
+SAMN28004198	Rhizosphere soil sample 	2020-07-15T10:11:02Z 	China:Shenyang	41.8 N 123.67 E	
+SAMN28004197	Rhizosphere soil sample 	2020-07-15T10:10:58Z 	China:Shenyang	41.8 N 123.66 E	
+SAMN28004188	Rhizosphere soil sample 	2020-07-15T10:10:24Z 	China:Shenyang	41.8 N 123.57 E	
+SAMN28004187	Rhizosphere soil sample 	2020-07-15T10:10:20Z 	China:Shenyang	41.8 N 123.56 E	
+SAMN28004196	Rhizosphere soil sample 	2020-07-15T10:10:54Z 	China:Shenyang	41.8 N 123.65 E	
+SAMN28004195	Rhizosphere soil sample 	2020-07-15T10:10:50Z 	China:Shenyang	41.8 N 123.64 E	
+SAMN28004194	Rhizosphere soil sample 	2020-07-15T10:10:46Z 	China:Shenyang	41.8 N 123.63 E	
+SAMN28004193	Rhizosphere soil sample 	2020-07-15T10:10:42Z 	China:Shenyang	41.8 N 123.62 E	
+SAMN28004192	Rhizosphere soil sample 	2020-07-15T10:10:38Z 	China:Shenyang	41.8 N 123.61 E	
+SAMN28004191	Rhizosphere soil sample 	2020-07-15T10:10:34Z 	China:Shenyang	41.8 N 123.60 E	
+SAMN28004190	Rhizosphere soil sample 	2020-07-15T10:10:32Z 	China:Shenyang	41.8 N 123.59 E	
+SAMN28004207	Rhizosphere soil sample 	2020-07-15T10:11:38Z 	China:Shenyang	41.8 N 123.76 E	
+SAMN28004189	Rhizosphere soil sample 	2020-07-15T10:10:28Z 	China:Shenyang	41.8 N 123.58 E	
+SAMN28004205	Rhizosphere soil sample 	2020-07-15T10:11:30Z 	China:Shenyang	41.8 N 123.74 E	
+SAMN28004204	Rhizosphere soil sample 	2020-07-15T10:11:26Z 	China:Shenyang	41.8 N 123.73 E	
+SAMN28004203	Rhizosphere soil sample 	2020-07-15T10:11:22Z 	China:Shenyang	41.8 N 123.72 E	
+SAMN28004202	Rhizosphere soil sample 	2020-07-15T10:11:18Z 	China:Shenyang	41.8 N 123.71 E	
+SAMN28004201	Rhizosphere soil sample 	2020-07-15T10:11:14Z 	China:Shenyang	41.8 N 123.70 E	
+SAMN28004200	Rhizosphere soil sample 	2020-07-15T10:11:10Z 	China:Shenyang	41.8 N 123.69 E	
+SAMN28004199	Rhizosphere soil sample 	2020-07-15T10:11:06Z 	China:Shenyang	41.8 N 123.68 E	
+SAMN28822348	water 	2019-05-23 	20cm 	3219.00 	Plateau wetland biological community 	Longitude and latitude at an altitude of 	The lake water 	China: Yunnan	water from Napahai wetland 	27.50 N 99.40 E	
+SAMN28822347	water 	2019-05-23 	20cm 	3218.00 	Plateau wetland biological community 	Longitude and latitude at an altitude of 	The lake water 	China: Yunnan	water from Napahai wetland 	27.50 N 99.40 E	
+SAMN28822346	soil 	2019-05-23 	10cm 	3218.70 	Plateau wetland biological community 	Longitude and latitude at an altitude of 	Wetland soil 	China: Yunnan	soil from Napahai wetland 	27.50 N 99.40 E	
+SAMN28822345	soil 	2019-05-23 	10cm 	3220.10 	Plateau wetland biological community 	Longitude and latitude at an altitude of 	Wetland soil 	China: Yunnan	soil from Napahai wetland 	27.50 N 99.40 E	
+SAMN28822344	soil 	2019-05-23 	10cm 	3217.70 	Plateau wetland biological community 	Longitude and latitude at an altitude of 	Wetland soil 	China: Yunnan	soil from Napahai wetland 	27.49 N 99.38 E	
+SAMN28822343	soil 	2019-05-23 	10cm 	3220.99 	Plateau wetland biological community 	Longitude and latitude at an altitude of 	Wetland soil 	China: Yunnan	soil from Napahai wetland 	27.49 N 99.38 E	
+SAMN28822342	soil 	2019-05-23 	10cm 	3220.00 	Plateau wetland biological community 	Longitude and latitude at an altitude of 	Wetland soil 	China: Yunnan	soil from Napahai wetland 	27.48 N 99.40 E	
+SAMN28822341	soil 	2019-05-23 	10cm 	3231.64 	Plateau wetland biological community 	Longitude and latitude at an altitude of 	Wetland soil 	China: Yunnan	soil from Napahai wetland 	27.48 N 99.39 E	
+SAMN29384549	2019-06-05 	27 	pelagic ocean biome 	shallow ocean water column 	marine water 	USA:California	36.98666667 N 122.782 W	Illumina 	1 	
+SAMN29493186	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	moso bamboo rhizosphere soil 	inoculation PSB 	soil phosphorus fractions 	biological replicate1 	
+SAMN29493185	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	rhizosphere soil 	inoculation PSB 	soil phosphorus cycling 	biological replicate3 	
+SAMN29493184	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	rhizosphere soil 	inoculation PSB 	soil phosphorus cycling 	biological replicate2 	
+SAMN29493183	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	rhizosphere soil 	inoculation PSB 	soil phosphorus cycling 	biological replicate1 	
+SAMN29493200	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	moso bamboo rhizosphere soil,potting soil 	inoculation PSB 	moso bamboo biomass and soil availabe nutrient supply 	biological replicate3 	
+SAMN29493199	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	moso bamboo rhizosphere soil,potting soil 	inoculation PSB 	moso bamboo biomass and soil availabe nutrient supply 	biological replicate2 	
+SAMN29493198	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	moso bamboo rhizosphere soil,potting soil 	inoculation PSB 	moso bamboo biomass and soil availabe nutrient supply 	biological replicate1 	
+SAMN29493191	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	potting soil, rhizosphere soil 	inoculation PSB 	soil phosphorus-cycling gene abundance 	biological replicate3 	
+SAMN29493190	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	potting soil, rhizosphere soil 	inoculation PSB 	soil phosphorus-cycling gene abundance 	biological replicate2 	
+SAMN29493189	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	potting soil, rhizosphere soil 	inoculation PSB 	soil phosphorus-cycling gene abundance 	biological replicate1 	
+SAMN29493188	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	moso bamboo rhizosphere soil 	inoculation PSB 	soil phosphorus fractions 	biological replicate3 	
+SAMN29493187	soil 	2021-06-15 	China:Jiangxi,Nanchang	missing 	moso bamboo rhizosphere soil 	inoculation PSB 	soil phosphorus fractions 	biological replicate2 	
+SAMN29047243	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-22 	USA: Massachusetts	42.419857 N 70.907329 W	153.5 hours 	t12.GGACTCCT-TATCCTCT-s_1_ 	
+SAMN29047102	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-20 	USA: Massachusetts	42.419857 N 70.907329 W	116.75 hours 	t10.TCCTGAGC-CTAAGCCT-s_1_ 	
+SAMN29046932	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-18 	USA: Massachusetts	42.419857 N 70.907329 W	59 hours 	t5.TCCTGAGC-CTCTCTAT-s_1_ 	
+SAMN29046928	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-18 	USA: Massachusetts	42.419857 N 70.907329 W	59 hours 	t5.TCCTGAGC-AAGGAGTA-s_1_ 	
+SAMN29046840	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-17 	USA: Massachusetts	42.419857 N 70.907329 W	34.5 hours 	t3.TGCAGCTA-AAGGCTAT-s_2_ 	
+SAMN29047207	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-22 	USA: Massachusetts	42.419857 N 70.907329 W	153.5 hours 	t12.AGGCAGAA-TATCCTCT-s_1_ 	
+SAMN29046761	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-17 	USA: Massachusetts	42.419857 N 70.907329 W	34.5 hours 	t3.ACTCGCTA-CCTAGAGT-s_2_ 	
+SAMN29046877	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-18 	USA: Massachusetts	42.419857 N 70.907329 W	59 hours 	t5.CGAGGCTG-GTAAGGAG-s_1_ 	
+SAMN29047218	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-22 	USA: Massachusetts	42.419857 N 70.907329 W	153.5 hours 	t12.CGAGGCTG-GTAAGGAG-s_1_ 	
+SAMN29047216	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-22 	USA: Massachusetts	42.419857 N 70.907329 W	153.5 hours 	t12.CGAGGCTG-CTCTCTAT-s_1_ 	
+SAMN29047064	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-20 	USA: Massachusetts	42.419857 N 70.907329 W	116.75 hours 	t10.GCTACGCT-CTCTCTAT-s_1_ 	
+SAMN29046990	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-20 	USA: Massachusetts	42.419857 N 70.907329 W	103 hours 	t9.GTAGAGGA-CTAAGCCT-s_2_ 	
+SAMN29046860	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-18 	USA: Massachusetts	42.419857 N 70.907329 W	59 hours 	t5.AGGCAGAA-CTCTCTAT-s_1_ 	
+SAMN29046813	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-17 	USA: Massachusetts	42.419857 N 70.907329 W	34.5 hours 	t3.GGAGCTAC-AAGGCTAT-s_2_ 	
+SAMN29047267	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-22 	USA: Massachusetts	42.419857 N 70.907329 W	153.5 hours 	t12.TCCTGAGC-CTAAGCCT-s_1_ 	
+SAMN29047116	microbial community enriched from coastal seawater on a single synthetic hydrogel chitin micro-particle 	2017-07-21 	USA: Massachusetts	42.419857 N 70.907329 W	133 hours 	t11.AGGCAGAA-AGAGTAGA-s_1_ 	
+SAMN29862836	2021-04-30 	0-10 cm 	11 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.913942 S 138.553823 E	PRT1L_Met 	PRT1 	HFTF3DRXY 	Pos 	Restored 	Torrens Reference sites 	River bank 	soil 	Low 	Reference samples 	8.55 	8.10 	0.780 	Silty loam 	16.5 	3.8 	<1 	16 	285 	21.0 	161 	100 	5940 	484 	167 	332 	29.6 	3.98 	0.428 	1.44 	7.4 	0.11 	5.3 	<0.02 	<0.02 	<0.02 	35.5 	83.5 	11.2 	1.20 	4.10 	0.00 	0.00 	0.51 	4.9 	0.82 	44 	2.9 	3.0 	11 	0.061 	330 	17 	50 	32 	
+SAMN29862835	2021-04-30 	0-10 cm 	12 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.9307 S 138.519973 E	P2T2U_Met 	P2T2 	HFTF3DRXY 	Pos 	Restored 	Torrens Stage 2 	River bank 	soil 	High 	Restored banks Stage 2 	6.67 	6.11 	2.03 	Loamy sand 	3.00 	15 	21 	54 	19.0 	515 	246 	19 	1110 	269 	164 	144 	5.54 	2.21 	0.420 	0.628 	2.5 	0.19 	12 	<0.02 	<0.02 	<0.02 	8.80 	63.0 	25.1 	4.80 	7.10 	0.00 	0.00 	0.21 	4.9 	1.5 	47 	17 	1.1 	16 	0.22 	140 	8.1 	80 	12 	
+SAMN29862834	2021-04-30 	0-10 cm 	8 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.930506 S 138.51958 E	P2T2L_Met 	P2T2 	HFTF3DRXY 	Pos 	Restored 	Torrens Stage 2 	River bank 	soil 	Low 	Restored banks Stage 2 	7.59 	7.06 	3.64 	Silty loam 	14.0 	5.4 	3.4 	59 	98.0 	71.0 	442 	43 	2840 	806 	261 	207 	14.2 	6.63 	0.666 	0.898 	2.1 	0.10 	7.0 	<0.02 	<0.02 	<0.02 	22.4 	63.3 	29.7 	3.00 	4.00 	0.00 	0.00 	0.28 	2.7 	2.3 	110 	12 	12 	79 	0.30 	180 	11 	57 	33 	
+SAMN29862833	2021-04-30 	0-10 cm 	12 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.928722 S 138.522005 E	P2T1U_Met 	P2T1 	HFTF3DRXY 	Pos 	Restored 	Torrens Stage 2 	River bank 	soil 	High 	Restored banks Stage 2 	8.17 	7.59 	2.46 	Silty loam 	9.30 	6.8 	1.8 	37 	60.0 	141 	315 	16 	4440 	481 	334 	186 	22.1 	3.96 	0.854 	0.809 	5.6 	0.22 	6.0 	<0.02 	<0.02 	<0.02 	27.8 	79.8 	14.3 	3.10 	2.90 	0.00 	0.00 	0.24 	2.3 	1.7 	20 	5.8 	1.1 	6.4 	0.20 	150 	15 	53 	32 	
+SAMN29862832	2021-04-30 	0-10 cm 	8 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.928642 S 138.52174 E	P2T1L_Met 	P2T1 	HFTF3DRXY 	Pos 	Restored 	Torrens Stage 2 	River bank 	soil 	Low 	Restored banks Stage 2 	7.90 	7.22 	3.25 	Silty loam 	13.2 	4.4 	2.4 	51 	83.0 	92.0 	432 	25 	2520 	757 	219 	208 	12.6 	6.23 	0.560 	0.906 	2.0 	<0.1 	7.2 	<0.02 	<0.02 	<0.02 	20.3 	62.1 	30.7 	2.80 	4.50 	0.00 	0.00 	0.27 	2.6 	1.7 	71 	8.3 	7.3 	53 	0.25 	170 	10 	60 	30 	
+SAMN29862831	2021-04-29 	0-10 cm 	11 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.9334 S 138.5106 E	N3T2U_Met 	N3T2 	HFTF3DRXY 	Neg 	Unrestored 	Torrens Stage 3 	River bank 	soil 	High 	Unrestored banks Stage 3 	7.28 	6.64 	2.14 	Silty loam 	2.60 	36 	2.6 	85 	42.0 	563 	414 	12 	1570 	518 	421 	143 	7.82 	4.26 	1.08 	0.623 	1.8 	0.25 	12 	<0.02 	<0.02 	<0.02 	13.8 	56.8 	30.9 	7.80 	4.50 	0.00 	0.00 	0.18 	1.7 	1.6 	26 	17 	1.1 	9.1 	0.26 	120 	11 	61 	28 	
+SAMN29862851	2021-04-30 	0-10 cm 	9 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.916541 S 138.535989 E	PRT2L_Met 	PRT2 	HFYFKDRXY 	Pos 	Restored 	Torrens Reference sites 	River bank 	soil 	Low 	Reference samples 	6.64 	6.03 	5.24 	Silty loam 	7.90 	6.7 	9.7 	79 	39.0 	560 	635 	20 	2540 	1000 	531 	256 	12.7 	8.24 	1.36 	1.11 	1.5 	0.16 	11 	<0.02 	<0.02 	<0.02 	23.4 	54.2 	35.2 	5.80 	4.80 	0.00 	0.00 	0.29 	2.8 	3.5 	44 	60 	2.0 	13 	0.49 	190 	13 	54 	33 	
+SAMN29862850	2021-04-30 	0-10 cm 	15 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.91667 S 138.536233 E	PRT2U_Met 	PRT2 	HFYFKDRXY 	Pos 	Restored 	Torrens Reference sites 	River bank 	soil 	High 	Reference samples 	7.26 	6.65 	0.920 	Loamy sand 	3.10 	3.6 	1.1 	21 	25.0 	37.0 	184 	28 	691 	231 	59.0 	57.9 	3.45 	1.90 	0.151 	0.252 	1.8 	<0.1 	7.0 	<0.02 	<0.02 	<0.02 	5.75 	59.9 	33.1 	2.60 	4.40 	0.00 	0.00 	0.11 	2.5 	0.69 	37 	3.5 	2.5 	36 	0.097 	70 	5.7 	79 	15 	
+SAMN29862849	2021-04-30 	0-10 cm 	17 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.913668 S 138.553782 E	PRT1U_Met 	PRT1 	HFYFKDRXY 	Pos 	Restored 	Torrens Reference sites 	River bank 	soil 	High 	Reference samples 	7.46 	6.96 	3.77 	Loamy sand 	7.20 	50 	5.0 	55 	64.0 	102 	453 	36 	2920 	616 	334 	188 	14.5 	5.07 	0.854 	0.818 	2.9 	0.17 	7.9 	<0.02 	<0.02 	<0.02 	21.3 	68.3 	23.8 	4.00 	3.80 	0.00 	0.00 	0.33 	7.7 	3.1 	58 	11 	6.2 	49 	0.29 	210 	8.8 	67 	25 	
+SAMN29862848	2021-04-30 	0-10 cm 	11 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.913942 S 138.553823 E	PRT1L_Met 	PRT1 	HFYFKDRXY 	Pos 	Restored 	Torrens Reference sites 	River bank 	soil 	Low 	Reference samples 	8.55 	8.10 	0.780 	Silty loam 	16.5 	3.8 	<1 	16 	285 	21.0 	161 	100 	5940 	484 	167 	332 	29.6 	3.98 	0.428 	1.44 	7.4 	0.11 	5.3 	<0.02 	<0.02 	<0.02 	35.5 	83.5 	11.2 	1.20 	4.10 	0.00 	0.00 	0.51 	4.9 	0.82 	44 	2.9 	3.0 	11 	0.061 	330 	17 	50 	32 	
+SAMN29862830	2021-04-29 	0-10 cm 	7 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.93314 S 138.51056 E	N3T2L_Met 	N3T2 	HFTF3DRXY 	Neg 	Unrestored 	Torrens Stage 3 	River bank 	soil 	Low 	Unrestored banks Stage 3 	7.71 	7.28 	4.63 	Silty loam 	34.7 	2.7 	4.8 	59 	131 	49.0 	462 	100 	3030 	983 	190 	537 	15.1 	8.09 	0.487 	2.34 	1.9 	<0.1 	11 	<0.02 	<0.02 	<0.02 	26.1 	58.1 	31.1 	1.90 	9.00 	0.00 	0.00 	0.60 	5.7 	2.7 	170 	19 	12 	100 	0.36 	390 	11 	58 	31 	
+SAMN29862847	2021-04-30 	0-10 cm 	12 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.9307 S 138.519973 E	P2T2U_Met 	P2T2 	HFYFKDRXY 	Pos 	Restored 	Torrens Stage 2 	River bank 	soil 	High 	Restored banks Stage 2 	6.67 	6.11 	2.03 	Loamy sand 	3.00 	15 	21 	54 	19.0 	515 	246 	19 	1110 	269 	164 	144 	5.54 	2.21 	0.420 	0.628 	2.5 	0.19 	12 	<0.02 	<0.02 	<0.02 	8.80 	63.0 	25.1 	4.80 	7.10 	0.00 	0.00 	0.21 	4.9 	1.5 	47 	17 	1.1 	16 	0.22 	140 	8.1 	80 	12 	
+SAMN29862846	2021-04-30 	0-10 cm 	8 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.930506 S 138.51958 E	P2T2L_Met 	P2T2 	HFYFKDRXY 	Pos 	Restored 	Torrens Stage 2 	River bank 	soil 	Low 	Restored banks Stage 2 	7.59 	7.06 	3.64 	Silty loam 	14.0 	5.4 	3.4 	59 	98.0 	71.0 	442 	43 	2840 	806 	261 	207 	14.2 	6.63 	0.666 	0.898 	2.1 	0.10 	7.0 	<0.02 	<0.02 	<0.02 	22.4 	63.3 	29.7 	3.00 	4.00 	0.00 	0.00 	0.28 	2.7 	2.3 	110 	12 	12 	79 	0.30 	180 	11 	57 	33 	
+SAMN29862845	2021-04-30 	0-10 cm 	12 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.928722 S 138.522005 E	P2T1U_Met 	P2T1 	HFYFKDRXY 	Pos 	Restored 	Torrens Stage 2 	River bank 	soil 	High 	Restored banks Stage 2 	8.17 	7.59 	2.46 	Silty loam 	9.30 	6.8 	1.8 	37 	60.0 	141 	315 	16 	4440 	481 	334 	186 	22.1 	3.96 	0.854 	0.809 	5.6 	0.22 	6.0 	<0.02 	<0.02 	<0.02 	27.8 	79.8 	14.3 	3.10 	2.90 	0.00 	0.00 	0.24 	2.3 	1.7 	20 	5.8 	1.1 	6.4 	0.20 	150 	15 	53 	32 	
+SAMN29862844	2021-04-30 	0-10 cm 	8 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.928642 S 138.52174 E	P2T1L_Met 	P2T1 	HFYFKDRXY 	Pos 	Restored 	Torrens Stage 2 	River bank 	soil 	Low 	Restored banks Stage 2 	7.90 	7.22 	3.25 	Silty loam 	13.2 	4.4 	2.4 	51 	83.0 	92.0 	432 	25 	2520 	757 	219 	208 	12.6 	6.23 	0.560 	0.906 	2.0 	<0.1 	7.2 	<0.02 	<0.02 	<0.02 	20.3 	62.1 	30.7 	2.80 	4.50 	0.00 	0.00 	0.27 	2.6 	1.7 	71 	8.3 	7.3 	53 	0.25 	170 	10 	60 	30 	
+SAMN29862843	2021-04-29 	0-10 cm 	11 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.9334 S 138.5106 E	N3T2U_Met 	N3T2 	HFYFKDRXY 	Neg 	Unrestored 	Torrens Stage 3 	River bank 	soil 	High 	Unrestored banks Stage 3 	7.28 	6.64 	2.14 	Silty loam 	2.60 	36 	2.6 	85 	42.0 	563 	414 	12 	1570 	518 	421 	143 	7.82 	4.26 	1.08 	0.623 	1.8 	0.25 	12 	<0.02 	<0.02 	<0.02 	13.8 	56.8 	30.9 	7.80 	4.50 	0.00 	0.00 	0.18 	1.7 	1.6 	26 	17 	1.1 	9.1 	0.26 	120 	11 	61 	28 	
+SAMN29862842	2021-04-29 	0-10 cm 	7 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.93314 S 138.51056 E	N3T2L_Met 	N3T2 	HFYFKDRXY 	Neg 	Unrestored 	Torrens Stage 3 	River bank 	soil 	Low 	Unrestored banks Stage 3 	7.71 	7.28 	4.63 	Silty loam 	34.7 	2.7 	4.8 	59 	131 	49.0 	462 	100 	3030 	983 	190 	537 	15.1 	8.09 	0.487 	2.34 	1.9 	<0.1 	11 	<0.02 	<0.02 	<0.02 	26.1 	58.1 	31.1 	1.90 	9.00 	0.00 	0.00 	0.60 	5.7 	2.7 	170 	19 	12 	100 	0.36 	390 	11 	58 	31 	
+SAMN29862841	2021-04-29 	0-10 cm 	10 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.934353 S 138.504578 E	N3T1U_Met 	N3T1 	HFYFKDRXY 	Neg 	Unrestored 	Torrens Stage 3 	River bank 	soil 	High 	Unrestored banks Stage 3 	7.99 	7.44 	2.87 	Silty loam 	4.80 	10 	4.2 	51 	42.0 	253 	381 	24 	2750 	731 	472 	278 	13.7 	6.01 	1.21 	1.21 	2.3 	0.20 	11 	<0.02 	<0.02 	<0.02 	22.2 	62.0 	27.1 	5.40 	5.50 	0.00 	0.00 	0.38 	3.6 	2.8 	13 	11 	1.1 	5.2 	0.31 	250 	13 	61 	27 	
+SAMN29862840	2021-04-29 	0-10 cm 	6 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.93413 S 138.50452 E	N3T1L_Met 	N3T1 	HFYFKDRXY 	Neg 	Unrestored 	Torrens Stage 3 	River bank 	soil 	Low 	Unrestored banks Stage 3 	7.83 	7.54 	3.83 	Silty loam 	30.3 	3.2 	4.5 	56 	101 	58.0 	440 	250 	3520 	996 	158 	918 	17.6 	8.19 	0.404 	3.99 	2.1 	<0.1 	15 	<0.02 	<0.02 	<0.02 	30.2 	58.3 	27.2 	1.30 	13.2 	0.00 	0.00 	1.2 	12 	2.9 	120 	12 	9.0 	81 	0.29 	800 	11 	62 	27 	
+SAMN29862839	2021-04-30 	0-10 cm 	15 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.91667 S 138.536233 E	PRT2U_Met 	PRT2 	HFTF3DRXY 	Pos 	Restored 	Torrens Reference sites 	River bank 	soil 	High 	Reference samples 	6.64 	6.03 	5.24 	Silty loam 	7.90 	6.7 	9.7 	79 	39.0 	560 	635 	20 	2540 	1000 	531 	256 	12.7 	8.24 	1.36 	1.11 	1.5 	0.16 	11 	<0.02 	<0.02 	<0.02 	23.4 	54.2 	35.2 	5.80 	4.80 	0.00 	0.00 	0.29 	2.8 	3.5 	44 	60 	2.0 	13 	0.49 	190 	13 	54 	33 	
+SAMN29862838	2021-04-30 	0-10 cm 	9 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.916541 S 138.535989 E	PRT2L_Met 	PRT2 	HFTF3DRXY 	Pos 	Restored 	Torrens Reference sites 	River bank 	soil 	Low 	Reference samples 	7.26 	6.65 	0.920 	Loamy sand 	3.10 	3.6 	1.1 	21 	25.0 	37.0 	184 	28 	691 	231 	59.0 	57.9 	3.45 	1.90 	0.151 	0.252 	1.8 	<0.1 	7.0 	<0.02 	<0.02 	<0.02 	5.75 	59.9 	33.1 	2.60 	4.40 	0.00 	0.00 	0.11 	2.5 	0.69 	37 	3.5 	2.5 	36 	0.097 	70 	5.7 	79 	15 	
+SAMN29862829	2021-04-29 	0-10 cm 	10 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.934353 S 138.504578 E	N3T1U_Met 	N3T1 	HFTF3DRXY 	Neg 	Unrestored 	Torrens Stage 3 	River bank 	soil 	High 	Unrestored banks Stage 3 	7.99 	7.44 	2.87 	Silty loam 	4.80 	10 	4.2 	51 	42.0 	253 	381 	24 	2750 	731 	472 	278 	13.7 	6.01 	1.21 	1.21 	2.3 	0.20 	11 	<0.02 	<0.02 	<0.02 	22.2 	62.0 	27.1 	5.40 	5.50 	0.00 	0.00 	0.38 	3.6 	2.8 	13 	11 	1.1 	5.2 	0.31 	250 	13 	61 	27 	
+SAMN29862828	2021-04-29 	0-10 cm 	6 	freshwater river biome [ENVO:01000253] 	freshwater wetland ecosystem [ENVO:00000243]|river channel [ENVO:01000652] 	soil [ENVO:00001998] 	Australia	34.93413 S 138.50452 E	N3T1L_Met 	N3T1 	HFTF3DRXY 	Neg 	Unrestored 	Torrens Stage 3 	River bank 	soil 	Low 	Unrestored banks Stage 3 	7.83 	7.54 	3.83 	Silty loam 	30.3 	3.2 	4.5 	56 	101 	58.0 	440 	250 	3520 	996 	158 	918 	17.6 	8.19 	0.404 	3.99 	2.1 	<0.1 	15 	<0.02 	<0.02 	<0.02 	30.2 	58.3 	27.2 	1.30 	13.2 	0.00 	0.00 	1.2 	12 	2.9 	120 	12 	9.0 	81 	0.29 	800 	11 	62 	27 	
+SAMN03733587	sugarcane filter cake compost 	13.44 S 37.16 W	2013-12-14 	Brazil: Ribeirao Preto, Sao Paulo	enriched with poultry litter 	
+SAMN03733590	sugarcane filter cake compost 	13.44 S 37.16 W	2014-01-15 	Brazil: Ribeirao Preto, Sao Paulo	enriched with poultry litter 	
+SAMN03792070	not applicable 	Argentina: Zarate	wastewater treatment plant 	34.07 S 59.07 W	activated sludge 	Wastewater treatment plant of a petroleum refinery complex 	2008-09-05 	
+SAMN30327962	unvegetated sediment 	wetland 	2019-07 	China:Inner Mongolia,Wuliangsuhai	40.88 N 108.85 E	replicate = biological replicate 1 	
+SAMN30327964	unvegetated sediment 	wetland 	2019-07 	China:Inner Mongolia,Wuliangsuhai	40.88 N 108.85 E	replicate = biological replicate 3 	
+SAMN30327965	Typha angustifolia root sediment 	wetland 	2019-07 	China:Inner Mongolia,Wuliangsuhai	40.88 N 108.85 E	replicate = biological replicate 4 	
+SAMN30327968	Typha angustifolia root 	wetland 	2019-07 	China:Inner Mongolia,Wuliangsuhai	40.88 N 108.85 E	replicate = biological replicate 7 	
+SAMN30327969	Typha angustifolia root 	wetland 	2019-07 	China:Inner Mongolia,Wuliangsuhai	40.88 N 108.85 E	replicate = biological replicate 8 	
+SAMN30463972	Swine manure 	2021-11-02 	Russia: Tomsk region	missing 	
+SAMN30608915	missing 	compost sample5 	2020-07 	missing 	missing 	
+SAMN30608914	missing 	compost sample4 	2020-07 	missing 	missing 	
+SAMN30608913	missing 	compost sample3 	2020-07 	missing 	missing 	
+SAMN30608912	missing 	compost sample2 	2020-07 	missing 	missing 	
+SAMN30608911	missing 	compost sample1 	2020-07 	missing 	missing 	
+SAMN30677863	Intertidal sediment 	2020-09-03 	China: Hainan	18.4269 N 108.9792 E	
+SAMN30677862	Intertidal sediment 	2020-09-03 	China: Hainan	18.4106 N 108.9394 E	
+SAMN30677861	Intertidal sediment 	2020-09-02 	China: Hainan	19.1517 N 108.6719 E	
+SAMN30677860	Intertidal sediment 	2020-09-02 	China: Hainan	19.8567 N 109.2317 E	
+SAMN30677859	Intertidal sediment 	2020-09-02 	China: Hainan	19.7400 N 109.2133 E	
+SAMN31202330	not applicable 	a landfill leachate treatment plant 	2021-12-10 	China:Qingdao	35.35 N 119.30 E	
+SAMN31233760	2021-01-18 	0 	0 	estuarine biome [ENVO:01000020] 	harbor [ENVO:00000463]|shoreline [ENVO:00000486] 	estuarine mud [ENVO:00002160] 	Denmark: Kaloe Vig Marina	56.242694 N 10.338500 E	Replicate sample 2 	
+SAMN31233759	2021-01-18 	0 	0 	estuarine biome [ENVO:01000020] 	harbor [ENVO:00000463]|shoreline [ENVO:00000486] 	estuarine mud [ENVO:00002160] 	Denmark: Kaloe Vig Marina	56.242694 N 10.338500 E	surface sediment 	Replicate sample 1 	
+SAMN31237791	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237790	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237789	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237788	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237787	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31233391	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31233390	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237824	Capsicum annuum 	leaves 	2021-04-19 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237823	Capsicum annuum 	leaves 	2021-04-19 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237822	Capsicum annuum 	leaves 	2021-04-19 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237818	Capsicum annuum 	leaves 	2021-04-19 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237817	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237804	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237802	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237801	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237793	Capsicum annuum 	leaves 	2021-06-18 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31237792	Capsicum annuum 	leaves 	2021-07-29 	USA:Alabama,Auburn	32.657 N 85.52 W	
+SAMN31599178	not applicable 	Hungarian agricultural soil 	2017-05-05 	France: Bellefontaine wetland fen	46.569040 N 6.081651 E	not applicable 	not applicable 	not applicable 	not applicable 	not applicable 	not applicable 	
+SAMN31599176	not applicable 	Hungarian agricultural soil 	2017-05-05 	France: Bellefontaine wetland fen	46.569000 N 6.081611 E	not applicable 	not applicable 	not applicable 	not applicable 	not applicable 	not applicable 	
+SAMN31703453	Landfill Soil 	2022-09-23 	India:Guwahati	26.11 N 91.44 E	
+SAMN31696092	2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from composite leachate cistern CSWMC 	NEUS landfill leachate from composite leachate cistern CSWMC 	
+SAMN31696090	2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well F1 	NEUS landfill leachate from well F1 	
+SAMN31696089	2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well E 	NEUS landfill leachate from well E 	
+SAMN31696088	2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well D2 	NEUS landfill leachate from well D2 	
+SAMN31696087	2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well D1 	NEUS landfill leachate from well D1 	
+SAMN31696086	2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well C 	NEUS landfill leachate from well C 	
+SAMN31696084	2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well A 	NEUS landfill leachate from well A 	
+SAMN31864664	not applicable 	mud volcano 	2014-09-10 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864663	not applicable 	mud volcano 	2014-09-09 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864662	not applicable 	mud volcano 	2014-09-08 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864661	not applicable 	mud volcano 	2014-09-07 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864660	not applicable 	mud volcano 	2014-09-06 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864659	not applicable 	mud volcano 	2014-09-05 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864658	not applicable 	mud volcano 	2014-09-04 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864657	not applicable 	mud volcano 	2014-09-03 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864666	not applicable 	mud volcano 	2014-09-12 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864665	not applicable 	mud volcano 	2014-09-11 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864656	not applicable 	mud volcano 	2014-09-02 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN31864655	not applicable 	mud volcano 	2014-09-01 	China:Junggar Basin,Aiqigou mud volcano	44.19 N 84.50 E	
+SAMN32175476	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A6 	
+SAMN32175506	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A36 	
+SAMN32175480	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A10 	
+SAMN32175478	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A8 	
+SAMN32175472	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A2 	
+SAMN32175504	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A34 	
+SAMN32175488	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A18 	
+SAMN32175490	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A20 	
+SAMN32175474	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A4 	
+SAMN32175492	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A22 	
+SAMN32175494	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A24 	
+SAMN32175496	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A26 	
+SAMN32175498	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A28 	
+SAMN32175500	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A30 	
+SAMN32175482	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A12 	
+SAMN32175502	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A32 	
+SAMN32175484	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A14 	
+SAMN32175486	Saccharum officinarum 	Sugarcane rhizosphere soil 	2021-08-30 	China:GuangXi	Mixed culture 	not collected 	A16 	
+SAMN32324545	2019-10-08 	0 	not collected 	volcano [ENVO:00000247]|sediment [ENVO:00002007] 	granular sediment [ENVO:01000117]|volcanic soil[ENVO:00005785] 	sediment [ENVO:00002007] 	Tonga: HTHH	20.5376 S 175.38232 W	
+SAMN32324539	2019-10-08 	0 	not collected 	volcano [ENVO:00000247]|sediment [ENVO:00002007] 	granular sediment [ENVO:01000117]|volcanic soil[ENVO:00005785] 	sediment [ENVO:00002007] 	Tonga: HTHH	20.5351 S 175.38568 W	
+SAMN32324535	2019-10-08 	0 	not collected 	volcano [ENVO:00000247]|sediment [ENVO:00002007] 	granular sediment [ENVO:01000117]|volcanic soil[ENVO:00005785] 	sediment [ENVO:00002007] 	Tonga: HTHH	20.54222 S 175.40329 W	
+SAMN32324532	2019-10-08 	0 	not collected 	volcano [ENVO:00000247]|sediment [ENVO:00002007] 	granular sediment [ENVO:01000117]|volcanic soil[ENVO:00005785] 	sediment [ENVO:00002007] 	Tonga: HTHH	20.53907 S 175.3839 W	
+SAMN32324525	2018-10-14 	0 	not collected 	volcano [ENVO:00000247]|sediment [ENVO:00002007] 	granular sediment [ENVO:01000117]|volcanic soil[ENVO:00005785] 	sediment [ENVO:00002007] 	Tonga: HTHH	20.53722 S 175.3845 W	
+SAMN32324516	2018-10-14 	0 	not collected 	volcano [ENVO:00000247]|sediment [ENVO:00002007] 	granular sediment [ENVO:01000117]|volcanic soil[ENVO:00005785] 	sediment [ENVO:00002007] 	Tonga: HTHH	20.53878 S 175.38758 W	
+SAMN32618493	reactor sample 	2021-10-24 	China:Hei longjiang	missing 	replicate=biological replicate 5 	
+SAMN32618492	reactor sample 	2021-10-23 	China:Hei longjiang	missing 	replicate=biological replicate 4 	
+SAMN32618491	reactor sample 	2021-10-22 	China:Hei longjiang	missing 	replicate=biological replicate 3 	
+SAMN32618490	reactor sample 	2021-10-21 	China:Hei longjiang	missing 	replicate=biological replicate 2 	
+SAMN32618489	reactor sample 	2021-10-20 	China:Hei longjiang	missing 	replicate=biological replicate 1 	
+SAMN32618487	reactor sample 	2021-10-18 	China:Hei longjiang	missing 	replicate=biological replicate 4 	
+SAMN32618486	reactor sample 	2021-10-17 	China:Hei longjiang	missing 	replicate=biological replicate 3 	
+SAMN32618485	reactor sample 	2021-10-16 	China:Hei longjiang	missing 	replicate=biological replicate 2 	
+SAMN32618484	reactor sample 	2021-10-15 	China:Hei longjiang	missing 	replicate=biological replicate 1 	
+SAMN32783465	2020-02-10 	47.1m 	0m 	subarctic sediment 	surface sediment 	marine sediment incubated with crude oil 	Canada: Kivalliq, Nunavut	60.47316 N 93.57573 W	microcosm with marine sediment and crude oil 	1mL syringes 	4°C 	0.001% v/v crude oil 	
+SAMN32783464	2020-02-07 	11m 	0m 	subarctic sediment 	surface sediment 	marine sediment incubated with crude oil 	Canada: Kivalliq, Nunavut	63.20075 N 90.41455 W	microcosm with marine sediment and crude oil 	1mL syringes 	4°C 	0.001% v/v crude oil 	
+SAMN32940978	natural / free-living 	Nacharam lake 	2019-09-14 	India: Hyderabad	17.4301 N 78.5416 E	
+SAMN32939452	natural / free-living 	environmental 	2019-09-14 	India	17.4301 N 78.5416 E	
+SAMN32941313	natural / free-living 	environmental 	2019-09-14 	India: Hyderabad	17.4301 N 78.5416 E	
+SAMN32964306	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q22_1 	
+SAMN32964305	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q18_1 	
+SAMN32964304	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q17_1 	
+SAMN32964303	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q14_1 	
+SAMN32964302	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q13_1 	
+SAMN32964301	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q12_1 	
+SAMN32964300	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q11_1 	
+SAMN32964299	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q9_1 	
+SAMN32964314	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q40_1 	
+SAMN32964313	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q39_1 	
+SAMN32964312	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q34_1 	
+SAMN32964311	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q33_1 	
+SAMN32964310	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q31_1 	
+SAMN32964309	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q30_1 	
+SAMN32964308	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q28_1 	
+SAMN32964307	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q26_1 	
+SAMN32964298	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q7_1 	
+SAMN32964297	not applicable 	not applicable 	not applicable 	China:Tibet	not applicable 	Q6_1 	
+SAMN33051296	Marine water and sediments 	2022-01-10/2022-12-29 	India: coastal line of the Bay of Bengal, Balasore	21.453 N 87.043 E	
+SAMN33099727	soil metagenome inoculated without lactic acid bacteria 	2022-06 	China	34.25 N 112.42 E	
+SAMN33427423	2021-07-23 	1 m 	ENVO:00002149 	ENVO:00002150 	ENVO:01001315 	USA: Damariscotta River in front of the Bigelow Laboratory for Ocean Sciences	43.860501 N 69.578169 W	5 m - filtered 	Photo-oxidized crude oil 25 ppm 	four week timepoint of microcosm treated with photo-oxidized crude oil after inoculation with natural surface seawater, biological replicate 2 	2 	
+SAMN33427422	2021-07-23 	1 m 	ENVO:00002149 	ENVO:00002150 	ENVO:01001315 	USA: Damariscotta River in front of the Bigelow Laboratory for Ocean Sciences	43.860501 N 69.578169 W	5 m - filtered 	Photo-oxidized crude oil 25 ppm 	four week timepoint of microcosm treated with photo-oxidized crude oil after inoculation with natural surface seawater, biological replicate 1 	1 	
+SAMN33427421	2021-07-23 	1 m 	ENVO:00002149 	ENVO:00002150 	ENVO:01001315 	USA: Damariscotta River in front of the Bigelow Laboratory for Ocean Sciences	43.860501 N 69.578169 W	5 m - filtered 	Crude oil 25 ppm 	four week timepoint of microcosm treated with crude oil after inoculation with natural surface seawater, biological replicate 2 	2 	
+SAMN33427420	2021-07-23 	1 m 	ENVO:00002149 	ENVO:00002150 	ENVO:01001315 	USA: Damariscotta River in front of the Bigelow Laboratory for Ocean Sciences	43.860501 N 69.578169 W	5 m - filtered 	Crude oil 25 ppm 	four week timepoint of microcosm treated with crude oil after inoculation with natural surface seawater, biological replicate 1 	1 	
+SAMN33549384	not applicable 	rhizosphere 	2022 	China:Nanjing	31.43 N 118.47 E	replicate = biological replicate 8 	
+SAMN33549383	not applicable 	rhizosphere 	2022 	China:Nanjing	31.43 N 118.47 E	replicate = biological replicate 7 	
+SAMN33549382	not applicable 	rhizosphere 	2022 	China:Nanjing	31.43 N 118.47 E	replicate = biological replicate 6 	
+SAMN33549381	not applicable 	rhizosphere 	2022 	China:Nanjing	31.43 N 118.47 E	replicate = biological replicate 5 	
+SAMN33549380	not applicable 	rhizosphere 	2022 	China:Nanjing	31.43 N 118.47 E	replicate = biological replicate 4 	
+SAMN33549379	not applicable 	rhizosphere 	2022 	China:Nanjing	31.43 N 118.47 E	replicate = biological replicate 3 	
+SAMN33549378	not applicable 	rhizosphere 	2022 	China:Nanjing	31.43 N 118.47 E	replicate = biological replicate 2 	
+SAMN33549377	not applicable 	rhizosphere 	2022 	China:Nanjing	31.43 N 118.47 E	replicate = biological replicate 1 	
+SAMN33575057	Oryza rufipogon 	rhizosphere soil 	2019-08-01 	Thailand	17.2599 N 104.1594 E	
+SAMN33575056	Oryza rufipogon 	rhizosphere soil 	2019-08-01 	Thailand	17.2647 N 104.1592 E	
+SAMN33826073	landfill 	2022-07 	China:Taizhou	missing 	Y10.3 	
+SAMN33826072	landfill 	2022-07 	China:Taizhou	missing 	Y10.2 	
+SAMN33826071	landfill 	2022-07 	China:Taizhou	missing 	Y10.1 	
+SAMN33826070	landfill 	2022-07 	China:Taizhou	missing 	Y5.3 	
+SAMN33826069	landfill 	2022-07 	China:Taizhou	missing 	Y5.2 	
+SAMN33826068	landfill 	2022-07 	China:Taizhou	missing 	Y5.1 	
+SAMN33826067	landfill 	2022-07 	China:Taizhou	missing 	Y0.3 	
+SAMN33826066	landfill 	2022-07 	China:Taizhou	missing 	Y0.2 	
+SAMN33826065	landfill 	2022-07 	China:Taizhou	missing 	Y0.1 	
+SAMN33942853	2020-11 	2 cm 	0 m 	mangrove biome 	intertidal zone 	coastal water 	China: beihai	N/A 	biological replicate 3 	
+SAMN33943134	2020-11 	2 cm 	0 m 	mangrove biome 	intertidal zone 	coastal water 	China: beihai	N/A 	biological replicate 1 	
+SAMN33943735	2020-11 	2 cm 	0 m 	mangrove biome 	intertidal zone 	coastal water 	China: beihai	N/A 	biological replicate 3 	
+SAMN33943734	2020-11 	2 cm 	0 m 	mangrove biome 	intertidal zone 	coastal water 	China: beihai	N/A 	biological replicate 2 	
+SAMN33943733	2020-11 	2 cm 	0 m 	mangrove biome 	intertidal zone 	coastal water 	China: beihai	N/A 	biological replicate 1 	
+SAMN33944294	2020-11 	2 cm 	0 m 	mangrove biome 	intertidal zone 	coastal water 	China: beihai	N/A 	biological replicate 3 	
+SAMN34043053	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	10 	
+SAMN34043052	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	9 	
+SAMN34043051	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	8 	
+SAMN34043050	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	7 	
+SAMN34043049	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	6 	
+SAMN34043085	compost sample 	2018-08-01 	China: Wei Fang,Shan Dong	missing 	42 	
+SAMN34043084	compost sample 	2018-08-01 	China: Wei Fang,Shan Dong	missing 	41 	
+SAMN34043048	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	5 	
+SAMN34043083	compost sample 	2018-08-01 	China: Wei Fang,Shan Dong	missing 	40 	
+SAMN34043082	compost sample 	2018-08-01 	China: Wei Fang,Shan Dong	missing 	39 	
+SAMN34043081	compost sample 	2018-08-01 	China: Wei Fang,Shan Dong	missing 	38 	
+SAMN34043080	compost sample 	2018-08-01 	China: Wei Fang,Shan Dong	missing 	37 	
+SAMN34043079	compost sample 	2018-07-01 	China: Wei Fang,Shan Dong	missing 	36 	
+SAMN34043078	compost sample 	2018-07-01 	China: Wei Fang,Shan Dong	missing 	35 	
+SAMN34043077	compost sample 	2018-07-01 	China: Wei Fang,Shan Dong	missing 	34 	
+SAMN34043076	compost sample 	2018-07-01 	China: Wei Fang,Shan Dong	missing 	33 	
+SAMN34043075	compost sample 	2018-07-01 	China: Wei Fang,Shan Dong	missing 	32 	
+SAMN34043074	compost sample 	2018-07-01 	China: Wei Fan,Shan Dong	missing 	31 	
+SAMN34043047	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	4 	
+SAMN34043073	compost sample 	2019-02-01 	China: Chang Zhou, Jiang Su	missing 	30 	
+SAMN34043072	compost sample 	2019-02-01 	China: Chang Zhou, Jiang Su	missing 	29 	
+SAMN34043071	compost sample 	2019-02-01 	China: Chang Zhou, Jiang Su	missing 	28 	
+SAMN34043070	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	27 	
+SAMN34043069	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	26 	
+SAMN34043068	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	25 	
+SAMN34043067	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	24 	
+SAMN34043066	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	23 	
+SAMN34043065	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	22 	
+SAMN34043064	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	21 	
+SAMN34043046	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	3 	
+SAMN34043063	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	20 	
+SAMN34043062	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	19 	
+SAMN34043061	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	18 	
+SAMN34043060	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	17 	
+SAMN34043059	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	16 	
+SAMN34043058	compost sample 	2019-02-01 	China: Chang Zhou, Jiang Su	missing 	15 	
+SAMN34043057	compost sample 	2019-02-01 	China: Chang Zhou, Jiang Su	missing 	14 	
+SAMN34043056	compost sample 	2019-02-01 	China: Chang Zhou, Jiang Su	missing 	13 	
+SAMN34043055	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	12 	
+SAMN34043054	compost sample 	2019-01-01 	China: Chang Zhou, Jiang Su	missing 	11 	
+SAMN34043045	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	2 	
+SAMN34043044	compost sample 	2018-12-01 	China: Chang Zhou, Jiang Su	missing 	1 	
+SAMN32331377	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.70508 N 80.26919 W	
+SAMN32331433	2018-03 	1-21 	subsurface 	hot spring 	fluid 	Panama	9.19492 N 83.28059 W	
+SAMN32331431	2018-03 	1-21 	subsurface 	hot spring 	fluid 	Panama	10.485523 N 84.113229 W	
+SAMN32331428	2019-02 	1-21 	subsurface 	hot spring 	sediment 	Costa Rica	8.15755 N 81.13097 W	
+SAMN32331427	2018-03 	1-21 	subsurface 	hot spring 	fluid 	Panama	8.15755 N 81.13097 W	
+SAMN32331424	2019-02 	1-21 	subsurface 	hot spring 	sediment 	Costa Rica	9.30283 N 83.29782 W	
+SAMN32331422	2018-03 	1-21 	subsurface 	hot spring 	sediment 	Panama	10.488755 N 84.113598 W	
+SAMN32331375	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.66645 N 82.3491 W	
+SAMN32331414	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	9.34391 N 83.59565 W	
+SAMN32331411	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.86966 N 82.69282 W	
+SAMN32331410	2018-03 	1-20 	subsurface 	hot spring 	sediment 	Panama	8.87095 N 82.6899 W	
+SAMN32331409	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	8.87095 N 82.6899 W	
+SAMN32331407	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Costa Rica	10.427103 N 84.368543 W	
+SAMN32331404	2018-03 	1-20 	subsurface 	hot spring 	sediment 	Panama	8.80736 N 79.79061 W	
+SAMN32331387	2018-03 	1-20 	subsurface 	hot spring 	fluid 	Panama	9.938223 N 83.161331 W	
+SAMN20425718	Southern Ocean4 	2019-03-28 	not applicable 	46.85 S 142.11 E	
+SAMN05449938	2014-10-25 	400 mts 	Hot spring water 	surface water 	water 	India: Anhoni, Madhya Pradesh	22.65 N 78.36 E	7.8 	5 Litre 	5 Litre 	52.1 øC 	
+SAMN05449940	2014-10-25 	1 mtr 	Hot spring water 	surface water 	water 	India: Anhoni, Madhya Pradesh	22.65 N 78.36 E	7.5 	5 Litre 	5 Litre 	43.5 øC 	
+SAMN05518198	2011-09-09 	not applicable 	USA:Elkhorn Slough, Monterey Bay, California, USA	36.82188 N 121.744 W	Elkhorn Slough, Monterey Bay, California, USA 	Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Microbial mats 	
+SAMN05720246	Guanajuato, Mexico 	Mexico:Guanajuato, Mexico	21.0936 N 100.2988 W	2012-06-04 	not applicable 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720244	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720243	Mexico:Guanajuato, Mexico	2012-05-28 	not applicable 	Guanajuato, Mexico 	20.6863 N 101.8747 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720235	Guanajuato, Mexico 	Mexico:Guanajuato, Mexico	21.0936 N 100.2988 W	2012-06-04 	not applicable 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720286	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720285	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720241	Guanajuato, Mexico 	Mexico:Guanajuato, Mexico	21.0936 N 100.2988 W	2012-06-04 	not applicable 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720240	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720245	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720236	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN05720169	Mexico:Guanajuato, Mexico	2012-05-30 	not applicable 	Guanajuato, Mexico 	21.7658 N 100.1630 W	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN06173261	wetland 	2015-12 	Cameroon	missing 	
+SAMN06173262	wetland 	2016-01 	Cameroon	missing 	
+SAMN06173259	wetland 	2015-12 	Cameroon	missing 	
+SAMN05720238	Guanajuato, Mexico 	Mexico:Guanajuato, Mexico	21.0936 N 100.2988 W	2012-06-04 	not applicable 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN06251439	Wetland sediment 	2011-08-18 	USA: Sacramento, CA	38.1072 N 121.6485 W	Environmental | Aquatic | Marine | Wetlands | Sediment 	
+SAMN06251439	Wetland sediment 	2011-08-18 	USA: Sacramento, CA	38.1072 N 121.6485 W	Environmental | Aquatic | Marine | Wetlands | Sediment 	
+SAMN06251439	Wetland sediment 	2011-08-18 	USA: Sacramento, CA	38.1072 N 121.6485 W	Environmental | Aquatic | Marine | Wetlands | Sediment 	
+SAMN06251439	Wetland sediment 	2011-08-18 	USA: Sacramento, CA	38.1072 N 121.6485 W	Environmental | Aquatic | Marine | Wetlands | Sediment 	
+SAMN06264492	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4968 N 122.1333 W	Pond R1 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN06265041	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4969 N 122.1331 W	Pond R1 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN06266236	2014-07-11 	USA: South San Francisco, California	37.4969 N 122.1331 W	pond R1 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN06266229	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4961 N 122.1331 W	Pond R2 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN06266230	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4965 N 122.1330 W	Pond R2 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN06266272	2015-03-10 	not applicable 	USA:South San Francisco, USA	37.4958 N 122.1331 W	Pond R2 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN06265038	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4962 N 122.1329 W	Site R2A soil 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN06266280	2014-07-17 	not applicable 	USA:South San Francisco, USA	37.4971 N 122.1290 W	Pond SF2 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN06266278	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4965 N 122.1329 W	Site R2A soil 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN06264876	2013-12-03 	not applicable 	USA: Zodletone Spring, Oklahoma	34.9956 N 98.6889 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06266162	2015-06-22 	not applicable 	South Africa: Limpopo	22.5304 S 30.6814 E	Hot spring water 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06268462	2011-08-18 	not applicable 	USA: Twitchell Island, Sacramento and San Joaquin Delta, California	38.1070 N 121.6475 W	Twitchell Island, Sacramento and San Joaquin Delta, California, USA 	Environmental | Aquatic | Marine | Wetlands | Sediment 	
+SAMN06268462	2011-08-18 	not applicable 	USA: Twitchell Island, Sacramento and San Joaquin Delta, California	38.1070 N 121.6475 W	Twitchell Island, Sacramento and San Joaquin Delta, California, USA 	Environmental | Aquatic | Marine | Wetlands | Sediment 	
+SAMN06268466	2011-08-18 	not applicable 	USA: Twitchell Island, Sacramento and San Joaquin Delta, California	38.1075 N 121.6497 W	Twitchell Island, Sacramento and San Joaquin Delta, California, USA 	Environmental | Aquatic | Marine | Wetlands | Sediment 	
+SAMN06268466	2011-08-18 	not applicable 	USA: Twitchell Island, Sacramento and San Joaquin Delta, California	38.1075 N 121.6497 W	Twitchell Island, Sacramento and San Joaquin Delta, California, USA 	Environmental | Aquatic | Marine | Wetlands | Sediment 	
+SAMN06268369	2012-10-12 	not applicable 	USA:Yellowstone National Park, Wyoming, USA	44.611006 N 110.440182 W	Yellowstone National Park, Wyoming, USA 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Unclassified 	
+SAMN06267851	missing 	not applicable 	Canada: Calvert Island, British Columbia	51.62 N 128.09 W	Calvert Island, British Columbia, Canada 	Environmental | Aquatic | Freshwater | Wetlands | Bog 	
+SAMN06266261	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4971 N 122.1330 W	Pond R1 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN06266276	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4962 N 122.1329 W	Site R2A soil 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN06264478	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4960 N 122.1329 W	Site R2A soil 	Environmental | Terrestrial | Soil | Wetlands | Unclassified 	
+SAMN06267033	2012-08-12 	China:Jinze Hot Spring, China	25.4413 N 98.4600 E	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06267290	2015-08-05 	not applicable 	USA:Old Woman Creek National Estuarine Research Reserve, Ohio, USA	41.2239 N 82.3039 W	Temperate Freshwater Wetland sediment, Old Woman Creek National Estuarine Research Reserve, Ohio 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN06267291	2015-08-05 	not applicable 	USA:Old Woman Creek National Estuarine Research Reserve, Ohio, USA	41.2240 N 82.3040 W	Temperate Freshwater Wetland sediment, Old Woman Creek National Estuarine Research Reserve, Ohio 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN06267292	2015-08-05 	not applicable 	USA:Old Woman Creek National Estuarine Research Reserve, Ohio, USA	41.2240 N 82.3040 W	Temperate Freshwater Wetland sediment, Old Woman Creek National Estuarine Research Reserve, Ohio 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN06344037	missing 	not applicable 	USA: St. Louis River estuary	missing 	wetland sediment 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN06344039	missing 	not applicable 	USA: St. Louis River estuary	missing 	wetland sediment 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN06344040	missing 	not applicable 	USA: St. Louis River estuary	missing 	wetland sediment 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN06343853	2013-09-29 	not applicable 	Canada: Banff	51.1699 N 116.1578 W	iron-sulfur acid spring 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Acidic 	
+SAMN06343854	2012-09-26 	not applicable 	Canada: British Columbia	49.9543 N 116.5155 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06343855	2012-09-26 	not applicable 	Canada: British Columbia	49.9543 N 116.5155 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06343858	2010-09-15 	not applicable 	Canada: British Columbia	49.9543 N 116.5155 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06343859	2012-10-01 	not applicable 	Canada: British Columbia	60.1987 N 125.5127 W	hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN06894562	agricultural soil 	2015-09-24 	Germany: Rostock, Mecklenburg Western-Pomerania	54.061789 N 12.085367 E	M8_0 	
+SAMN06894563	agricultural soil 	2015-09-24 	Germany: Rostock, Mecklenburg Western-Pomerania	54.061789 N 12.085367 E	M9_0 	
+SAMN06894564	agricultural soil 	2015-09-24 	Germany: Rostock, Mecklenburg Western-Pomerania	54.061789 N 12.085367 E	M10_0 	
+SAMN06268946	2011-08-11 	not applicable 	USA:Elkhorn Slough, Monterey Bay, California, USA	36.83 N 121.785 W	Elkhorn Slough, Monterey Bay, California, USA 	Environmental | Aquatic | Marine | Intertidal zone | Estuary: Microbial mat 	
+SAMN06343757	2014-06-11 	not applicable 	USA: Utah	41.7655 N 111.8143 W	agricultural soil 	Environmental | Terrestrial | Soil | Agricultural land | Unclassified 	
+SAMN06343762	2011-05-01 	not applicable 	USA: Utah	41.7655 N 111.8143 W	Steer Manure compost 	Environmental | Terrestrial | Soil | Agricultural land | Unclassified 	
+SAMN06343763	2015-05-01 	not applicable 	USA: Utah	41.7655 N 111.8143 W	Steer Manure Compost 	Environmental | Terrestrial | Soil | Agricultural land | Unclassified 	
+SAMN05892929	2014-11 	41.382783 N 82.51465 W	plant surface 	USA: Ohio, Lake Erie, Old Woman Creek NERR	
+SAMN05892941	2014-11 	41.382783 N 82.51465 W	mud surface 	USA: Ohio, Lake Erie, Old Woman Creek NERR	
+SAMN05892948	2014-11 	41.382783 N 82.51465 W	open surface 	USA: Ohio, Lake Erie, Old Woman Creek NERR	
+SAMN05892986	2015-08 	41.382783 N 82.51465 W	plant surface 	USA: Ohio, Lake Erie, Old Woman Creek NERR	
+SAMN05893001	2015-08 	41.382783 N 82.51465 W	mud surface 	USA: Ohio, Lake Erie, Old Woman Creek NERR	
+SAMN05893009	2015-08 	41.382783 N 82.51465 W	open surface 	USA: Ohio, Lake Erie, Old Woman Creek NERR	
+SAMN07632879	missing 	not applicable 	USA: Michigan, St. Louis River estuary	46.6972164 N 92.3279105 W	wetland sediment 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN07631261	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Endophytes 	
+SAMN07631262	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Endophytes 	
+SAMN07631160	2014-07-11 	not applicable 	USA:South San Francisco, USA	37.4968 N 122.1333 W	Pond R1 water 	Environmental | Aquatic | Non-marine Saline and Alkaline | Saline | Unclassified 	
+SAMN07631159	2014-07-11 	USA: South San Francisco, California	37.4961 N 122.1331 W	pond R2 soil 	Environmental | Aquatic | Marine | Intertidal zone | Salt pond sediment 	
+SAMN07631263	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631267	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631268	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07630984	2014-11-04 	not applicable 	USA:Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN07631023	2014-05-12 	not applicable 	Greece:Kolumbo volcano, Aegean Sea	36.5275 N 25.4871 E	Water sample from inactive area of Kolumbo volcano 	Environmental | Aquatic | Marine | Volcanic | Unclassified 	
+SAMN06268774	2012-06-27 	not applicable 	USA:Berkeley, CA	37.86971 N 122.31414 W	Berkeley, Ca 	Engineered | Solid waste | Bio- and green waste (BGW) | Composting | Unclassified 	
+SAMN07630782	2016-07-20 	Canada: Waterloo, Ontario	43.4420 N 80.5770 W	leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+SAMN07630779	2016-07-20 	not applicable 	Canada: Ontario	43.4420 N 80.5770 W	aquifer 	Environmental | Aquatic | Deep subsurface | Groundwater | Unclassified 	
+SAMN07630780	2016-07-20 	not applicable 	Canada: Ontario	43.4420 N 80.5770 W	leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+SAMN07630777	2016-07-20 	Canada: Waterloo, Ontario	43.4420 N 80.5770 W	composite cistern 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+SAMN08498929	Post-aerobic bioreactor for old landfill leachate treatment using Dynamic membranes 60% leachate 	2016-07-02 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08498921	Post-aerobic bioreactor for old landfill leachate treatment using Dynamic membranes 20% leachate 	2016-04-16 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08517351	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	12 	Day 28 	
+SAMN08517350	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	11 	Day 28 	
+SAMN08517349	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	10 	Day 28 	
+SAMN08517348	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	9 	Day 21 	
+SAMN08517347	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	8 	Day 21 	
+SAMN08517346	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	7 	Day 21 	
+SAMN08517345	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	6 	Day 4 	
+SAMN08517344	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	5 	Day 4 	
+SAMN08517343	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	4 	Day 4 	
+SAMN08517342	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	3 	Day 0 	
+SAMN08517341	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	2 	Day 0 	
+SAMN08517340	chicken manure compost 	2015-12-17 	China:Nanjing	missing 	1 	Day 0 	
+SAMN06268775	2012-07-11 	not applicable 	USA:Emeryville, CA	37.840898 N 122.289614 W	Emeryville, CA 	Engineered | Solid waste | Bio- and green waste (BGW) | Composting | Unclassified 	
+SAMN08777186	2014-11-04 	Panicum virgatum 	USA: Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08777424	2016-04-07 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08776593	2016-05-19 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08776593	2016-05-19 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08777408	2016-05-19 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08776897	2016-06-16 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08776897	2016-06-16 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08939778	environmental 	2016-08-04 	Malaysia: Ulu Slim	3.89 N 101.49 E	
+SAMN08778463	2013-03-24 	USA: Great Boiling Springs, Gerlach, Nevada	40.6614 N 119.3661 W	top 1 cm of 60 C hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN08778269	2013-03-24 	USA: Great Boiling Springs, Gerlach, Nevada	40.6614 N 119.3661 W	top 1 cm of 70 C hot spring sediment 	Environmental | Aquatic | Thermal springs | Hot (42-90C) | Sediment 	
+SAMN08985428	anaerobic reactor a sampled at 59 days 	2016-05-30 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985419	continuosly aerated reactor b sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985415	continuosly aerated reactor a sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985418	continuosly aerated reactor b sampled at 104 days 	2016-07-14 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985414	continuosly aerated reactor a sampled at 104 days 	2016-07-14 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985420	intermittently aerated reactor a sampled at 59 days 	2016-05-30 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985421	intermittently aerated reactor a sampled at 84 days 	2016-06-24 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985417	continuosly aerated reactor b sampled at 84 days 	2016-06-24 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985426	intermittently aerated reactor b sampled at 104 days 	2016-07-14 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985431	anaerobic reactor b sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985413	continuosly aerated reactor a sampled at 84 days 	2016-06-24 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985427	intermittently aerated reactor b sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985429	anaerobic reactor a sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985422	intermittently aerated reactor a sampled at 104 days 	2016-07-14 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985423	intermittently aerated reactor a sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN08985425	intermittently aerated reactor b sampled at 84 days 	2016-06-24 	Italy: Padova	45.386549 N 11.910840 E	
+SAMN09401598	Leachate pond 	2015-06-15 	Jamaica: Riverton City dump	18.01052 N 76.85667 W	Antibiotic, biocide, and metal resistance in microbial communities inhabiting a municipal waste environment and adjacent river near Kingston, Jamaica	Sterile scoop 	Filtration, centrifugation - MoBio powersoil and powerwater DNA extraction 	118 mL 	Leachate 	
+SAMN09580624	Hot spring_55deg. 	2015-11-28 	India:Chattisgarh	23.69 N 83.68 E	
+SAMN09202573	2012-12-01 	not applicable 	USA: North Carolina	35.9061 N 76.1569 W	Wetland sediment 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN09200420	2012-12-01 	not applicable 	USA: North Carolina	35.9061 N 76.1569 W	Wetland sediment 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN09202730	2012-12-01 	not applicable 	USA: North Carolina	35.9061 N 76.1569 W	Wetland sediment 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN09202575	2012-07-26 	not applicable 	USA: North Carolina	35.9061 N 76.1569 W	Wetland sediment 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN09200276	2012-07-26 	not applicable 	USA: North Carolina	35.9061 N 76.1569 W	Wetland sediment 	Environmental | Aquatic | Freshwater | Wetlands | Sediment 	
+SAMN09914232	not applicable 	injected sample of the well 7151 in oil reservoir 	2017-07-15 	China: shenyang, Liaoning	not collected 	
+SAMN09914235	not applicable 	produced sample of the well 6111_W in oil reservoir 	2017-07-16 	China: shenyang, Liaoning	not collected 	
+SAMN09932808	compost soil in an enriched community after 118 h of incubation 	2016-01-27 	Germany: Experimental Botanical Garden Goettingen	51.556278 N 9.95450000 E	aerobe 	100 g compost soil were solved in 500 ml H2O and susbsequently filtered with a 2.7 micrometer filter. 	100 g 	garden 	soil 	
+SAMN09932785	compost soil in an enriched community after 68 h of incubation 	2016-01-27 	Germany: Experimental Botanical Garden Goettingen	51.556278 N 9.95450000 E	aerobe 	100 g compost soil were solved in 500 ml H2O and susbsequently filtered with a 2.7 micrometer filter. 	100 g 	garden 	soil 	
+SAMN09932745	compost soil in acetic acid-enriched culture 	2016-01-27 	Germany: Experimental Botanical Garden Goettingen	51.556278 N 9.95450000 E	aerobe 	100 g compost soil were solved in 500 ml H2O and susbsequently filtered with a 2.7 micrometer filter. 	100 g 	garden 	soil 	
+SAMN09932597	compost soil in acetonitrile-enriched culture 	2016-01-27 	Germany: Experimental Botanical Garden Goettingen	51.556278 N 9.95450000 E	aerobe 	100 g compost soil were solved in 500 ml H2O and susbsequently filtered with a 2.7 micrometer filter. 	100 g 	garden 	soil 	
+SAMN09932763	unfiltered compost soil 	2016-01-27 	Germany: Experimental Botanical Garden Goettingen	51.556278 N 9.95450000 E	aerobe 	100 g 	garden 	soil 	
+SAMN09932764	filtered compost soil 	2016-01-27 	Germany: Experimental Botanical Garden Goettingen	51.556278 N 9.95450000 E	aerobe 	100 g compost soil were solved in 500 ml H2O and susbsequently filtered with a 2.7 micrometer filter. 	100 g 	garden 	soil 	
+SAMN09932757	compost soil in 4-hydroxybenzoic acid-enriched culture 	2016-01-27 	Germany: Experimental Botanical Garden Goettingen	51.556278 N 9.95450000 E	aerobe 	100 g compost soil were solved in 500 ml H2O and susbsequently filtered with a 2.7 micrometer filter. 	100 g 	garden 	soil 	
+SAMN10130911	Sediments sample of Tretyakovsky Hot Spring (Northern Group) 	2017-08-17 	Russia:Kunashir Island	43.988333 N 145.651389 E	
+SAMN08779672	2014-11-04 	Panicum virgatum 	USA: Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779575	2014-11-04 	Panicum virgatum 	USA: Austin, Texas	30.3870 N 97.7301 W	Switchgrass 	Host-associated | Plants | Phyllosphere | Phylloplane/Leaf | Unclassified 	
+SAMN08779502	2016-04-07 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	backyard soil 	Environmental | Terrestrial | Soil | Unclassified | Unclassified 	
+SAMN08779503	2016-04-07 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08779552	2016-05-19 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08779504	2016-05-19 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08779505	2016-05-19 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08779508	2016-05-19 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN08779509	2016-06-16 	not applicable 	USA: Emeryville, California	37.8300 N 122.2900 W	enriched commercial compost 	Engineered | Solid waste | Mixed feedstock | Composting | Commercial compost 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN10334111	not available 	2015 	Taiwan: Taiwan Agricultural Research Institute	paddy soil with long-term application of organic fertilizer 	not collected 	
+SAMN09092693	2013-10-30 	41.3840 N 82.5130 W	freshwater wetlands 	USA: Ohio, Lake Erie, Old Woman Creek NERR	Environmental | Aquatic | Freshwater | Wetlands | Unclassified 	
+SAMN09092693	2013-10-30 	41.3840 N 82.5130 W	freshwater wetlands 	USA: Ohio, Lake Erie, Old Woman Creek NERR	Environmental | Aquatic | Freshwater | Wetlands | Unclassified 	
+SAMN10659871	Sea water 	2016-06-01 	USA: Santa Monica	34.10 N 118.29 W	
+SAMN10350574	2017-10-17 	not applicable 	Canada: Waterloo, Ontario	43.442 N 80.577 W	Landfill leachate from leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+SAMN10350766	2017-10-17 	not applicable 	Canada: Waterloo, Ontario	43.442 N 80.577 W	Landfill leachate from composite cistern 	Environmental | Aquatic | Deep subsurface | Groundwater | Unclassified 	
+SAMN10863920	2017-10-17 	not applicable 	Canada: Waterloo, Ontario	43.442 N 80.577 W	Landfill leachate from leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+SAMN11536904	hot spring wet sediment 	2014-01 	Spain: Lobios	42.53 N 8.30 W	collected from a borehole into sterile container 	400 grams 	
+SAMN11909971	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	100% Slag Leachate-Replicate 3 	
+SAMN11909968	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	60% Slag Leachate-Replicate 3 	
+SAMN11909970	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	100% Slag Leachate-Replicate 2 	
+SAMN11909967	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	60% Slag Leachate-Replicate 2 	
+SAMN11909966	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	60% Slag Leachate-Replicate 1 	
+SAMN11909965	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	20% Slag Leachate-Replicate 3 	
+SAMN11909964	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	20% Slag Leachate-Replicate 2 	
+SAMN11909963	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	20% Slag Leachate-Replicate 1 	
+SAMN11909962	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	5% Slag Leachate-Replicate 3 	
+SAMN11909961	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	5% Slag Leachate-Replicate 2 	
+SAMN11909960	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	5% Slag Leachate-Replicate 1 	
+SAMN11909959	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	0% Slag Leachate-Replicate 3 	
+SAMN11909958	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	0% Slag Leachate-Replicate 2 	
+SAMN11909957	not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	0% Slag Leachate-Replicate 1 	
+SAMN12070232	hospital 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070230	Grocery 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070228	Finished Compost 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070229	Finished Compost 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070226	Egg Wash 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070227	Egg Wash 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070224	Egg Shell 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070225	Egg Shell 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070238	Raw Compost 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070239	Raw Compost 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070236	Raw Food Scraps bin 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070237	Raw Food Scraps bin 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070234	Nursing Home 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070235	Nursing Home 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070242	Sifted Worm Castings 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070243	Sifted Worm Castings 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070245	Top Worm Castings 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070244	Top Worm Castings 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070249	Worm Castings 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070248	Worm Castings 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070247	Unfinished Compost 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12070246	Unfinished Compost 	2017-02-17 	USA:Vermont,Greensboro	44.58 N 72.32 W	
+SAMN12233259	not applicable 	wetland soil 	2017-12-25 	China:Shandong province	37.816 N 119.111 E	C 	
+SAMN12282989	wetland soil 	2013-09-13 	China: Qiao	22.44 N 113.63 E	
+SAMN12282993	wetland soil 	2013-07-22 	China: Qinghaihu	37.03 N 99.75 E	
+SAMN12282982	wetland soil 	2013-07-03 	China: Heilongtan	30.04 N 104.03 E	
+SAMN12282981	wetland soil 	2013-06-22 	China: Sanchahu	30.29 N 104.29 E	
+SAMN12282984	wetland soil 	2013-06-29 	China: Changshouhu	29.91 N 107.24 E	
+SAMN12282983	wetland soil 	2013-06-30 	China: Honghu	30 N 106.96 E	
+SAMN12282986	wetland soil 	2013-10-03 	China: Caohai	26.86 N 104.25 E	
+SAMN12282985	wetland soil 	2013-09-11 	China: Poyanghu	29.44 N 116.02 E	
+SAMN12282987	wetland soil 	2013-10-02 	China: Dianchi	24.88 N 102.66 E	
+SAMN12282992	wetland soil 	2013-07-21 	China: Kelukehu	37.3 N 96.86 E	
+SAMN12282997	wetland soil 	2013-09-23 	China: Ganzi	31.6 N 100 E	
+SAMN12283003	wetland soil 	2013-09-30 	China: Luguhu	27.7 N 100.86 E	
+SAMN12283002	wetland soil 	2013-07-12 	China: Yanghu	29.19 N 90.59 E	
+SAMN12283001	wetland soil 	2013-09-26 	China: Haizishan	29.4 N 100.1 E	
+SAMN12282998	wetland soil 	2013-07-15 	China: Naqu	31.28 N 92.1 E	
+SAMN12282995	wetland soil 	2013-07-19 	China: Geermu	36.43 N 94.86 E	
+SAMN12282996	wetland soil 	2013-07-07 	China: Ruoergai	33.92 N 102.81 E	
+SAMN12282994	wetland soil 	2013-07-22 	China: Haiyan	36.88 N 101.02 E	
+SAMN12282999	wetland soil 	2013-07-14 	China: Dangxiong	30.48 N 91.1 E	
+SAMN12283000	wetland soil 	2013-07-12 	China: Lalushidi	29.67 N 91.1 E	
+SAMN12282979	wetland soil 	2013-09-08 	China: Taihu	31.21 N 120.4 E	
+SAMN12282980	wetland soil 	2013-06-25 	China: Peijiang	30.88 N 105.39 E	
+SAMN12282975	wetland soil 	2013-09-04 	China: Dongying	37.76 N 119.15 E	
+SAMN12282976	wetland soil 	2013-07-24 	China: Lanzhou	36.09 N 103.71 E	
+SAMN12282977	wetland soil 	2013-09-06 	China: Hongzehu	33.23 N 118.33 E	
+SAMN12282978	wetland soil 	2013-09-09 	China: Chaohu	31.71 N 117.33 E	
+SAMN12282971	wetland soil 	2013-08-20 	China: Panjin	40.9 N 121.83 E	
+SAMN12282973	wetland soil 	2013-09-02 	China: Baiyangdian	38.96 N 115.95 E	
+SAMN12282974	wetland soil 	2013-08-23 	China: Yinchuan	38.56 N 106.19 E	
+SAMN12282969	wetland soil 	2013-08-19 	China: Xianghai	45.07 N 122.31 E	
+SAMN12282970	wetland soil 	2013-08-30 	China: Xilinhaote	43.62 N 116.71 E	
+SAMN12282962	wetland soil 	2013-08-16 	China: Hulunhu	49.32 N 117.67 E	
+SAMN12282963	wetland soil 	2013-08-09 	China: Fuyuan	48.26 N 134.66 E	
+SAMN12282964	wetland soil 	2013-08-18 	China: Zalong	47.19 N 124.22 E	
+SAMN12282965	wetland soil 	2013-08-08 	China: Jiamusi	46.83 N 130.31 E	
+SAMN12282966	wetland soil 	2013-08-15 	China: Daqing	46.53 N 125.19 E	
+SAMN12282967	wetland soil 	2013-08-07 	China: Harbin	45.78 N 126.55 E	
+SAMN12282968	wetland soil 	2013-08-12 	China: Xingkaihu	45.36 N 132.32 E	

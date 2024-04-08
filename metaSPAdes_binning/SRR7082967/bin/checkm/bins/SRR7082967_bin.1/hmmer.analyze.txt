@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_51_length_56000_cov_2.068513_77 -            100 Ribosomal_L22        PF00237.14   105   0.00041   14.7   0.0   1   1   2.4e-06   0.00068   14.0   0.0    17    39    13    35     6    42 0.92 # 46014 # 46313 # 1 # ID=3_77;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.393
+NODE_46_length_58266_cov_2.628047_26 -            370 tRNA_bind            PF01588.15    95   0.00022   15.4   0.2   1   1   6.7e-06    0.0019   12.4   0.2     2    85     7   106     6   113 0.69 # 17127 # 18236 # -1 # ID=2_26;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.413
+NODE_51_length_56000_cov_2.068513_35 -            122 TIGR00967            TIGR00967    414    0.0019   11.2   0.0   1   1   6.6e-06    0.0019   11.2   0.0   100   159    11    65     2   102 0.85 # 18309 # 18674 # 1 # ID=3_35;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.451
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/cf8a59d2-78d5-467c-8d46-2aabbca1f623
+# Target file:     ./checkm/bins/SRR7082967_bin.1/genes.faa
+# Option settings: hmmsearch --domtblout ./checkm/bins/SRR7082967_bin.1/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 4 /tmp/cf8a59d2-78d5-467c-8d46-2aabbca1f623 ./checkm/bins/SRR7082967_bin.1/genes.faa 
+# Current dir:     /data_1/yzr_data/MetaSpades/OUT/SRR7082967_1e5/bin
+# Date:            Sat Jun  3 20:04:29 2023
+# [ok]

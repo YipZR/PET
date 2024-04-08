@@ -1,0 +1,204 @@
+landfill 	2022-07 	China:Taizhou	missing 	Y10.3 	
+landfill 	2022-07 	China:Taizhou	missing 	Y10.2 	
+landfill 	2022-07 	China:Taizhou	missing 	Y10.1 	
+landfill 	2022-07 	China:Taizhou	missing 	Y5.3 	
+landfill 	2022-07 	China:Taizhou	missing 	Y5.2 	
+landfill 	2022-07 	China:Taizhou	missing 	Y5.1 	
+landfill 	2022-07 	China:Taizhou	missing 	Y0.3 	
+landfill 	2022-07 	China:Taizhou	missing 	Y0.2 	
+landfill 	2022-07 	China:Taizhou	missing 	Y0.1 	
+2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from composite leachate cistern CSWMC 	NEUS landfill leachate from composite leachate cistern CSWMC 	
+2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well F2 	NEUS landfill leachate from well F2 	
+2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well F1 	NEUS landfill leachate from well F1 	
+2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well E 	NEUS landfill leachate from well E 	
+2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well D2 	NEUS landfill leachate from well D2 	
+2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well D1 	NEUS landfill leachate from well D1 	
+2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well C 	NEUS landfill leachate from well C 	
+2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well B 	NEUS landfill leachate from well B 	
+2019-02-12 	3 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] 	USA	38.96 N 75.67 W	0.22 micron sterivex filter 	DNA extraction with Qiagen Powersoil kit, Illumina HiSeq sequencing PE 150 bp 	0.22 micron 	NEUS landfill leachate from well A 	NEUS landfill leachate from well A 	
+Landfill Soil 	2022-09-23 	India:Guwahati	26.11 N 91.44 E	
+Landfill Soil 	2022-09-23 	India:Guwahati	26.11 N 91.44 E	
+not applicable 	ozonated landfill leachate 	2021-12-20 	China:qingdao	36 N 120 E	
+not applicable 	a landfill leachate treatment plant 	2021-12-10 	China:Qingdao	35.35 N 119.30 E	
+missing 	reactor sample 	2022-03-25 	missing 	missing 	
+missing 	reactor sample 	2022-03-24 	missing 	missing 	
+missing 	reactor sample 	2022-03-23 	missing 	missing 	
+missing 	reactor sample 	2022-03-22 	missing 	missing 	
+missing 	reactor sample 	2022-03-21 	missing 	missing 	
+missing 	reactor sample 	2022-03-20 	missing 	missing 	
+2017-10 	5 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] | anthropogenic environmental material [ENVO:0010001] 	Canada: Waterloo	43.44 N 80.58 W	LW1 	
+2017-10 	5 m 	landfill [ENVO:00000533] 	landfill [ENVO:00000533] 	leachate [ENVO:00002141] | anthropogenic environmental material [ENVO:0010001] 	Canada: Waterloo	43.44 N 80.58 W	LW3 	
+2017-10 	5 m 	water well [ENVO:01000002] 	water well [ENVO:01000002] 	groundwater [ENVO:01001004] 	Canada: Waterloo	43.44 N 80.58 W	GW1 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Plant 	soil sample 	2021-05-08 	missing 	missing 	
+Environment 	compost 	2018-09-18 	India: Gujarat	22.9828 N 72.5650 E	
+Environment 	Leachate 	2018-09-18 	India: Gujarat	22.9828 N 72.5650 E	
+Environment 	soil sample 	2018-09-18 	India: Gujarat	22.9828 N 72.5650 E	
+Environment 	soil sample 	2018-09-18 	India: Gujarat	22.9828 N 72.5650 E	
+Environment 	Leachate 	2018-05-11 	India: Gujarat	22.9828 N 72.5650 E	
+Environment 	soil sample 	2018-05-11 	India: Gujarat	22.9828 N 72.5650 E	
+Environment 	soil sample 	2018-05-11 	India: Gujarat	22.9828 N 72.5650 E	
+Environment 	soil sample 	2018-05-11 	India: Gujarat	22.9828 N 72.5650 E	
+Environment 	Leachate 	2018-05-11 	India: Gujarat	22.9828 N 72.5650 E	
+Environment 	soil sample 	2018-05-11 	India: Gujarat	22.9828 N 72.5650 E	
+2012-06 	1 m 	531 m 	anthropogenic terrestrial biome 	landfill 	contaminated soil 	Czech Republic: Lhenice, South Bohemia	48.99 N 14.16 E	metagenome 	
+Environment 	PM2.5 	2019-11-25 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+Environment 	PM2.5 	2019-11-20 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+Environment 	PM2.5 	2019-11-10 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+Environment 	PM2.5 	2019-10-18 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+Environment 	PM2.5 	2019-10-11 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+Environment 	PM2.5 	2019-10-08 	China: Shanghai	30.40 N 120.51 E	fine particulate	air 	
+2018-07-14 	freshwater lake biome [ENVO:01000252] 	freshwater ice [ENVO:01001511]|suspended sediment [ENVO:01000113]|landfill [ENVO:00000533] 	freshwater [ENVO:00002011] 	Canada: outlet of Finger Lake in Baker Lake, NU	64.32796 N 95.98515 W	biological sample 	9.64 	0.22 micrometer Sterivex-GV Pressure Filter Unit 	PowerSoil DNA Isolation Kit 	0.08 	17.4 ¡C 	replicate 2 	
+2018-07-14 	freshwater lake biome [ENVO:01000252] 	freshwater ice [ENVO:01001511]|suspended sediment [ENVO:01000113]|landfill [ENVO:00000533] 	freshwater [ENVO:00002011] 	Canada: outlet of Finger Lake in Baker Lake, NU	64.32796 N 95.98515 W	biological sample 	9.64 	0.22 micrometer Sterivex-GV Pressure Filter Unit 	PowerSoil DNA Isolation Kit 	0.08 	17.4 ¡C 	replicate 1 	
+2018-07-23 	freshwater lake biome [ENVO:01000252] 	suspended sediment [ENVO:01000113]|landfill [ENVO:00000533] 	freshwater [ENVO:00002011] 	Canada: outlet of Finger Lake in Baker Lake, NU	64.32796 N 95.98515 W	biological sample 	9.13 	0.22 micrometer Sterivex-GV Pressure Filter Unit 	PowerSoil DNA Isolation Kit 	0.11 	15.1 ¡C 	replicate 2 	
+2018-07-23 	freshwater lake biome [ENVO:01000252] 	suspended sediment [ENVO:01000113]|landfill [ENVO:00000533] 	freshwater [ENVO:00002011] 	Canada: outlet of Finger Lake in Baker Lake, NU	64.32796 N 95.98515 W	biological sample 	9.13 	0.22 micrometer Sterivex-GV Pressure Filter Unit 	PowerSoil DNA Isolation Kit 	0.11 	15.1 ¡C 	replicate 1 	
+Soil with 5% biochar replicate 5 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil with 5% biochar replicate 4 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil with 5% biochar replicate 3 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil with 5% biochar replicate 2 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil with 5% biochar replicate 1 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil without biochar replicate 5 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil without biochar replicate 4 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil without biochar replicate 3 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil with 10% biochar replicate 5 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil with 10% biochar replicate 4 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil with 10% biochar replicate 3 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil with 10% biochar replicate 2 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil with 10% biochar replicate 1 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil without biochar replicate 2 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+Soil without biochar replicate 1 	2018-12 	China: landfill cover	22.48 N 113.57 E	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	0% Slag Leachate-Replicate 1 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	100% Slag Leachate-Replicate 3 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	11% Slag Leachate-Replicate 1 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	60% Slag Leachate-Replicate 3 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	100% Slag Leachate-Replicate 2 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	25% Slag Leachate-Replicate 1 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	11% Slag Leachate-Replicate 3 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	60% Slag Leachate-Replicate 2 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	25% Slag Leachate-Replicate 2 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	25% Slag Leachate-Replicate 3 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	100% Slag Leachate-Replicate 1 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	100% Slag Leachate-Replicate 2 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	100% Slag Leachate-Replicate 3 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	60% Slag Leachate-Replicate 1 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	20% Slag Leachate-Replicate 3 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	20% Slag Leachate-Replicate 2 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	20% Slag Leachate-Replicate 1 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	5% Slag Leachate-Replicate 3 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	5% Slag Leachate-Replicate 2 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	5% Slag Leachate-Replicate 1 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	0% Slag Leachate-Replicate 3 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	0% Slag Leachate-Replicate 2 	
+not applicable 	landfill soil 	2017-09-22 	USA:Zion Landfill, Zion, Illinois	Not Recorded 	Shovel 	0% Slag Leachate-Replicate 1 	
+not applicable 	activated sludge 	2016-09-28 	China:Guangzhou	not collected 	
+not applicable 	activated sludge 	2016-10-17 	China:Guangzhou	not collected 	
+not applicable 	activated sludge 	2016-11-16 	China:Guangzhou	not collected 	
+not applicable 	activated sludge 	2017-06-14 	China:Guangzhou	not collected 	
+not applicable 	activated sludge 	2017-07-14 	China:Guangzhou	not collected 	
+not applicable 	activated sludge 	2017-08-15 	China:Guangzhou	not collected 	
+2017-10-17 	not applicable 	Canada: Waterloo, Ontario	43.442 N 80.577 W	Landfill leachate from leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+2017-10-17 	not applicable 	Canada: Waterloo, Ontario	43.442 N 80.577 W	Landfill leachate from composite cistern 	Environmental | Aquatic | Deep subsurface | Groundwater | Unclassified 	
+2017-10-17 	Canada: Waterloo, Ontario	43.442 N 80.577 W	Biofilm from landfill methane capture system 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+2017-10-17 	not applicable 	Canada: Waterloo, Ontario	43.442 N 80.577 W	Landfill leachate from composite cistern 	Environmental | Aquatic | Deep subsurface | Groundwater | Unclassified 	
+2017-10-17 	not applicable 	Canada: Waterloo, Ontario	43.442 N 80.577 W	Landfill leachate from leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+2017-10-17 	not applicable 	Canada: Waterloo, Ontario	43.442 N 80.577 W	Landfill leachate from leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+not applicable 	activated sludge 	2014-07-28 	China:Shenzhen	not collected 	
+not applicable 	activated sludge 	2014-12-01 	China:Shenzhen	not collected 	
+Leachate pond 	2015-06-15 	Jamaica: Riverton City dump	18.01052 N 76.85667 W	Antibiotic, biocide, and metal resistance in microbial communities inhabiting a municipal waste environment and adjacent river near Kingston, Jamaica	Sterile scoop 	Filtration, centrifugation - MoBio powersoil and powerwater DNA extraction 	118 mL 	Leachate 	
+anaerobic reactor a sampled at 59 days 	2016-05-30 	Italy: Padova	45.386549 N 11.910840 E	
+continuosly aerated reactor b sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+continuosly aerated reactor a sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+continuosly aerated reactor b sampled at 104 days 	2016-07-14 	Italy: Padova	45.386549 N 11.910840 E	
+anaerobic reactor b sampled at 59 days 	2016-05-30 	Italy: Padova	45.386549 N 11.910840 E	
+continuosly aerated reactor b sampled at 59 days 	2016-05-30 	Italy: Padova	45.386549 N 11.910840 E	
+continuosly aerated reactor a sampled at 104 days 	2016-07-14 	Italy: Padova	45.386549 N 11.910840 E	
+intermittently aerated reactor a sampled at 59 days 	2016-05-30 	Italy: Padova	45.386549 N 11.910840 E	
+intermittently aerated reactor a sampled at 84 days 	2016-06-24 	Italy: Padova	45.386549 N 11.910840 E	
+continuosly aerated reactor b sampled at 84 days 	2016-06-24 	Italy: Padova	45.386549 N 11.910840 E	
+intermittently aerated reactor b sampled at 104 days 	2016-07-14 	Italy: Padova	45.386549 N 11.910840 E	
+anaerobic reactor b sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+continuosly aerated reactor a sampled at 59 days 	2016-05-30 	Italy: Padova	45.386549 N 11.910840 E	
+continuosly aerated reactor a sampled at 84 days 	2016-06-24 	Italy: Padova	45.386549 N 11.910840 E	
+intermittently aerated reactor b sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+anaerobic reactor a sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+intermittently aerated reactor a sampled at 104 days 	2016-07-14 	Italy: Padova	45.386549 N 11.910840 E	
+intermittently aerated reactor a sampled at 116 days 	2016-07-26 	Italy: Padova	45.386549 N 11.910840 E	
+intermittently aerated reactor b sampled at 59 days 	2016-05-30 	Italy: Padova	45.386549 N 11.910840 E	
+intermittently aerated reactor b sampled at 84 days 	2016-06-24 	Italy: Padova	45.386549 N 11.910840 E	
+Post-aerobic bioreactor for old landfill leachate treatment using Dynamic membranes 60% leachate 	2016-07-02 	Italy: Padova	45.386549 N 11.910840 E	
+Post-aerobic bioreactor for old landfill leachate treatment using Dynamic membranes 50% leachate 	2016-06-09 	Italy: Padova	45.386549 N 11.910840 E	
+Pre-anoxic bioreactor for old landfill leachate treatment using Dynamic membranes 60% leachate 	2016-07-02 	Italy: Padova	45.386549 N 11.910840 E	
+Post-aerobic bioreactor for old landfill leachate treatment using Dynamic membranes 40% leachate 	2016-05-18 	Italy: Padova	45.386549 N 11.910840 E	
+Pre-anoxic bioreactor for old landfill leachate treatment using Dynamic membranes 50% leachate 	2016-06-09 	Italy: Padova	45.386549 N 11.910840 E	
+Post-aerobic bioreactor for old landfill leachate treatment using Dynamic membranes 30% leachate 	2016-05-03 	Italy: Padova	45.386549 N 11.910840 E	
+Pre-anoxic bioreactor for old landfill leachate treatment using Dynamic membranes 40% leachate 	2016-05-18 	Italy: Padova	45.386549 N 11.910840 E	
+Post-aerobic bioreactor for old landfill leachate treatment using Dynamic membranes 20% leachate 	2016-04-16 	Italy: Padova	45.386549 N 11.910840 E	
+Pre-anoxic bioreactor for old landfill leachate treatment using Dynamic membranes 30% leachate 	2016-05-03 	Italy: Padova	45.386549 N 11.910840 E	
+Coventional activated sludge 	2016-04-12 	Italy: Padova	45.386549 N 11.910840 E	
+Pre-anoxic bioreactor for old landfill leachate treatment using Dynamic membranes 20% leachate 	2016-04-16 	Italy: Padova	45.386549 N 11.910840 E	
+2016-07-20 	Canada: Waterloo, Ontario	43.4420 N 80.5770 W	composite cistern 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+2016-07-20 	Canada: Waterloo, Ontario	43.4420 N 80.5770 W	leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+2016-07-20 	not applicable 	Canada: Ontario	43.4420 N 80.5770 W	leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+2016-07-20 	not applicable 	Canada: Ontario	43.4420 N 80.5770 W	aquifer 	Environmental | Aquatic | Deep subsurface | Groundwater | Unclassified 	
+2016-07-20 	Canada: Waterloo, Ontario	43.4420 N 80.5770 W	leachate well 	Engineered | Solid waste | Landfill | Unclassified | Unclassified 	
+2016-07-14 	Canada: Waterloo, Ontario	43.4420 N 80.5770 W	aquifer 	Environmental | Aquatic | Deep subsurface | Groundwater | Unclassified 	
+2012-06-01 	1 	anthropogenic terrestrial biome 	landfill 	contaminated soil 	Czech Republic	metagenome 	Rhizosphere 	NigF 	2016-04-07 	2016-10-21 	ERC000022 	SAMEA3914728 	Institute of Molecular Genetics of the ASCR 	Institute of Molecular Genetics of the ASCR 	2016-04-07T17:01:19Z 	2016-10-21T09:34:25Z 	public 	NigF 	531 	48.99 	14.16 	pyrosequencing 	soil 	
+2012-06-01 	1 	anthropogenic terrestrial biome 	landfill 	contaminated soil 	Czech Republic	metagenome 	Rhizosphere 	TobF 	2016-04-07 	2016-10-21 	ERC000022 	SAMEA3914727 	Institute of Molecular Genetics of the ASCR 	Institute of Molecular Genetics of the ASCR 	2016-04-07T17:01:19Z 	2016-10-21T09:34:25Z 	public 	TobF 	531 	48.99 	14.16 	pyrosequencing 	soil 	
+2012-06-01 	1 	anthropogenic terrestrial biome 	landfill 	contaminated soil 	Czech Republic	metagenome 	Rhizosphere 	CtrlF 	2016-04-07 	2016-10-21 	ERC000022 	SAMEA3914726 	Institute of Molecular Genetics of the ASCR 	Institute of Molecular Genetics of the ASCR 	2016-04-07T17:01:19Z 	2016-10-21T09:34:25Z 	public 	CtrlF 	531 	48.99 	14.16 	pyrosequencing 	soil 	
+2012-06-01 	1 	anthropogenic terrestrial biome 	landfill 	contaminated soil 	Czech Republic	metagenome 	Rhizosphere 	HorF 	2016-04-07 	2016-10-21 	ERC000022 	SAMEA3914725 	Institute of Molecular Genetics of the ASCR 	Institute of Molecular Genetics of the ASCR 	2016-04-07T17:01:19Z 	2016-10-21T09:34:25Z 	public 	HorF 	531 	48.99 	14.16 	pyrosequencing 	soil 	
+2012-06-01 	1 	anthropogenic terrestrial biome 	landfill 	contaminated soil 	Czech Republic	metagenome 	Rhizosphere 	Ctrl 	2016-04-07 	2016-10-21 	ERC000022 	SAMEA3914724 	Institute of Molecular Genetics of the ASCR 	Institute of Molecular Genetics of the ASCR 	2016-04-07T17:01:19Z 	2016-10-21T09:34:25Z 	public 	Ctrl 	531 	48.99 	14.16 	pyrosequencing 	soil 	
+2012-06-01 	1 	anthropogenic terrestrial biome 	landfill 	contaminated soil 	Czech Republic	metagenome 	Rhizosphere 	Nig 	2016-04-07 	2016-10-21 	ERC000022 	SAMEA3914723 	Institute of Molecular Genetics of the ASCR 	Institute of Molecular Genetics of the ASCR 	2016-04-07T17:01:19Z 	2016-10-21T09:34:25Z 	public 	Nig 	531 	48.99 	14.16 	pyrosequencing 	soil 	
+2012-06-01 	1 	anthropogenic terrestrial biome 	landfill 	contaminated soil 	Czech Republic	metagenome 	Rhizosphere 	Tob 	2016-04-07 	2016-10-21 	ERC000022 	SAMEA3914651 	Institute of Molecular Genetics of the ASCR 	Institute of Molecular Genetics of the ASCR 	2016-04-07T17:01:19Z 	2016-10-21T09:34:24Z 	public 	Tob 	531 	48.99 	14.16 	pyrosequencing 	soil 	
+2012-06-01 	1 	anthropogenic terrestrial biome 	landfill 	contaminated soil 	Czech Republic	metagenome 	Rhizosphere 	Hor 	2016-04-07 	2016-10-21 	ERC000022 	SAMEA3914649 	Institute of Molecular Genetics of the ASCR 	Institute of Molecular Genetics of the ASCR 	2016-04-07T17:01:19Z 	2016-10-21T09:34:24Z 	public 	Hor 	531 	48.99 	14.16 	pyrosequencing 	soil 	
+landfill aerobic conditions 6 	2021-07-05 	Italy: Padua	45.4095683 N 11.8765886 E	
+landfill aerobic conditions 2 	2021-07-05 	Italy: Padua	45.4095683 N 11.8765886 E	
+landfill aerobic conditions 7 	2021-07-05 	Italy: Padua	45.4095683 N 11.8765886 E	
+landfill aerobic conditions 6 	2021-07-05 	Italy: Padua	45.4095683 N 11.8765886 E	
+landfill aerobic conditions 3 	2021-07-05 	Italy: Padua	45.4095683 N 11.8765886 E	
+landfill aerobic conditions 2 	2021-07-05 	Italy: Padua	45.4095683 N 11.8765886 E	
+landfill solid waste inoculated with endophyte fungus Paravalsa indica 	2017-11-05 	India:New Delhi, Okhla landfill site	28.5626 N 77.2914 E	manual, composite sample 	2 	
+landfill solid waste 	2017-11-05 	India:New Delhi, Okhla landfill site	28.5626 N 77.2914 E	manual, composite sample 	1 	
+Landfill 	2007-03 	United Kingdom: Bromborough Dock	53.34 N 2.97 W	
+Refuse11 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5447 E	
+Refuse9 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5445 E	
+Refuse10 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5446 E	
+Refuse2 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5438 E	
+Refuse13 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5449 E	
+Refuse14 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5450 E	
+Refuse1 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5437 E	
+Refuse12 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5448 E	
+Refuse7 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5443 E	
+Refuse8 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5444 E	
+Refuse15 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5451 E	
+Refuse6 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5442 E	
+Refuse3 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5439 E	
+Refuse5 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5441 E	
+Refuse4 	not collected 	2012-11-15 	China:Beijing	39.8122 N 116.5440 E	
